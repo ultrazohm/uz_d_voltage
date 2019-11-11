@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Eurocard.PcbDoc]
+   Generated File[Eurocard.TXT]
+   Generated File[Eurocard.LDP]
+   Generated File[Eurocard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:46:31 On 17.09.2019

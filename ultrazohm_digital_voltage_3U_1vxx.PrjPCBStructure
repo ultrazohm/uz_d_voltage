@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=TopSheet.SchDoc
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=File Name|SymbolType=Normal|RawFileName=File Name|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=PS1|SchDesignator=PS1|FileName=File Name|SymbolType=Normal|RawFileName=File Name|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=X1|SchDesignator=X1|FileName=Digital_CarrierPlug.SchDoc|SymbolType=Device Sheet|RawFileName=Digital_CarrierPlug|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

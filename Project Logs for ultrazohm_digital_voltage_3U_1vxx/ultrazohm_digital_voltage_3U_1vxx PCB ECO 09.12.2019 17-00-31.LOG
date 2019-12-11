@@ -1,0 +1,89 @@
+Added Pin To Net: NetName=1A1 Pin=U1-47
+Added Net: Name=1A1
+Added Pin To Net: NetName=1A2 Pin=U1-46
+Added Net: Name=1A2
+Added Pin To Net: NetName=1A3 Pin=U1-44
+Added Net: Name=1A3
+Added Pin To Net: NetName=1A4 Pin=U1-43
+Added Net: Name=1A4
+Added Pin To Net: NetName=1A5 Pin=U1-41
+Added Net: Name=1A5
+Added Pin To Net: NetName=1A6 Pin=U1-40
+Added Net: Name=1A6
+Added Pin To Net: NetName=1A7 Pin=U1-38
+Added Net: Name=1A7
+Added Pin To Net: NetName=1A8 Pin=U1-37
+Added Net: Name=1A8
+Added Pin To Net: NetName=1B1 Pin=U1-2
+Added Net: Name=1B1
+Added Pin To Net: NetName=1B2 Pin=U1-3
+Added Net: Name=1B2
+Added Pin To Net: NetName=1B3 Pin=U1-5
+Added Net: Name=1B3
+Added Pin To Net: NetName=1B4 Pin=U1-6
+Added Net: Name=1B4
+Added Pin To Net: NetName=1B5 Pin=U1-8
+Added Net: Name=1B5
+Added Pin To Net: NetName=1B6 Pin=U1-9
+Added Net: Name=1B6
+Added Pin To Net: NetName=1B7 Pin=U1-11
+Added Net: Name=1B7
+Added Pin To Net: NetName=1B8 Pin=U1-12
+Added Net: Name=1B8
+Added Pin To Net: NetName=2A1 Pin=U1-36
+Added Net: Name=2A1
+Added Pin To Net: NetName=2A2 Pin=U1-35
+Added Net: Name=2A2
+Added Pin To Net: NetName=2A3 Pin=U1-33
+Added Net: Name=2A3
+Added Pin To Net: NetName=2A4 Pin=U1-32
+Added Net: Name=2A4
+Added Pin To Net: NetName=2A5 Pin=U1-30
+Added Net: Name=2A5
+Added Pin To Net: NetName=2A6 Pin=U1-29
+Added Net: Name=2A6
+Added Pin To Net: NetName=2A7 Pin=U1-27
+Added Net: Name=2A7
+Added Pin To Net: NetName=2A8 Pin=U1-26
+Added Net: Name=2A8
+Added Pin To Net: NetName=2B1 Pin=U1-13
+Added Net: Name=2B1
+Added Pin To Net: NetName=2B2 Pin=U1-14
+Added Net: Name=2B2
+Added Pin To Net: NetName=2B3 Pin=U1-16
+Added Net: Name=2B3
+Added Pin To Net: NetName=2B4 Pin=U1-17
+Added Net: Name=2B4
+Added Pin To Net: NetName=2B5 Pin=U1-19
+Added Net: Name=2B5
+Added Pin To Net: NetName=2B6 Pin=U1-20
+Added Net: Name=2B6
+Added Pin To Net: NetName=2B7 Pin=U1-22
+Added Net: Name=2B7
+Added Pin To Net: NetName=2B8 Pin=U1-23
+Added Net: Name=2B8
+Added Pin To Net: NetName=VCCA Pin=C1-2
+Added Pin To Net: NetName=VCCA Pin=C3-1
+Added Pin To Net: NetName=VCCA Pin=U1-31
+Added Pin To Net: NetName=VCCA Pin=U1-42
+Added Net: Name=VCCA
+Added Pin To Net: NetName=VCCB Pin=C2-2
+Added Pin To Net: NetName=VCCB Pin=C4-1
+Added Pin To Net: NetName=VCCB Pin=U1-7
+Added Pin To Net: NetName=VCCB Pin=U1-18
+Added Net: Name=VCCB
+Change Class Name : Old Net Name=Signals New Net Name=U_TI_SN74LVCH16T245_3V3_to_5V
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component C1 X7R SMD
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component C2 X7R SMD
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component C3 X7R SMD
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component C4 X7R SMD
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component R1 0.125W
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component R2 0.125W
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component R3 0.125W
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component R4 0.125W
+Added Member To Class: ClassName=U_TI_SN74LVCH16T245_3V3_to_5V Member=Component U1 SN74LVCH16T245DGGR
+Change Room Name: Old Name=TopSheet New Name=PowerSupply
+Change Room Scope: Old Scope=InComponentClass('TopSheet') New Scope=InComponentClass('PowerSupply')
+Added Room: Name=CarrierPlug
+Added Room: Name=DigitalVoltage_TopSheet
+Added Room: Name=U_TI_SN74LVCH16T245_3V3_to_5V

@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=DigitalVoltage_CarrierConnector.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=TopSheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZATAJRJ
 
-[Document6]
+[Document5]
 DocumentPath=..\library\device_sheets\connectors\Digital_CarrierPlug\Digital_CarrierPlug.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\library\device_sheets\power_supply\RECOM_R-78C15-1.0_1A_42V_to_15V\RECOM_R-78C15-1.0_1A_42V_to_15V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=TopSheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=SignalConditioning.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARYRFYXA
 
-[Document11]
+[Document10]
 DocumentPath=SignalConditioning.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\library\device_sheets\level_shifter\TI_SN74LVCH16T245\TI_SN74LVCH16T245.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,6 +223,91 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document12]
+DocumentPath=3V3_to_5V.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XMDJAHDX
+
+[Document13]
+DocumentPath=5V_to_15V.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CZMKOSFZ
+
+[Document14]
+DocumentPath=single_to_differential.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPOMOCKR
+
+[Document15]
+DocumentPath=3V3_to_5V.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=ONSEMI_MC14504BDR2G.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CRWKSTOQ
 
 [ProjectVariant1]
 UniqueID=D6CA0FF7-AE67-4EB3-A27D-75E564E0E7DA
@@ -294,6 +362,10 @@ Variation6=Designator=C3|UniqueId=\SMQLPFVK\JLODFTLT|Kind=1|AlternatePart=
 Variation7=Designator=U1|UniqueId=\SMQLPFVK\ZIHGQWSL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=ultrazohm_digital_voltage_3U_1vxx 15.12.2019 13-00-38.WAS
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Author
 Value=T. Wendt
@@ -315,14 +387,14 @@ Name=ProjectRevision
 Value=1v00
 
 [DeviceSheet1]
-DocumentPath=..\library\device_sheets\connectors\Digital_CarrierPlug\Digital_CarrierPlug.SchDoc
+DocumentPath=..\library\device_sheets\power_supply\RECOM_R-78C15-1.0_1A_42V_to_15V\RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet2]
-DocumentPath=..\library\device_sheets\power_supply\RECOM_R-78C15-1.0_1A_42V_to_15V\RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
+DocumentPath=..\library\device_sheets\connectors\Digital_CarrierPlug\Digital_CarrierPlug.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None

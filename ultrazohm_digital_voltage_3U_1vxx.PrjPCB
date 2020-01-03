@@ -377,6 +377,91 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document21]
+DocumentPath=differential_to_single.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IBFDCRYL
+
+[Document22]
+DocumentPath=TI_DS26C32AT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SGGJXRBU
+
+[Document23]
+DocumentPath=TI_DS26C32AT.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=differential_to_single.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=blocking.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OAIBHMZF
+
 [ProjectVariant1]
 UniqueID=D6CA0FF7-AE67-4EB3-A27D-75E564E0E7DA
 Description=3V3_to_15V
@@ -443,24 +528,24 @@ DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-25-33.WAS
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=1v00
+Name=Author
+Value=T. Wendt
 
 [Parameter2]
-Name=ProjectName
-Value=UltraZohm_Digital_Voltage_3U_1vxx
+Name=AuthorParam
+Value=T. Wendt
 
 [Parameter3]
 Name=Date
 Value=11/2019
 
 [Parameter4]
-Name=AuthorParam
-Value=T. Wendt
+Name=ProjectName
+Value=UltraZohm_Digital_Voltage_3U_1vxx
 
 [Parameter5]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=1v00
 
 [DeviceSheet1]
 DocumentPath=..\library\device_sheets\power_supply\RECOM_R-78C15-1.0_1A_42V_to_15V\RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc

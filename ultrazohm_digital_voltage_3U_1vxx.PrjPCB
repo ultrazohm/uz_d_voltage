@@ -234,7 +234,7 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -251,7 +251,7 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -336,8 +336,8 @@ AnnotateScope=All
 AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -387,7 +387,7 @@ AnnotateScope=All
 AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -404,8 +404,8 @@ AnnotateScope=All
 AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -455,7 +455,7 @@ AnnotateScope=All
 AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -540,7 +540,7 @@ AnnotateScope=All
 AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -608,7 +608,7 @@ AnnotateScope=All
 AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -702,24 +702,24 @@ DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-25-33.WAS
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=1v00
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Wendt
+Name=ProjectName
+Value=UltraZohm_Digital_Voltage_3U_1vxx
 
 [Parameter3]
 Name=Date
 Value=11/2019
 
 [Parameter4]
-Name=ProjectName
-Value=UltraZohm_Digital_Voltage_3U_1vxx
+Name=AuthorParam
+Value=T. Wendt
 
 [Parameter5]
-Name=ProjectRevision
-Value=1v00
+Name=Author
+Value=T. Wendt
 
 [DeviceSheet1]
 DocumentPath=..\library\device_sheets\power_supply\RECOM_R-78C15-1.0_1A_42V_to_15V\RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
@@ -962,6 +962,8 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=

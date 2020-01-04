@@ -616,23 +616,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document35]
-DocumentPath=Termination15V.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document36]
 DocumentPath=Termination5V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=Termination3V3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1757,7 +1740,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1

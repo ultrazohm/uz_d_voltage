@@ -106,40 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GZATAJRJ
 
 [Document5]
-DocumentPath=..\library\device_sheets\connectors\Digital_CarrierPlug\Digital_CarrierPlug.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=..\library\device_sheets\power_supply\RECOM_R-78C15-1.0_1A_42V_to_15V\RECOM_R-78C15-1.0_1A_42V_to_15V.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=TopSheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document7]
 DocumentPath=SignalConditioning.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARYRFYXA
 
-[Document10]
+[Document8]
 DocumentPath=SignalConditioning.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,24 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
-DocumentPath=..\library\device_sheets\level_shifter\TI_SN74LVCH16T245\TI_SN74LVCH16T245.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
+[Document9]
 DocumentPath=3V3_to_5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMDJAHDX
 
-[Document13]
+[Document10]
 DocumentPath=5V_to_15V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZMKOSFZ
 
-[Document14]
+[Document11]
 DocumentPath=single_to_differential.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPOMOCKR
 
-[Document15]
+[Document12]
 DocumentPath=3V3_to_5V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document13]
 DocumentPath=ONSEMI_MC14504BDR2G.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRWKSTOQ
 
-[Document17]
+[Document14]
 DocumentPath=5V_to_15V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document15]
 DocumentPath=TI_DS26C31T.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZEYZCYT
 
-[Document19]
+[Document16]
 DocumentPath=TI_DS26C31T.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document17]
 DocumentPath=single_to_differential.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document18]
 DocumentPath=differential_to_single.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBFDCRYL
 
-[Document22]
+[Document19]
 DocumentPath=TI_DS26C32AT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGGJXRBU
 
-[Document23]
+[Document20]
 DocumentPath=TI_DS26C32AT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document21]
 DocumentPath=differential_to_single.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document22]
 DocumentPath=blocking.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAIBHMZF
 
-[Document26]
+[Document23]
 DocumentPath=OutputJack.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDSJCADF
 
-[Document27]
+[Document24]
 DocumentPath=SignalBundling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICXBTLXG
 
-[Document28]
+[Document25]
 DocumentPath=SignalBundling.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document26]
 DocumentPath=NetTie15VAndDiff.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJUMDANP
 
-[Document30]
+[Document27]
 DocumentPath=Termination5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,8 +496,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUSOWHCW
 
-[Document31]
-DocumentPath=Termination3V3.SchDoc
+[Document28]
+DocumentPath=Jumper5VLS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -557,14 +506,14 @@ AnnotateScope=All
 AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNBFPADJ
 
-[Document32]
+[Document29]
 DocumentPath=Termination5V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document30]
 DocumentPath=Termination3V3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document31]
 DocumentPath=Termination15V+Differential.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,8 +564,127 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXFORTJK
 
-[Document35]
+[Document32]
 DocumentPath=NetTie15VAndDiff.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
+DocumentPath=Jumper5VLS.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=Digital_CarrierPlug.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EERIGPQJ
+
+[Document35]
+DocumentPath=RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=18
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RWEXZVRI
+
+[Document36]
+DocumentPath=TI_SN74LVCH16T245.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HTJYGOPI
+
+[Document37]
+DocumentPath=TI_SN74LVCH16T245.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document38]
+DocumentPath=RECOM_R-78C15-1.0_1A_42V_to_15V.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document39]
+DocumentPath=Digital_CarrierPlug.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -702,45 +770,24 @@ DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-25-33.WAS
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=1v00
+Name=Author
+Value=T. Wendt
 
 [Parameter2]
-Name=ProjectName
-Value=UltraZohm_Digital_Voltage_3U_1vxx
+Name=AuthorParam
+Value=T. Wendt
 
 [Parameter3]
 Name=Date
 Value=11/2019
 
 [Parameter4]
-Name=AuthorParam
-Value=T. Wendt
+Name=ProjectName
+Value=UltraZohm_Digital_Voltage_3U_1vxx
 
 [Parameter5]
-Name=Author
-Value=T. Wendt
-
-[DeviceSheet1]
-DocumentPath=..\library\device_sheets\power_supply\RECOM_R-78C15-1.0_1A_42V_to_15V\RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-GenerateClassCluster=0
-
-[DeviceSheet2]
-DocumentPath=..\library\device_sheets\connectors\Digital_CarrierPlug\Digital_CarrierPlug.SchDoc
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-GenerateClassCluster=0
-
-[DeviceSheet3]
-DocumentPath=..\library\device_sheets\level_shifter\TI_SN74LVCH16T245\TI_SN74LVCH16T245.SchDoc
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-GenerateClassCluster=0
+Name=ProjectRevision
+Value=1v00
 
 [Configuration1]
 Name=Sources
@@ -1778,99 +1825,99 @@ Order4=6
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\REEOQYYS\ZTJPEBVF\XXKKOZZL
-DocumentName5=NetTie15VAndDiff.SchDoc
+UniqueIDPath5=\REEOQYYS\IIHAQJIS\EKLSFHDT
+DocumentName5=Jumper5VLS.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=26
+Order5=40
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\REEOQYYS\LOSHMCEA\1DEFTBZMN
-DocumentName6=ONSEMI_MC14504BDR2G.SchDoc
+UniqueIDPath6=\REEOQYYS\ZTJPEBVF\XXKKOZZL
+DocumentName6=NetTie15VAndDiff.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=7
+Order6=26
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\REEOQYYS\LOSHMCEA\2DEFTBZMN
+UniqueIDPath7=\REEOQYYS\LOSHMCEA\1DEFTBZMN
 DocumentName7=ONSEMI_MC14504BDR2G.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=8
+Order7=7
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\REEOQYYS\LOSHMCEA\3DEFTBZMN
+UniqueIDPath8=\REEOQYYS\LOSHMCEA\2DEFTBZMN
 DocumentName8=ONSEMI_MC14504BDR2G.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=9
+Order8=8
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\REEOQYYS\LOSHMCEA\4DEFTBZMN
+UniqueIDPath9=\REEOQYYS\LOSHMCEA\3DEFTBZMN
 DocumentName9=ONSEMI_MC14504BDR2G.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=10
+Order9=9
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\REEOQYYS\LOSHMCEA\5DEFTBZMN
+UniqueIDPath10=\REEOQYYS\LOSHMCEA\4DEFTBZMN
 DocumentName10=ONSEMI_MC14504BDR2G.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=11
+Order10=10
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\FJQDIXWU
-DocumentName11=OutputJack.SchDoc
+UniqueIDPath11=\REEOQYYS\LOSHMCEA\5DEFTBZMN
+DocumentName11=ONSEMI_MC14504BDR2G.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=27
+Order11=11
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
-UniqueIDPath12=\SMQLPFVK
-DocumentName12=RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
+UniqueIDPath12=\FJQDIXWU
+DocumentName12=OutputJack.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=2
+Order12=27
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
-UniqueIDPath13=\REEOQYYS\ZTJPEBVF
-DocumentName13=SignalBundling.SchDoc
+UniqueIDPath13=\SMQLPFVK
+DocumentName13=RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=28
+Order13=2
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
-UniqueIDPath14=\REEOQYYS
-DocumentName14=SignalConditioning.SchDoc
+UniqueIDPath14=\REEOQYYS\ZTJPEBVF
+DocumentName14=SignalBundling.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=12
+Order14=28
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
-UniqueIDPath15=\REEOQYYS\RCNQLQDX
-DocumentName15=single_to_differential.SchDoc
+UniqueIDPath15=\REEOQYYS
+DocumentName15=SignalConditioning.SchDoc
 IsEnabled15=1
 SelectionScope15=All
-Order15=13
+Order15=12
 IndexEnabled15=0
 IndexStartValue15=1
 Suffix15=
-UniqueIDPath16=\REEOQYYS\ZTJPEBVF\FQNAECSL
-DocumentName16=Termination3V3.SchDoc
+UniqueIDPath16=\REEOQYYS\RCNQLQDX
+DocumentName16=single_to_differential.SchDoc
 IsEnabled16=1
 SelectionScope16=All
-Order16=29
+Order16=13
 IndexEnabled16=0
 IndexStartValue16=1
 Suffix16=

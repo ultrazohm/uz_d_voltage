@@ -149,7 +149,7 @@ AnnotateScope=All
 AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -251,8 +251,8 @@ AnnotateScope=All
 AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -421,7 +421,7 @@ AnnotateScope=All
 AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -770,24 +770,24 @@ DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-25-33.WAS
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=1v00
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Wendt
+Name=ProjectName
+Value=UltraZohm_Digital_Voltage_3U_1vxx
 
 [Parameter3]
 Name=Date
 Value=11/2019
 
 [Parameter4]
-Name=ProjectName
-Value=UltraZohm_Digital_Voltage_3U_1vxx
+Name=AuthorParam
+Value=T. Wendt
 
 [Parameter5]
-Name=ProjectRevision
-Value=1v00
+Name=Author
+Value=T. Wendt
 
 [Configuration1]
 Name=Sources

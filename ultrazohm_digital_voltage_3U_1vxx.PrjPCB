@@ -717,6 +717,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document41]
+DocumentPath=LEDs.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=20
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QEQAATFZ
+
 [ProjectVariant1]
 UniqueID=D6CA0FF7-AE67-4EB3-A27D-75E564E0E7DA
 Description=3V3_to_15V
@@ -771,18 +788,22 @@ Variation7=Designator=U1|UniqueId=\SMQLPFVK\ZIHGQWSL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=ultrazohm_digital_voltage_3U_1vxx 04.01.2020 18-32-05.WAS
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\Design Rule Check - ultrazohm_digital_voltage_3U_1vxx.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=ultrazohm_digital_voltage_3U_1vxx 15.12.2019 13-00-38.WAS
+DocumentPath=ultrazohm_digital_voltage_3U_1vxx 04.01.2020 18-32-05.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-24-36.WAS
+DocumentPath=ultrazohm_digital_voltage_3U_1vxx 15.12.2019 13-00-38.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-24-36.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-25-33.WAS
 DItemRevisionGUID=
 

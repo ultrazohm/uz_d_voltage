@@ -1111,24 +1111,24 @@ DocumentPath=ultrazohm_digital_voltage_3U_1vxx 16.12.2019 17-25-33.WAS
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=1v00
+Name=Author
+Value=T. Wendt
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UltraZohm_DigitalVoltage
+Name=AuthorParam
+Value=T. Wendt
 
 [Parameter3]
 Name=Date
 Value=11/2019
 
 [Parameter4]
-Name=AuthorParam
-Value=T. Wendt
+Name=ProjectNameCustom
+Value=UltraZohm_DigitalVoltage
 
 [Parameter5]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=1v00
 
 [Configuration1]
 Name=Sources

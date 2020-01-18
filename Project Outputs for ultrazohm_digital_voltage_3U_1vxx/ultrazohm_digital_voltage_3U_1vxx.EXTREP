@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: ultrazohm_digital_voltage_3U_1vxx.GBR   17.01.2020  20:08:51
+Gerber File Extension Report For: ultrazohm_digital_voltage_3U_1vxx.GBR   18.01.2020  11:51:18
 ------------------------------------------------------------------------------------------
 
 
@@ -16,4 +16,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------

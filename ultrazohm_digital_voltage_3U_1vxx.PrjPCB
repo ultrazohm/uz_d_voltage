@@ -927,7 +927,7 @@ UniqueID=C0F9057B-0181-493D-A150-4B6473CDD562
 Description=3V3_to_RS422
 AllowFabrication=0
 ParameterCount=0
-VariationCount=71
+VariationCount=75
 Variation1=Designator=C17|UniqueId=\SMQLPFVK\NJSMWYGD|Kind=1|AlternatePart= 
 Variation2=Designator=C22|UniqueId=\SMQLPFVK\XOTRVSUB|Kind=1|AlternatePart= 
 Variation3=Designator=C21|UniqueId=\SMQLPFVK\EEJGCYIM|Kind=1|AlternatePart= 
@@ -999,6 +999,10 @@ Variation68=Designator=R10|UniqueId=\GEIJMUXU\YJEMIYYI|Kind=1|AlternatePart=
 Variation69=Designator=R9|UniqueId=\GEIJMUXU\HCHBUUDC|Kind=1|AlternatePart= 
 Variation70=Designator=R11|UniqueId=\GEIJMUXU\MLJSYHOW|Kind=1|AlternatePart= 
 Variation71=Designator=R13|UniqueId=\GEIJMUXU\FPSNTXEJ|Kind=1|AlternatePart= 
+Variation72=Designator=R15|UniqueId=\REEOQYYS\ZTJPEBVF\XWSNTWHL|Kind=1|AlternatePart= 
+Variation73=Designator=R18|UniqueId=\REEOQYYS\ZTJPEBVF\SJKTAHVJ|Kind=1|AlternatePart= 
+Variation74=Designator=R17|UniqueId=\REEOQYYS\ZTJPEBVF\KUNFMAIN|Kind=1|AlternatePart= 
+Variation75=Designator=R16|UniqueId=\REEOQYYS\ZTJPEBVF\WSNGUOWM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant5]
@@ -1006,7 +1010,7 @@ UniqueID=7936404D-85A6-439C-AFE4-38750F01263B
 Description=RS422_to_3V3
 AllowFabrication=0
 ParameterCount=0
-VariationCount=71
+VariationCount=75
 Variation1=Designator=C17|UniqueId=\SMQLPFVK\NJSMWYGD|Kind=1|AlternatePart= 
 Variation2=Designator=C22|UniqueId=\SMQLPFVK\XOTRVSUB|Kind=1|AlternatePart= 
 Variation3=Designator=R33A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\AGQEHQZC|Kind=1|AlternatePart= 
@@ -1078,6 +1082,10 @@ Variation68=Designator=R10|UniqueId=\GEIJMUXU\YJEMIYYI|Kind=1|AlternatePart=
 Variation69=Designator=R9|UniqueId=\GEIJMUXU\HCHBUUDC|Kind=1|AlternatePart= 
 Variation70=Designator=R11|UniqueId=\GEIJMUXU\MLJSYHOW|Kind=1|AlternatePart= 
 Variation71=Designator=R12|UniqueId=\GEIJMUXU\KUCMFYGW|Kind=1|AlternatePart= 
+Variation72=Designator=R15|UniqueId=\REEOQYYS\ZTJPEBVF\XWSNTWHL|Kind=1|AlternatePart= 
+Variation73=Designator=R18|UniqueId=\REEOQYYS\ZTJPEBVF\SJKTAHVJ|Kind=1|AlternatePart= 
+Variation74=Designator=R17|UniqueId=\REEOQYYS\ZTJPEBVF\KUNFMAIN|Kind=1|AlternatePart= 
+Variation75=Designator=R16|UniqueId=\REEOQYYS\ZTJPEBVF\WSNGUOWM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]

@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=DIG_I_DIFF_B_N[1..7] Member=DIG_I_DIFF_B_N8
+Removed Member From Class: ClassName=DIG_I_DIFF_B_P[1..7] Member=DIG_I_DIFF_B_P8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P8 Pin=U3A-10
+Added Pin To Net: NetName=DIG_I_DIFF_C_N8 Pin=U3A-11
+Added Pin To Net: NetName=DIG_I_DIFF_C_P8 Pin=U4H-14
+Added Pin To Net: NetName=DIG_I_DIFF_C_N8 Pin=U4H-15
+Added Differential Pair: Name=DIG_I_DIFF_C8

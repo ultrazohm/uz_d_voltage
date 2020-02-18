@@ -1,0 +1,313 @@
+Added Component: Designator=R23(RESC3216X70X50LL20T25_CONFIG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2018_09_04_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC3216X70X50LL20T25_CONFIG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2018_09_04_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_rec_H(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_recA(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_recB(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_recC(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_recD(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_recE(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_recF(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RS422_recG(TI_D-R-PDSO-G16_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DS26LV32AT&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "1468999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS26LV32ATM"; VariantName = "[No Variations]"
+Added Component: Designator=U5(NXP-SOT353-1_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/916/74AHC_AHCT1G14-1319577.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2018_09_06_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-3149-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "771-74AHC1G14GW-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "2336684"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "74AHC1G14GW,125"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R23-1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R23-3
+Added Pin To Net: NetName=3V3 Pin=R24-1
+Added Pin To Net: NetName=1DIRA Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R24-3
+Added Pin To Net: NetName=DIG_I_DIFF_A_N8 Pin=U4_RS422_rec_H-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P8 Pin=U4_RS422_rec_H-2
+Added Pin To Net: NetName=DIG_IO_3V3_A8 Pin=U4_RS422_rec_H-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_rec_H-4
+Added Pin To Net: NetName=DIG_IO_3V3_C8 Pin=U4_RS422_rec_H-5
+Added Pin To Net: NetName=DIG_I_DIFF_C_P8 Pin=U4_RS422_rec_H-6
+Added Pin To Net: NetName=DIG_I_DIFF_C_N8 Pin=U4_RS422_rec_H-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_rec_H-8
+Added Pin To Net: NetName=NetU4_RS422_rec_H_9 Pin=U4_RS422_rec_H-9
+Added Pin To Net: NetName=NetU4_RS422_rec_H_10 Pin=U4_RS422_rec_H-10
+Added Pin To Net: NetName=NetU4_RS422_rec_H_11 Pin=U4_RS422_rec_H-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_rec_H-12
+Added Pin To Net: NetName=NetU4_RS422_rec_H_13 Pin=U4_RS422_rec_H-13
+Added Pin To Net: NetName=NetU4_RS422_rec_H_14 Pin=U4_RS422_rec_H-14
+Added Pin To Net: NetName=NetU4_RS422_rec_H_15 Pin=U4_RS422_rec_H-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_rec_H-16
+Added Pin To Net: NetName=DIG_I_DIFF_A_N1 Pin=U4_RS422_recA-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P1 Pin=U4_RS422_recA-2
+Added Pin To Net: NetName=DIG_IO_3V3_A1 Pin=U4_RS422_recA-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_recA-4
+Added Pin To Net: NetName=DIG_IO_3V3_B1 Pin=U4_RS422_recA-5
+Added Pin To Net: NetName=DIG_I_DIFF_B_P1 Pin=U4_RS422_recA-6
+Added Pin To Net: NetName=DIG_I_DIFF_B_N1 Pin=U4_RS422_recA-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_recA-8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P1 Pin=U4_RS422_recA-9
+Added Pin To Net: NetName=DIG_I_DIFF_C_N1 Pin=U4_RS422_recA-10
+Added Pin To Net: NetName=DIG_IO_3V3_C1 Pin=U4_RS422_recA-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recA-12
+Added Pin To Net: NetName=DIG_IO_3V3_D1 Pin=U4_RS422_recA-13
+Added Pin To Net: NetName=DIG_I_DIFF_D_P1 Pin=U4_RS422_recA-14
+Added Pin To Net: NetName=DIG_I_DIFF_D_N1 Pin=U4_RS422_recA-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recA-16
+Added Pin To Net: NetName=DIG_I_DIFF_A_N2 Pin=U4_RS422_recB-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P2 Pin=U4_RS422_recB-2
+Added Pin To Net: NetName=DIG_IO_3V3_A2 Pin=U4_RS422_recB-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_recB-4
+Added Pin To Net: NetName=DIG_IO_3V3_B2 Pin=U4_RS422_recB-5
+Added Pin To Net: NetName=DIG_I_DIFF_B_P2 Pin=U4_RS422_recB-6
+Added Pin To Net: NetName=DIG_I_DIFF_B_N2 Pin=U4_RS422_recB-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_recB-8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P2 Pin=U4_RS422_recB-9
+Added Pin To Net: NetName=DIG_I_DIFF_C_N2 Pin=U4_RS422_recB-10
+Added Pin To Net: NetName=DIG_IO_3V3_C2 Pin=U4_RS422_recB-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recB-12
+Added Pin To Net: NetName=DIG_IO_3V3_D2 Pin=U4_RS422_recB-13
+Added Pin To Net: NetName=DIG_I_DIFF_D_P2 Pin=U4_RS422_recB-14
+Added Pin To Net: NetName=DIG_I_DIFF_D_N2 Pin=U4_RS422_recB-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recB-16
+Added Pin To Net: NetName=DIG_I_DIFF_A_N3 Pin=U4_RS422_recC-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P3 Pin=U4_RS422_recC-2
+Added Pin To Net: NetName=DIG_IO_3V3_A3 Pin=U4_RS422_recC-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_recC-4
+Added Pin To Net: NetName=DIG_IO_3V3_B3 Pin=U4_RS422_recC-5
+Added Pin To Net: NetName=DIG_I_DIFF_B_P3 Pin=U4_RS422_recC-6
+Added Pin To Net: NetName=DIG_I_DIFF_B_N3 Pin=U4_RS422_recC-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_recC-8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P3 Pin=U4_RS422_recC-9
+Added Pin To Net: NetName=DIG_I_DIFF_C_N3 Pin=U4_RS422_recC-10
+Added Pin To Net: NetName=DIG_IO_3V3_C3 Pin=U4_RS422_recC-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recC-12
+Added Pin To Net: NetName=DIG_IO_3V3_D3 Pin=U4_RS422_recC-13
+Added Pin To Net: NetName=DIG_I_DIFF_D_P3 Pin=U4_RS422_recC-14
+Added Pin To Net: NetName=DIG_I_DIFF_D_N3 Pin=U4_RS422_recC-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recC-16
+Added Pin To Net: NetName=DIG_I_DIFF_A_N4 Pin=U4_RS422_recD-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P4 Pin=U4_RS422_recD-2
+Added Pin To Net: NetName=DIG_IO_3V3_A4 Pin=U4_RS422_recD-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_recD-4
+Added Pin To Net: NetName=DIG_IO_3V3_B4 Pin=U4_RS422_recD-5
+Added Pin To Net: NetName=DIG_I_DIFF_B_P4 Pin=U4_RS422_recD-6
+Added Pin To Net: NetName=DIG_I_DIFF_B_N4 Pin=U4_RS422_recD-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_recD-8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P4 Pin=U4_RS422_recD-9
+Added Pin To Net: NetName=DIG_I_DIFF_C_N4 Pin=U4_RS422_recD-10
+Added Pin To Net: NetName=DIG_IO_3V3_C4 Pin=U4_RS422_recD-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recD-12
+Added Pin To Net: NetName=DIG_IO_3V3_D4 Pin=U4_RS422_recD-13
+Added Pin To Net: NetName=DIG_I_DIFF_D_P4 Pin=U4_RS422_recD-14
+Added Pin To Net: NetName=DIG_I_DIFF_D_N4 Pin=U4_RS422_recD-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recD-16
+Added Pin To Net: NetName=DIG_I_DIFF_A_N5 Pin=U4_RS422_recE-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P5 Pin=U4_RS422_recE-2
+Added Pin To Net: NetName=DIG_IO_3V3_A5 Pin=U4_RS422_recE-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_recE-4
+Added Pin To Net: NetName=DIG_IO_3V3_B5 Pin=U4_RS422_recE-5
+Added Pin To Net: NetName=DIG_I_DIFF_B_P5 Pin=U4_RS422_recE-6
+Added Pin To Net: NetName=DIG_I_DIFF_B_N5 Pin=U4_RS422_recE-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_recE-8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P5 Pin=U4_RS422_recE-9
+Added Pin To Net: NetName=DIG_I_DIFF_C_N5 Pin=U4_RS422_recE-10
+Added Pin To Net: NetName=DIG_IO_3V3_C5 Pin=U4_RS422_recE-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recE-12
+Added Pin To Net: NetName=DIG_IO_3V3_D5 Pin=U4_RS422_recE-13
+Added Pin To Net: NetName=DIG_I_DIFF_D_P5 Pin=U4_RS422_recE-14
+Added Pin To Net: NetName=DIG_I_DIFF_D_N5 Pin=U4_RS422_recE-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recE-16
+Added Pin To Net: NetName=DIG_I_DIFF_A_N6 Pin=U4_RS422_recF-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P6 Pin=U4_RS422_recF-2
+Added Pin To Net: NetName=DIG_IO_3V3_A6 Pin=U4_RS422_recF-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_recF-4
+Added Pin To Net: NetName=DIG_IO_3V3_B6 Pin=U4_RS422_recF-5
+Added Pin To Net: NetName=DIG_I_DIFF_B_P6 Pin=U4_RS422_recF-6
+Added Pin To Net: NetName=DIG_I_DIFF_B_N6 Pin=U4_RS422_recF-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_recF-8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P6 Pin=U4_RS422_recF-9
+Added Pin To Net: NetName=DIG_I_DIFF_C_N6 Pin=U4_RS422_recF-10
+Added Pin To Net: NetName=DIG_IO_3V3_C6 Pin=U4_RS422_recF-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recF-12
+Added Pin To Net: NetName=DIG_IO_3V3_D6 Pin=U4_RS422_recF-13
+Added Pin To Net: NetName=DIG_I_DIFF_D_P6 Pin=U4_RS422_recF-14
+Added Pin To Net: NetName=DIG_I_DIFF_D_N6 Pin=U4_RS422_recF-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recF-16
+Added Pin To Net: NetName=DIG_I_DIFF_A_N7 Pin=U4_RS422_recG-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P7 Pin=U4_RS422_recG-2
+Added Pin To Net: NetName=DIG_IO_3V3_A7 Pin=U4_RS422_recG-3
+Added Pin To Net: NetName=ENABLE Pin=U4_RS422_recG-4
+Added Pin To Net: NetName=DIG_IO_3V3_B7 Pin=U4_RS422_recG-5
+Added Pin To Net: NetName=DIG_I_DIFF_B_P7 Pin=U4_RS422_recG-6
+Added Pin To Net: NetName=DIG_I_DIFF_B_N7 Pin=U4_RS422_recG-7
+Added Pin To Net: NetName=GND Pin=U4_RS422_recG-8
+Added Pin To Net: NetName=DIG_I_DIFF_C_P7 Pin=U4_RS422_recG-9
+Added Pin To Net: NetName=DIG_I_DIFF_C_N7 Pin=U4_RS422_recG-10
+Added Pin To Net: NetName=DIG_IO_3V3_C7 Pin=U4_RS422_recG-11
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recG-12
+Added Pin To Net: NetName=DIG_IO_3V3_D7 Pin=U4_RS422_recG-13
+Added Pin To Net: NetName=DIG_I_DIFF_D_P7 Pin=U4_RS422_recG-14
+Added Pin To Net: NetName=DIG_I_DIFF_D_N7 Pin=U4_RS422_recG-15
+Added Pin To Net: NetName=3V3 Pin=U4_RS422_recG-16
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=ENABLE Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=1O\E\A Pin=U5-4
+Added Pin To Net: NetName=3V3 Pin=U5-5
+Added Member To Class: ClassName=LS15V_top Member=Component R23 0.5W
+Added Member To Class: ClassName=LS5V_top Member=Component R24 0.1W
+Added Member To Class: ClassName=RS422_rec_H Member=Component U4_RS422_rec_H (U4) DS26LV32ATM
+Added Member To Class: ClassName=RS422_recA Member=Component U4_RS422_recA (U4) DS26LV32ATM
+Added Member To Class: ClassName=RS422_recB Member=Component U4_RS422_recB (U4) DS26LV32ATM
+Added Member To Class: ClassName=RS422_recC Member=Component U4_RS422_recC (U4) DS26LV32ATM
+Added Member To Class: ClassName=RS422_recD Member=Component U4_RS422_recD (U4) DS26LV32ATM
+Added Member To Class: ClassName=RS422_recE Member=Component U4_RS422_recE (U4) DS26LV32ATM
+Added Member To Class: ClassName=RS422_recF Member=Component U4_RS422_recF (U4) DS26LV32ATM
+Added Member To Class: ClassName=RS422_recG Member=Component U4_RS422_recG (U4) DS26LV32ATM
+Added Member To Class: ClassName=LS5V_top Member=Component U5 (U1) 74AHC1G14GW,125
+Added Room: Name=LS5V_top
+Added Room: Name=LS15V_top
+Added Room: Name=RS422_rec_H
+Added Room: Name=RS422_recA
+Added Room: Name=RS422_recB
+Added Room: Name=RS422_recC
+Added Room: Name=RS422_recD
+Added Room: Name=RS422_recE
+Added Room: Name=RS422_recF
+Added Room: Name=RS422_recG

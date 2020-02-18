@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X95X40NL15T15 New Footprint=CAPC2013X140X50ML15T20
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X95X40NL15T15 New Footprint=CAPC2013X140X50ML15T20
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X95X40NL15T15 New Footprint=CAPC2013X140X50ML15T20
+Change Room Name: Old Name=CarrierConnector New Name=X1

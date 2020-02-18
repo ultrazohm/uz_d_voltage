@@ -1,0 +1,105 @@
+Added Component: Designator=P1(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P2(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P3(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P4(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P5(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P6(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P7(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P8(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P9(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P10(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=P11(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "3V3"; VariantName = "[No Variations]"
+Added Component: Designator=P12(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=P13(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "15V"; VariantName = "[No Variations]"
+Added Component: Designator=P14(PinHeader1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Net"; Value = "VIN"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESCAXE-50P380X160X45-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Landpattern"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000COL4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "EXB2HV<2dig_res+#zeros><tol/jumper>V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?range=inc-in-stock&st=exb2hv"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=3V3 Pin=P11-1
+Added Pin To Net: NetName=5V0 Pin=P12-1
+Added Pin To Net: NetName=15V0 Pin=P13-1
+Added Pin To Net: NetName=VIN Pin=P14-1
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R40-3
+Added Pin To Net: NetName=GND Pin=R40-4
+Added Pin To Net: NetName=GND Pin=R40-5
+Added Pin To Net: NetName=GND Pin=R40-6
+Added Pin To Net: NetName=GND Pin=R40-7
+Added Pin To Net: NetName=GND Pin=R40-8
+Added Pin To Net: NetName=15V0 Pin=R40-9
+Added Pin To Net: NetName=15V0 Pin=R40-10
+Added Pin To Net: NetName=15V0 Pin=R40-11
+Added Pin To Net: NetName=15V0 Pin=R40-12
+Added Pin To Net: NetName=15V0 Pin=R40-13
+Added Pin To Net: NetName=15V0 Pin=R40-14
+Added Pin To Net: NetName=15V0 Pin=R40-15
+Added Pin To Net: NetName=15V0 Pin=R40-16

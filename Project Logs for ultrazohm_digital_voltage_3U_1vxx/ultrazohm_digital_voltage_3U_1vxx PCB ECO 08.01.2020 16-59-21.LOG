@@ -1,0 +1,8 @@
+Added Component: Designator=Designer(Designator:comment)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "T. Wendt"; VariantName = "[No Variations]"
+Added Component: Designator=Revision(Designator:comment)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1v00"; VariantName = "[No Variations]"

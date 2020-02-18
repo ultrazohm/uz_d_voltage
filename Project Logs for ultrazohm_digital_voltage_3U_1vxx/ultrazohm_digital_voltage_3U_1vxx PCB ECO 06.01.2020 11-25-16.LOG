@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=DIG_IO_5V_F1 Pin=U2A-11
+Removed Pin From Net: NetName=DIG_O_15V_F1 Pin=U2A-12
+Removed Pin From Net: NetName=DIG_IO_5V_E1 Pin=U2A-14
+Removed Pin From Net: NetName=DIG_O_15V_E1 Pin=U2A-15
+Removed Pin From Net: NetName=NetU3A_13 Pin=U3A-1
+Removed Pin From Net: NetName=NetU3A_14 Pin=U3A-2
+Removed Pin From Net: NetName=NetU3A_15 Pin=U3A-3
+Removed Pin From Net: NetName=DIG_I_DIFF_C_P8 Pin=U3A-10
+Removed Pin From Net: NetName=DIG_I_DIFF_C_N8 Pin=U3A-11
+Removed Pin From Net: NetName=DIG_IO_5V_E5 Pin=U3A-13
+Removed Pin From Net: NetName=DIG_I_DIFF_A_P8 Pin=U3A-14
+Removed Pin From Net: NetName=DIG_I_DIFF_A_N8 Pin=U3A-15
+Removed Pin From Net: NetName=DIG_IO_5V_F1 Pin=U3C-9
+Removed Pin From Net: NetName=DIG_I_DIFF_B_P2 Pin=U3C-10
+Removed Pin From Net: NetName=DIG_I_DIFF_B_N2 Pin=U3C-11
+Removed Pin From Net: NetName=DIG_I_DIFF_A_N2 Pin=U3C-13
+Removed Pin From Net: NetName=DIG_I_DIFF_A_P2 Pin=U3C-14
+Removed Pin From Net: NetName=DIG_IO_5V_E1 Pin=U3C-15
+Removed Pin From Net: NetName=DIG_IO_5V_F3 Pin=U3F-9
+Removed Pin From Net: NetName=DIG_I_DIFF_B_P5 Pin=U3F-10
+Removed Pin From Net: NetName=DIG_I_DIFF_B_N5 Pin=U3F-11
+Removed Pin From Net: NetName=DIG_I_DIFF_A_N5 Pin=U3F-13
+Removed Pin From Net: NetName=DIG_I_DIFF_A_P5 Pin=U3F-14
+Removed Pin From Net: NetName=DIG_IO_5V_E3 Pin=U3F-15
+Removed Pin From Net: NetName=DIG_IO_5V_D4 Pin=U3G-9
+Removed Pin From Net: NetName=DIG_I_DIFF_B_P6 Pin=U3G-10
+Removed Pin From Net: NetName=DIG_I_DIFF_B_N6 Pin=U3G-11
+Removed Pin From Net: NetName=DIG_I_DIFF_A_N6 Pin=U3G-13
+Removed Pin From Net: NetName=DIG_I_DIFF_A_P6 Pin=U3G-14
+Removed Pin From Net: NetName=DIG_IO_5V_C4 Pin=U3G-15
+Removed Pin From Net: NetName=DIG_IO_5V_C5 Pin=U3H-1
+Removed Pin From Net: NetName=DIG_I_DIFF_C_P7 Pin=U3H-2
+Removed Pin From Net: NetName=DIG_I_DIFF_C_N7 Pin=U3H-3
+Removed Pin From Net: NetName=DIG_I_DIFF_D_N7 Pin=U3H-5
+Removed Pin From Net: NetName=DIG_I_DIFF_D_P7 Pin=U3H-6
+Removed Pin From Net: NetName=DIG_IO_5V_D5 Pin=U3H-7
+Removed Pin From Net: NetName=DIG_IO_5V_B5 Pin=U3H-9
+Removed Pin From Net: NetName=DIG_I_DIFF_B_P7 Pin=U3H-10
+Removed Pin From Net: NetName=DIG_I_DIFF_B_N7 Pin=U3H-11
+Removed Pin From Net: NetName=DIG_I_DIFF_A_N7 Pin=U3H-13
+Removed Pin From Net: NetName=DIG_I_DIFF_A_P7 Pin=U3H-14
+Removed Pin From Net: NetName=DIG_IO_5V_A5 Pin=U3H-15
+Added Pin To Net: NetName=DIG_IO_5V_E1 Pin=U2A-11
+Added Pin To Net: NetName=DIG_O_15V_E1 Pin=U2A-12
+Added Pin To Net: NetName=DIG_IO_5V_F1 Pin=U2A-14
+Added Pin To Net: NetName=DIG_O_15V_F1 Pin=U2A-15
+Added Pin To Net: NetName=DIG_IO_5V_E5 Pin=U3A-1
+Added Pin To Net: NetName=DIG_I_DIFF_A_P8 Pin=U3A-2
+Added Pin To Net: NetName=DIG_I_DIFF_A_N8 Pin=U3A-3
+Added Pin To Net: NetName=NetU3A_13 Pin=U3A-13
+Added Pin To Net: NetName=NetU3A_14 Pin=U3A-14
+Added Pin To Net: NetName=NetU3A_15 Pin=U3A-15
+Added Pin To Net: NetName=DIG_IO_5V_E1 Pin=U3C-9
+Added Pin To Net: NetName=DIG_I_DIFF_A_P2 Pin=U3C-10
+Added Pin To Net: NetName=DIG_I_DIFF_A_N2 Pin=U3C-11
+Added Pin To Net: NetName=DIG_I_DIFF_B_N2 Pin=U3C-13
+Added Pin To Net: NetName=DIG_I_DIFF_B_P2 Pin=U3C-14
+Added Pin To Net: NetName=DIG_IO_5V_F1 Pin=U3C-15
+Added Pin To Net: NetName=DIG_IO_5V_E3 Pin=U3F-9
+Added Pin To Net: NetName=DIG_I_DIFF_A_P5 Pin=U3F-10
+Added Pin To Net: NetName=DIG_I_DIFF_A_N5 Pin=U3F-11
+Added Pin To Net: NetName=DIG_I_DIFF_B_N5 Pin=U3F-13
+Added Pin To Net: NetName=DIG_I_DIFF_B_P5 Pin=U3F-14
+Added Pin To Net: NetName=DIG_IO_5V_F3 Pin=U3F-15
+Added Pin To Net: NetName=DIG_IO_5V_C4 Pin=U3G-9
+Added Pin To Net: NetName=DIG_I_DIFF_A_P6 Pin=U3G-10
+Added Pin To Net: NetName=DIG_I_DIFF_A_N6 Pin=U3G-11
+Added Pin To Net: NetName=DIG_I_DIFF_B_N6 Pin=U3G-13
+Added Pin To Net: NetName=DIG_I_DIFF_B_P6 Pin=U3G-14
+Added Pin To Net: NetName=DIG_IO_5V_D4 Pin=U3G-15
+Added Pin To Net: NetName=DIG_IO_5V_D5 Pin=U3H-1
+Added Pin To Net: NetName=DIG_I_DIFF_D_P7 Pin=U3H-2
+Added Pin To Net: NetName=DIG_I_DIFF_D_N7 Pin=U3H-3
+Added Pin To Net: NetName=DIG_I_DIFF_C_N7 Pin=U3H-5
+Added Pin To Net: NetName=DIG_I_DIFF_C_P7 Pin=U3H-6
+Added Pin To Net: NetName=DIG_IO_5V_C5 Pin=U3H-7
+Added Pin To Net: NetName=DIG_IO_5V_A5 Pin=U3H-9
+Added Pin To Net: NetName=DIG_I_DIFF_A_P7 Pin=U3H-10
+Added Pin To Net: NetName=DIG_I_DIFF_A_N7 Pin=U3H-11
+Added Pin To Net: NetName=DIG_I_DIFF_B_N7 Pin=U3H-13
+Added Pin To Net: NetName=DIG_I_DIFF_B_P7 Pin=U3H-14
+Added Pin To Net: NetName=DIG_IO_5V_B5 Pin=U3H-15
+Change Net Name : Old Net Name=5V New Net Name=5V0
+Added Pin To Net: NetName=DIG_O_DIFF_B_N8 Pin=U3A-11
+Added Net: Name=DIG_O_DIFF_B_N8
+Added Pin To Net: NetName=DIG_O_DIFF_B_P8 Pin=U3A-10
+Added Net: Name=DIG_O_DIFF_B_P8
+Change Class Name : Old Net Name=Room Definition 14 New Net Name=LS15VA
+Change Class Name : Old Net Name=Room Definition 15 New Net Name=LS15VB
+Change Class Name : Old Net Name=Room Definition 16 New Net Name=LS15VC
+Change Class Name : Old Net Name=Room Definition 17 New Net Name=LS15VD
+Change Class Name : Old Net Name=Room Definition 18 New Net Name=LS15VE
+Change Room Name: Old Name=Termination5To8 New Name=NT15Diff
+Change Room Scope: Old Scope=InComponentClass('Room Definition 1') New Scope=InComponentClass('NT15Diff')
+Change Room Name: Old Name=Termination9To12 New Name=LS15VA
+Change Room Scope: Old Scope=InComponentClass('Room Definition 2') New Scope=InComponentClass('LS15VA')

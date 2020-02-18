@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=U3_RS422A Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change Component Footprint: Designator=U3_RS422B Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change Component Footprint: Designator=U3_RS422C Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change Component Footprint: Designator=U3_RS422D Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change Component Footprint: Designator=U3_RS422E Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change Component Footprint: Designator=U3_RS422F Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change Component Footprint: Designator=U3_RS422G Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change Component Footprint: Designator=U3_RS422H Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_L
+Change component parameters: Designator = "R2"; Footprint = "RESC1608X55X30NL15T15_CONFIG"; UniqueID = "\REEOQYYS\LOSHMCEA\SEPHBQMP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created"; Value = "2018_09_04_AGeiger"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"

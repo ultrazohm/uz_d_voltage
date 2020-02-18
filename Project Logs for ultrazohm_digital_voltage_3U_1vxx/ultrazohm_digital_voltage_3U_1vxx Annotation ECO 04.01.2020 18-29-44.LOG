@@ -1,0 +1,15 @@
+Change Component Physical Designator: Old Designator=R4 New Designator=R1
+Change Component Physical Designator: Old Designator=U1_LS15VA New Designator=U2_LS15VA
+Change Component Physical Designator: Old Designator=U1_LS15VB New Designator=U2_LS15VB
+Change Component Physical Designator: Old Designator=U1_LS15VC New Designator=U2_LS15VC
+Change Component Physical Designator: Old Designator=U1_LS15VD New Designator=U2_LS15VD
+Change Component Physical Designator: Old Designator=U1_LS15VE New Designator=U2_LS15VE
+Change Component Physical Designator: Old Designator=U2 New Designator=U1
+Change Component Physical Designator: Old Designator=U4A New Designator=U4_RS422_recA
+Change Component Physical Designator: Old Designator=U4B New Designator=U4_RS422_recB
+Change Component Physical Designator: Old Designator=U4C New Designator=U4_RS422_recC
+Change Component Physical Designator: Old Designator=U4D New Designator=U4_RS422_recD
+Change Component Physical Designator: Old Designator=U4E New Designator=U4_RS422_recE
+Change Component Physical Designator: Old Designator=U4F New Designator=U4_RS422_recF
+Change Component Physical Designator: Old Designator=U4G New Designator=U4_RS422_recG
+Change Component Physical Designator: Old Designator=U4H New Designator=U4_RS422_rec_H

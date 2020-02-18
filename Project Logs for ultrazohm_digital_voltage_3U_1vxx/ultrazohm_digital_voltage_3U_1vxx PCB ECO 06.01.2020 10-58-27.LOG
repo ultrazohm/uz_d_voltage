@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=DIG_IO_5V_E5 Pin=U4H-9
+Removed Pin From Net: NetName=DIG_I_DIFF_C_P8 Pin=U4H-10
+Removed Pin From Net: NetName=DIG_I_DIFF_C_N8 Pin=U4H-11
+Removed Pin From Net: NetName=DIG_I_DIFF_A_P8 Pin=U4H-13
+Removed Pin From Net: NetName=DIG_I_DIFF_A_N8 Pin=U4H-14
+Removed Pin From Net: NetName=DIG_IO_5V_F5 Pin=U4H-15
+Added Pin To Net: NetName=DIG_I_DIFF_A_P8 Pin=U4H-9
+Added Pin To Net: NetName=DIG_I_DIFF_A_N8 Pin=U4H-10
+Added Pin To Net: NetName=DIG_IO_5V_E5 Pin=U4H-11
+Added Pin To Net: NetName=DIG_IO_5V_F5 Pin=U4H-13
+Change Net Name : Old Net Name=NetU4H_9 New Net Name=NetU4H_6
+Change Net Name : Old Net Name=NetU4H_10 New Net Name=NetU4H_7
+Change Net Name : Old Net Name=NetU4H_11 New Net Name=NetU4H_5
+Change Net Name : Old Net Name=NetU4H_13 New Net Name=NetU4H_3
+Change Net Name : Old Net Name=NetU4H_14 New Net Name=NetU4H_2
+Change Net Name : Old Net Name=NetU4H_15 New Net Name=NetU4H_1
+Added Pin To Net: NetName=DIG_I_DIFF_B_N8 Pin=U4H-15
+Added Net: Name=DIG_I_DIFF_B_N8
+Added Pin To Net: NetName=DIG_I_DIFF_B_P8 Pin=U4H-14
+Added Net: Name=DIG_I_DIFF_B_P8
+Added Member To Class: ClassName=DIG_I_DIFF_B_N[1..7] Member=Element[8]: DIG_I_DIFF_B_N
+Added Member To Class: ClassName=DIG_I_DIFF_B_P[1..7] Member=Element[8]: DIG_I_DIFF_B_P
+Change Room Name: Old Name=Termination13To16 New Name=LS15VE
+Change Room Scope: Old Scope=InComponentClass('Room Definition 4') New Scope=InComponentClass('LS15VE')
+Change Room Name: Old Name=Termination17To20 New Name=LS15VD
+Change Room Scope: Old Scope=InComponentClass('Room Definition 5') New Scope=InComponentClass('LS15VD')

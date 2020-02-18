@@ -1,0 +1,152 @@
+Removed Pin From Net: NetName=5V Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R3-3
+Change Component Designator: OldDesignator=R12 NewDesignator=R4
+Change Component Designator: OldDesignator=R15 NewDesignator=R11
+Change Component Designator: OldDesignator=R16 NewDesignator=R12
+Change Component Designator: OldDesignator=R17 NewDesignator=R13
+Change Component Designator: OldDesignator=R18 NewDesignator=R14
+Change Component Designator: OldDesignator=R19 NewDesignator=R7
+Change Component Designator: OldDesignator=R20 NewDesignator=R8
+Change Component Designator: OldDesignator=R21 NewDesignator=R9
+Change Component Designator: OldDesignator=R22 NewDesignator=R10
+Change Component Designator: OldDesignator=R23 NewDesignator=R15
+Change Component Designator: OldDesignator=R24 NewDesignator=R17
+Change Component Designator: OldDesignator=R25 NewDesignator=R19
+Change Component Designator: OldDesignator=R26 NewDesignator=R21
+Change Component Designator: OldDesignator=R27 NewDesignator=R16
+Change Component Designator: OldDesignator=R28 NewDesignator=R18
+Change Component Designator: OldDesignator=R29 NewDesignator=R20
+Change Component Designator: OldDesignator=R30 NewDesignator=R22
+Added Component: Designator=R2(RESC3216X70X50LL20T25_CONFIG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2018_09_04_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESCAXE-50P380X160X45-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Landpattern"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000COL4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "EXB2HV<2dig_res+#zeros><tol/jumper>V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?range=inc-in-stock&st=exb2hv"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESCAXE-50P380X160X45-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Landpattern"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000COL4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "EXB2HV<2dig_res+#zeros><tol/jumper>V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?range=inc-in-stock&st=exb2hv"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESCAXE-50P380X160X45-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Landpattern"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000COL4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2020-01-03_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOC0000C14-1108062.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "EXB2HV<2dig_res+#zeros><tol/jumper>V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?range=inc-in-stock&st=exb2hv"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=NetR3_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-3
+Added Pin To Net: NetName=DIG_IO_N1 Pin=R3-1
+Added Pin To Net: NetName=DIG_IO_N2 Pin=R3-2
+Added Pin To Net: NetName=DIG_IO_N3 Pin=R3-3
+Added Pin To Net: NetName=DIG_IO_N4 Pin=R3-4
+Added Pin To Net: NetName=DIG_IO_N5 Pin=R3-5
+Added Pin To Net: NetName=DIG_IO_N6 Pin=R3-6
+Added Pin To Net: NetName=DIG_IO_N7 Pin=R3-7
+Added Pin To Net: NetName=DIG_IO_N8 Pin=R3-8
+Added Pin To Net: NetName=GND Pin=R3-9
+Added Pin To Net: NetName=GND Pin=R3-10
+Added Pin To Net: NetName=GND Pin=R3-11
+Added Pin To Net: NetName=GND Pin=R3-12
+Added Pin To Net: NetName=GND Pin=R3-13
+Added Pin To Net: NetName=GND Pin=R3-14
+Added Pin To Net: NetName=GND Pin=R3-15
+Added Pin To Net: NetName=GND Pin=R3-16
+Added Pin To Net: NetName=DIG_IO_N15 Pin=R5-1
+Added Pin To Net: NetName=DIG_IO_N16 Pin=R5-2
+Added Pin To Net: NetName=DIG_IO_N17 Pin=R5-3
+Added Pin To Net: NetName=DIG_IO_N18 Pin=R5-4
+Added Pin To Net: NetName=DIG_IO_N19 Pin=R5-5
+Added Pin To Net: NetName=DIG_IO_N20 Pin=R5-6
+Added Pin To Net: NetName=DIG_IO_N21 Pin=R5-7
+Added Pin To Net: NetName=DIG_IO_N22 Pin=R5-8
+Added Pin To Net: NetName=GND Pin=R5-9
+Added Pin To Net: NetName=GND Pin=R5-10
+Added Pin To Net: NetName=GND Pin=R5-11
+Added Pin To Net: NetName=GND Pin=R5-12
+Added Pin To Net: NetName=GND Pin=R5-13
+Added Pin To Net: NetName=GND Pin=R5-14
+Added Pin To Net: NetName=GND Pin=R5-15
+Added Pin To Net: NetName=GND Pin=R5-16
+Added Pin To Net: NetName=DIG_IO_N23 Pin=R6-1
+Added Pin To Net: NetName=DIG_IO_N24 Pin=R6-2
+Added Pin To Net: NetName=DIG_IO_N25 Pin=R6-3
+Added Pin To Net: NetName=DIG_IO_N26 Pin=R6-4
+Added Pin To Net: NetName=DIG_IO_N27 Pin=R6-5
+Added Pin To Net: NetName=DIG_IO_N28 Pin=R6-6
+Added Pin To Net: NetName=DIG_IO_N29 Pin=R6-7
+Added Pin To Net: NetName=DIG_IO_N30 Pin=R6-8
+Added Pin To Net: NetName=GND Pin=R6-9
+Added Pin To Net: NetName=GND Pin=R6-10
+Added Pin To Net: NetName=GND Pin=R6-11
+Added Pin To Net: NetName=GND Pin=R6-12
+Added Pin To Net: NetName=GND Pin=R6-13
+Added Pin To Net: NetName=GND Pin=R6-14
+Added Pin To Net: NetName=GND Pin=R6-15
+Added Pin To Net: NetName=GND Pin=R6-16
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR2_2
+Added Member To Class: ClassName=LS15V_top Member=Component R2 0.5W
+Added Member To Class: ClassName=X2_OutputConnector Member=Component R3 0.063W
+Added Member To Class: ClassName=LS5V_top Member=Component R4 (R1) 0.1W
+Added Member To Class: ClassName=X2_OutputConnector Member=Component R5 0.063W
+Added Member To Class: ClassName=X2_OutputConnector Member=Component R6 0.063W

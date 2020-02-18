@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=X2_OutputConnector Member=R1
+Change Component Footprint: Designator=U4_RS422_rec_H Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Change Component Footprint: Designator=U4_RS422_recA Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Change Component Footprint: Designator=U4_RS422_recB Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Change Component Footprint: Designator=U4_RS422_recC Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Change Component Footprint: Designator=U4_RS422_recD Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Change Component Footprint: Designator=U4_RS422_recE Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Change Component Footprint: Designator=U4_RS422_recF Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Change Component Footprint: Designator=U4_RS422_recG Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_M
+Added Member To Class: ClassName=X2_OutputConnector Member=Component R4 0.063W

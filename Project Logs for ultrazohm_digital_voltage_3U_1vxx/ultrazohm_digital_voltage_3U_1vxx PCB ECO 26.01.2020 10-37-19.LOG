@@ -1,0 +1,470 @@
+Added Component: Designator=U2A(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Added Component: Designator=U2B(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Added Component: Designator=U2C(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Added Component: Designator=U2D(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Added Component: Designator=U2E(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_3V3"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_5V"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "3V3_to_RS422"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Max Voltage"; Value = "18"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "MPN"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/7737746P"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MC14504BDR2GOSCT-ND"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2534385"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "863-MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Add component (AddParameter): Name = "Value"; Value = "MC14504BDR2G"; VariantName = "RS422_to_3V3"
+Added Pin To Net: NetName=5V0 Pin=U2A-1
+Added Pin To Net: NetName=DIG_O_15V_A1 Pin=U2A-2
+Added Pin To Net: NetName=DIG_IO_5V_A1 Pin=U2A-3
+Added Pin To Net: NetName=DIG_O_15V_B1 Pin=U2A-4
+Added Pin To Net: NetName=DIG_IO_5V_B1 Pin=U2A-5
+Added Pin To Net: NetName=DIG_O_15V_C1 Pin=U2A-6
+Added Pin To Net: NetName=DIG_IO_5V_C1 Pin=U2A-7
+Added Pin To Net: NetName=GND Pin=U2A-8
+Added Pin To Net: NetName=DIG_IO_5V_E1 Pin=U2A-9
+Added Pin To Net: NetName=DIG_O_15V_E1 Pin=U2A-10
+Added Pin To Net: NetName=DIG_IO_5V_F1 Pin=U2A-11
+Added Pin To Net: NetName=DIG_O_15V_F1 Pin=U2A-12
+Added Pin To Net: NetName=NetR2_2 Pin=U2A-13
+Added Pin To Net: NetName=DIG_IO_5V_D1 Pin=U2A-14
+Added Pin To Net: NetName=DIG_O_15V_D1 Pin=U2A-15
+Added Pin To Net: NetName=15V0 Pin=U2A-16
+Added Pin To Net: NetName=5V0 Pin=U2B-1
+Added Pin To Net: NetName=DIG_O_15V_A2 Pin=U2B-2
+Added Pin To Net: NetName=DIG_IO_5V_A2 Pin=U2B-3
+Added Pin To Net: NetName=DIG_O_15V_B2 Pin=U2B-4
+Added Pin To Net: NetName=DIG_IO_5V_B2 Pin=U2B-5
+Added Pin To Net: NetName=DIG_O_15V_C2 Pin=U2B-6
+Added Pin To Net: NetName=DIG_IO_5V_C2 Pin=U2B-7
+Added Pin To Net: NetName=GND Pin=U2B-8
+Added Pin To Net: NetName=DIG_IO_5V_E2 Pin=U2B-9
+Added Pin To Net: NetName=DIG_O_15V_E2 Pin=U2B-10
+Added Pin To Net: NetName=DIG_IO_5V_F2 Pin=U2B-11
+Added Pin To Net: NetName=DIG_O_15V_F2 Pin=U2B-12
+Added Pin To Net: NetName=NetR2_2 Pin=U2B-13
+Added Pin To Net: NetName=DIG_IO_5V_D2 Pin=U2B-14
+Added Pin To Net: NetName=DIG_O_15V_D2 Pin=U2B-15
+Added Pin To Net: NetName=15V0 Pin=U2B-16
+Added Pin To Net: NetName=5V0 Pin=U2C-1
+Added Pin To Net: NetName=DIG_O_15V_A3 Pin=U2C-2
+Added Pin To Net: NetName=DIG_IO_5V_A3 Pin=U2C-3
+Added Pin To Net: NetName=DIG_O_15V_B3 Pin=U2C-4
+Added Pin To Net: NetName=DIG_IO_5V_B3 Pin=U2C-5
+Added Pin To Net: NetName=DIG_O_15V_C3 Pin=U2C-6
+Added Pin To Net: NetName=DIG_IO_5V_C3 Pin=U2C-7
+Added Pin To Net: NetName=GND Pin=U2C-8
+Added Pin To Net: NetName=DIG_IO_5V_E3 Pin=U2C-9
+Added Pin To Net: NetName=DIG_O_15V_E3 Pin=U2C-10
+Added Pin To Net: NetName=DIG_IO_5V_F3 Pin=U2C-11
+Added Pin To Net: NetName=DIG_O_15V_F3 Pin=U2C-12
+Added Pin To Net: NetName=NetR2_2 Pin=U2C-13
+Added Pin To Net: NetName=DIG_IO_5V_D3 Pin=U2C-14
+Added Pin To Net: NetName=DIG_O_15V_D3 Pin=U2C-15
+Added Pin To Net: NetName=15V0 Pin=U2C-16
+Added Pin To Net: NetName=5V0 Pin=U2D-1
+Added Pin To Net: NetName=DIG_O_15V_A4 Pin=U2D-2
+Added Pin To Net: NetName=DIG_IO_5V_A4 Pin=U2D-3
+Added Pin To Net: NetName=DIG_O_15V_B4 Pin=U2D-4
+Added Pin To Net: NetName=DIG_IO_5V_B4 Pin=U2D-5
+Added Pin To Net: NetName=DIG_O_15V_C4 Pin=U2D-6
+Added Pin To Net: NetName=DIG_IO_5V_C4 Pin=U2D-7
+Added Pin To Net: NetName=GND Pin=U2D-8
+Added Pin To Net: NetName=DIG_IO_5V_E4 Pin=U2D-9
+Added Pin To Net: NetName=DIG_O_15V_E4 Pin=U2D-10
+Added Pin To Net: NetName=DIG_IO_5V_F4 Pin=U2D-11
+Added Pin To Net: NetName=DIG_O_15V_F4 Pin=U2D-12
+Added Pin To Net: NetName=NetR2_2 Pin=U2D-13
+Added Pin To Net: NetName=DIG_IO_5V_D4 Pin=U2D-14
+Added Pin To Net: NetName=DIG_O_15V_D4 Pin=U2D-15
+Added Pin To Net: NetName=15V0 Pin=U2D-16
+Added Pin To Net: NetName=5V0 Pin=U2E-1
+Added Pin To Net: NetName=DIG_O_15V_A5 Pin=U2E-2
+Added Pin To Net: NetName=DIG_IO_5V_A5 Pin=U2E-3
+Added Pin To Net: NetName=DIG_O_15V_B5 Pin=U2E-4
+Added Pin To Net: NetName=DIG_IO_5V_B5 Pin=U2E-5
+Added Pin To Net: NetName=DIG_O_15V_C5 Pin=U2E-6
+Added Pin To Net: NetName=DIG_IO_5V_C5 Pin=U2E-7
+Added Pin To Net: NetName=GND Pin=U2E-8
+Added Pin To Net: NetName=DIG_IO_5V_E5 Pin=U2E-9
+Added Pin To Net: NetName=DIG_O_15V_E5 Pin=U2E-10
+Added Pin To Net: NetName=DIG_IO_5V_F5 Pin=U2E-11
+Added Pin To Net: NetName=DIG_O_15V_F5 Pin=U2E-12
+Added Pin To Net: NetName=NetR2_2 Pin=U2E-13
+Added Pin To Net: NetName=DIG_IO_5V_D5 Pin=U2E-14
+Added Pin To Net: NetName=DIG_O_15V_D5 Pin=U2E-15
+Added Pin To Net: NetName=15V0 Pin=U2E-16
+Added Member To Class: ClassName=LS15VA Member=Component U2A (U2A) MC14504BDR2G
+Added Member To Class: ClassName=LS15VB Member=Component U2B (U2A) MC14504BDR2G
+Added Member To Class: ClassName=LS15VC Member=Component U2C (U2A) MC14504BDR2G
+Added Member To Class: ClassName=LS15VD Member=Component U2D (U2A) MC14504BDR2G
+Added Member To Class: ClassName=LS15VE Member=Component U2E (U2A) MC14504BDR2G

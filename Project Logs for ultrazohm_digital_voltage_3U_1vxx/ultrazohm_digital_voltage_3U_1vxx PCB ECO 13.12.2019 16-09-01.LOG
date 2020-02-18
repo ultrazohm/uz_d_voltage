@@ -1,0 +1,13 @@
+Change component parameters: Designator = "U1"; Footprint = "R78C1510"; UniqueID = "\SMQLPFVK\ZIHGQWSL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1"; Value = "RECOM Power"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxVoltage"; Value = "42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinVoltage"; Value = "18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN1"; Value = "R-78C<OutputVoltage>-1.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OutputVoltage"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "R-78C15-1.0"; VariantName = "[No Variations]"

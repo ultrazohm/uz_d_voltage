@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=PS1 Member=C14
+Removed Member From Class: ClassName=PS1 Member=C16
+Added Component: Designator=C15(CAPC3216X180X50ML20T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C15-2

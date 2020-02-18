@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=ENABLE Pin=X1-77
+Added Component: Designator=R37(RESC3216X70X50LL20T25_CONFIG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2018_09_04_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ERJU080R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RESC3216X70X50LL20T25_CONFIG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-U080R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ENABLE Pin=R37-2
+Added Pin To Net: NetName=3V3 Pin=R37-3
+Added Pin To Net: NetName=PS_DIG_GPIO_01 Pin=R37-1
+Added Pin To Net: NetName=PS_DIG_GPIO_01 Pin=X1-77
+Added Net: Name=PS_DIG_GPIO_01

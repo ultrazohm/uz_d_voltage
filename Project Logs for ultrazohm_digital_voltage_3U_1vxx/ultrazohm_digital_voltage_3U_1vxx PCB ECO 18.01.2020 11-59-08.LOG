@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=J1 Old Footprint=IPL1-115-01-XX-D-RA New Footprint=IPL1-115-01-XX-D-RA
+Change Physical Footprint: Designator=J2 Old Footprint=IPL1-120-01-XX-D-RA New Footprint=IPL1-120-01-XX-D-RA
+Change Physical Footprint: Designator=U6A Old Footprint=TI_DL-R-PDSO-G48_N New Footprint=TI_DL-R-PDSO-G48_N
+Change Physical Footprint: Designator=U6B Old Footprint=TI_DL-R-PDSO-G48_N New Footprint=TI_DL-R-PDSO-G48_N

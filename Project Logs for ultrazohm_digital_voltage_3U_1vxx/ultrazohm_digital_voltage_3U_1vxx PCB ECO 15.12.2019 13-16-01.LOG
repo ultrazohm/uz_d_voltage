@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=1A1 Pin=X1-15
+Removed Pin From Net: NetName=1A2 Pin=X1-16
+Removed Pin From Net: NetName=1A3 Pin=X1-19
+Removed Pin From Net: NetName=1A4 Pin=X1-20
+Removed Pin From Net: NetName=1A5 Pin=X1-23
+Removed Pin From Net: NetName=1A6 Pin=X1-24
+Removed Pin From Net: NetName=1A7 Pin=X1-27
+Removed Pin From Net: NetName=1A8 Pin=X1-28
+Removed Pin From Net: NetName=2A1 Pin=X1-31
+Removed Pin From Net: NetName=2A2 Pin=X1-32
+Removed Pin From Net: NetName=2A3 Pin=X1-35
+Removed Pin From Net: NetName=2A4 Pin=X1-36
+Removed Pin From Net: NetName=2A5 Pin=X1-39
+Removed Pin From Net: NetName=2A6 Pin=X1-40
+Removed Pin From Net: NetName=2A7 Pin=X1-43
+Removed Pin From Net: NetName=2A8 Pin=X1-44
+Added Pin To Net: NetName=2A8 Pin=X1-15
+Added Pin To Net: NetName=2A7 Pin=X1-16
+Added Pin To Net: NetName=2A6 Pin=X1-19
+Added Pin To Net: NetName=2A5 Pin=X1-20
+Added Pin To Net: NetName=2A4 Pin=X1-23
+Added Pin To Net: NetName=2A3 Pin=X1-24
+Added Pin To Net: NetName=2A2 Pin=X1-27
+Added Pin To Net: NetName=2A1 Pin=X1-28
+Added Pin To Net: NetName=1A8 Pin=X1-31
+Added Pin To Net: NetName=1A7 Pin=X1-32
+Added Pin To Net: NetName=1A6 Pin=X1-35
+Added Pin To Net: NetName=1A5 Pin=X1-36
+Added Pin To Net: NetName=1A4 Pin=X1-39
+Added Pin To Net: NetName=1A3 Pin=X1-40
+Added Pin To Net: NetName=1A2 Pin=X1-43
+Added Pin To Net: NetName=1A1 Pin=X1-44
+Change Class Name : Old Net Name=Room Definition 1 New Net Name=PS1
+Change Class Name : Old Net Name=Room Definition 2 New Net Name=U1
+Change Class Name : Old Net Name=Room Definition 3 New Net Name=U_Digital_CarrierPlug
+Change Room Scope: Old Scope=InComponentClass('Room Definition 1') New Scope=InComponentClass('PS1')
+Added Room: Name=U1
+Added Room: Name=U_Digital_CarrierPlug

@@ -1,0 +1,550 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Added Component: Designator=C1A(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C1B(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2A(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2B(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C3A(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C3B(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C4A(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C4B(CAPC1608X95X40NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCap"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinCap"; Value = "10p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "C<pkg[inch]><2d cap [pf] + #zeros><ToleranceSym><VoltageSym>RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Voltage Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-smd?brand=kemet&kapazitatstoleranz=posneg-10pc&dielektrikum=x7r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=R1A(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R1B(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2A(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2B(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3A(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3B(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4A(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4B(RESC1608X55X30NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "ERJU<pkg><tol><val><pkg_meth>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://de.farnell.com/w/search?qualifizierungsstandard-der-automobilindustrie=aec-q200&range=inc-in-stock&st=erju"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U1A(TI_DL-R-PDSO-G48_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/lit/gpn/sn74lvch16t245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "SN74LVCH16T245DL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "595-SN74LVCH16T245GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN2"; Value = "8143916P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN74LVCH16T245GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/8143916P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SN74LVCH16T245DL"; VariantName = "[No Variations]"
+Added Component: Designator=U1B(TI_DL-R-PDSO-G48_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2019-12-11_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://www.ti.com/lit/gpn/sn74lvch16t245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN1"; Value = "SN74LVCH16T245DL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CurrentFootprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN1"; Value = "595-SN74LVCH16T245GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN2"; Value = "8143916P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN74LVCH16T245GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier2"; Value = "http://uk.rs-online.com/web/p/products/8143916P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SN74LVCH16T245DL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Change Net Name : Old Net Name=DIG_IO_01 New Net Name=DIG_IO_1
+Change Net Name : Old Net Name=DIG_IO_02 New Net Name=DIG_IO_2
+Change Net Name : Old Net Name=DIG_IO_03 New Net Name=DIG_IO_3
+Change Net Name : Old Net Name=DIG_IO_04 New Net Name=DIG_IO_4
+Change Net Name : Old Net Name=DIG_IO_05 New Net Name=DIG_IO_5
+Change Net Name : Old Net Name=DIG_IO_06 New Net Name=DIG_IO_6
+Change Net Name : Old Net Name=DIG_IO_07 New Net Name=DIG_IO_7
+Change Net Name : Old Net Name=DIG_IO_08 New Net Name=DIG_IO_8
+Change Net Name : Old Net Name=DIG_IO_09 New Net Name=DIG_IO_9
+Change Net Name : Old Net Name=DIG_Res_01 New Net Name=DIG_Res_1
+Change Net Name : Old Net Name=DIG_Res_02 New Net Name=DIG_Res_2
+Change Net Name : Old Net Name=DIG_Res_03 New Net Name=DIG_Res_3
+Change Net Name : Old Net Name=DIG_Res_04 New Net Name=DIG_Res_4
+Change Net Name : Old Net Name=DIG_Res_05 New Net Name=DIG_Res_5
+Change Net Name : Old Net Name=DIG_Res_06 New Net Name=DIG_Res_6
+Change Net Name : Old Net Name=DIG_Res_07 New Net Name=DIG_Res_7
+Change Net Name : Old Net Name=GND New Net Name==VinName
+Added Pin To Net: NetName=1DIRA Pin=C1A-1
+Added Pin To Net: NetName=1DIRA Pin=C1B-1
+Added Pin To Net: NetName=1DIRA Pin=C3A-1
+Added Pin To Net: NetName=1DIRA Pin=C3B-1
+Added Pin To Net: NetName=1DIRA Pin=R4A-2
+Added Pin To Net: NetName=1DIRA Pin=R4B-2
+Added Pin To Net: NetName=1DIRA Pin=U1A-7
+Added Pin To Net: NetName=1DIRA Pin=U1A-18
+Added Pin To Net: NetName=1DIRA Pin=U1B-7
+Added Pin To Net: NetName=1DIRA Pin=U1B-18
+Added Pin To Net: NetName=1DIRA Pin=X1-11
+Added Pin To Net: NetName=1DIRA Pin=X1-12
+Added Net: Name=1DIRA
+Added Pin To Net: NetName=1O\E\A Pin=R1A-1
+Added Pin To Net: NetName=1O\E\A Pin=R1B-1
+Added Pin To Net: NetName=1O\E\A Pin=R3A-2
+Added Pin To Net: NetName=1O\E\A Pin=R3B-2
+Added Net: Name=1O\E\A
+Added Pin To Net: NetName=2DIRA Pin=C2A-2
+Added Pin To Net: NetName=2DIRA Pin=C2B-2
+Added Pin To Net: NetName=2DIRA Pin=C4A-2
+Added Pin To Net: NetName=2DIRA Pin=C4B-2
+Added Pin To Net: NetName=2DIRA Pin=R2A-1
+Added Pin To Net: NetName=2DIRA Pin=R2B-1
+Added Pin To Net: NetName=2DIRA Pin=U1A-31
+Added Pin To Net: NetName=2DIRA Pin=U1A-42
+Added Pin To Net: NetName=2DIRA Pin=U1B-31
+Added Pin To Net: NetName=2DIRA Pin=U1B-42
+Added Pin To Net: NetName=2DIRA Pin=X1-7
+Added Pin To Net: NetName=2DIRA Pin=X1-8
+Added Net: Name=2DIRA
+Added Pin To Net: NetName==GndName Pin=C1-2
+Added Pin To Net: NetName==GndName Pin=C2-2
+Added Pin To Net: NetName==GndName Pin=C3-1
+Added Pin To Net: NetName==GndName Pin=C4-1
+Added Pin To Net: NetName==GndName Pin=C5-1
+Added Pin To Net: NetName==GndName Pin=C6-1
+Added Pin To Net: NetName==GndName Pin=U1-2
+Added Pin To Net: NetName==GndName Pin=X1-3
+Added Pin To Net: NetName==GndName Pin=X1-4
+Added Net: Name==GndName
+Added Pin To Net: NetName=A1A Pin=U1A-47
+Added Net: Name=A1A
+Added Pin To Net: NetName=A1B Pin=U1B-47
+Added Net: Name=A1B
+Added Pin To Net: NetName=A2A Pin=U1A-46
+Added Net: Name=A2A
+Added Pin To Net: NetName=A2B Pin=U1B-46
+Added Net: Name=A2B
+Added Pin To Net: NetName=A3A Pin=U1A-44
+Added Net: Name=A3A
+Added Pin To Net: NetName=A3B Pin=U1B-44
+Added Net: Name=A3B
+Added Pin To Net: NetName=A4A Pin=U1A-43
+Added Net: Name=A4A
+Added Pin To Net: NetName=A4B Pin=U1B-43
+Added Net: Name=A4B
+Added Pin To Net: NetName=A5A Pin=U1A-41
+Added Net: Name=A5A
+Added Pin To Net: NetName=A5B Pin=U1B-41
+Added Net: Name=A5B
+Added Pin To Net: NetName=A6A Pin=U1A-40
+Added Net: Name=A6A
+Added Pin To Net: NetName=A6B Pin=U1B-40
+Added Net: Name=A6B
+Added Pin To Net: NetName=A7A Pin=U1A-38
+Added Net: Name=A7A
+Added Pin To Net: NetName=A7B Pin=U1B-38
+Added Net: Name=A7B
+Added Pin To Net: NetName=A8A Pin=U1A-37
+Added Net: Name=A8A
+Added Pin To Net: NetName=A8B Pin=U1B-37
+Added Net: Name=A8B
+Added Pin To Net: NetName=A9A Pin=U1A-36
+Added Net: Name=A9A
+Added Pin To Net: NetName=A9B Pin=U1B-36
+Added Net: Name=A9B
+Added Pin To Net: NetName=A10A Pin=U1A-35
+Added Net: Name=A10A
+Added Pin To Net: NetName=A10B Pin=U1B-35
+Added Net: Name=A10B
+Added Pin To Net: NetName=A11A Pin=U1A-33
+Added Net: Name=A11A
+Added Pin To Net: NetName=A11B Pin=U1B-33
+Added Net: Name=A11B
+Added Pin To Net: NetName=A12A Pin=U1A-32
+Added Net: Name=A12A
+Added Pin To Net: NetName=A12B Pin=U1B-32
+Added Net: Name=A12B
+Added Pin To Net: NetName=A13A Pin=U1A-30
+Added Net: Name=A13A
+Added Pin To Net: NetName=A13B Pin=U1B-30
+Added Net: Name=A13B
+Added Pin To Net: NetName=A14A Pin=U1A-29
+Added Net: Name=A14A
+Added Pin To Net: NetName=A14B Pin=U1B-29
+Added Net: Name=A14B
+Added Pin To Net: NetName=A15A Pin=U1A-27
+Added Net: Name=A15A
+Added Pin To Net: NetName=A15B Pin=U1B-27
+Added Net: Name=A15B
+Added Pin To Net: NetName=A16A Pin=U1A-26
+Added Net: Name=A16A
+Added Pin To Net: NetName=A16B Pin=U1B-26
+Added Net: Name=A16B
+Added Pin To Net: NetName=B1A Pin=U1A-2
+Added Net: Name=B1A
+Added Pin To Net: NetName=B1B Pin=U1B-2
+Added Net: Name=B1B
+Added Pin To Net: NetName=B2A Pin=U1A-3
+Added Net: Name=B2A
+Added Pin To Net: NetName=B2B Pin=U1B-3
+Added Net: Name=B2B
+Added Pin To Net: NetName=B3A Pin=U1A-5
+Added Net: Name=B3A
+Added Pin To Net: NetName=B3B Pin=U1B-5
+Added Net: Name=B3B
+Added Pin To Net: NetName=B4A Pin=U1A-6
+Added Net: Name=B4A
+Added Pin To Net: NetName=B4B Pin=U1B-6
+Added Net: Name=B4B
+Added Pin To Net: NetName=B5A Pin=U1A-8
+Added Net: Name=B5A
+Added Pin To Net: NetName=B5B Pin=U1B-8
+Added Net: Name=B5B
+Added Pin To Net: NetName=B6A Pin=U1A-9
+Added Net: Name=B6A
+Added Pin To Net: NetName=B6B Pin=U1B-9
+Added Net: Name=B6B
+Added Pin To Net: NetName=B7A Pin=U1A-11
+Added Net: Name=B7A
+Added Pin To Net: NetName=B7B Pin=U1B-11
+Added Net: Name=B7B
+Added Pin To Net: NetName=B8A Pin=U1A-12
+Added Net: Name=B8A
+Added Pin To Net: NetName=B8B Pin=U1B-12
+Added Net: Name=B8B
+Added Pin To Net: NetName=B9A Pin=U1A-13
+Added Net: Name=B9A
+Added Pin To Net: NetName=B9B Pin=U1B-13
+Added Net: Name=B9B
+Added Pin To Net: NetName=B10A Pin=U1A-14
+Added Net: Name=B10A
+Added Pin To Net: NetName=B10B Pin=U1B-14
+Added Net: Name=B10B
+Added Pin To Net: NetName=B11A Pin=U1A-16
+Added Net: Name=B11A
+Added Pin To Net: NetName=B11B Pin=U1B-16
+Added Net: Name=B11B
+Added Pin To Net: NetName=B12A Pin=U1A-17
+Added Net: Name=B12A
+Added Pin To Net: NetName=B12B Pin=U1B-17
+Added Net: Name=B12B
+Added Pin To Net: NetName=B13A Pin=U1A-19
+Added Net: Name=B13A
+Added Pin To Net: NetName=B13B Pin=U1B-19
+Added Net: Name=B13B
+Added Pin To Net: NetName=B14A Pin=U1A-20
+Added Net: Name=B14A
+Added Pin To Net: NetName=B14B Pin=U1B-20
+Added Net: Name=B14B
+Added Pin To Net: NetName=B15A Pin=U1A-22
+Added Net: Name=B15A
+Added Pin To Net: NetName=B15B Pin=U1B-22
+Added Net: Name=B15B
+Added Pin To Net: NetName=B16A Pin=U1A-23
+Added Net: Name=B16A
+Added Pin To Net: NetName=B16B Pin=U1B-23
+Added Net: Name=B16B
+Added Pin To Net: NetName=GND Pin=C1A-2
+Added Pin To Net: NetName=GND Pin=C1B-2
+Added Pin To Net: NetName=GND Pin=C2A-1
+Added Pin To Net: NetName=GND Pin=C2B-1
+Added Pin To Net: NetName=GND Pin=C3A-2
+Added Pin To Net: NetName=GND Pin=C3B-2
+Added Pin To Net: NetName=GND Pin=C4A-1
+Added Pin To Net: NetName=GND Pin=C4B-1
+Added Pin To Net: NetName=GND Pin=U1A-4
+Added Pin To Net: NetName=GND Pin=U1A-10
+Added Pin To Net: NetName=GND Pin=U1A-15
+Added Pin To Net: NetName=GND Pin=U1A-21
+Added Pin To Net: NetName=GND Pin=U1A-28
+Added Pin To Net: NetName=GND Pin=U1A-34
+Added Pin To Net: NetName=GND Pin=U1A-39
+Added Pin To Net: NetName=GND Pin=U1A-45
+Added Pin To Net: NetName=GND Pin=U1B-4
+Added Pin To Net: NetName=GND Pin=U1B-10
+Added Pin To Net: NetName=GND Pin=U1B-15
+Added Pin To Net: NetName=GND Pin=U1B-21
+Added Pin To Net: NetName=GND Pin=U1B-28
+Added Pin To Net: NetName=GND Pin=U1B-34
+Added Pin To Net: NetName=GND Pin=U1B-39
+Added Pin To Net: NetName=GND Pin=U1B-45
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1A_2 Pin=R1A-2
+Added Pin To Net: NetName=NetR1A_2 Pin=U1A-1
+Added Net: Name=NetR1A_2
+Added Pin To Net: NetName=NetR1B_2 Pin=R1B-2
+Added Pin To Net: NetName=NetR1B_2 Pin=U1B-1
+Added Net: Name=NetR1B_2
+Added Pin To Net: NetName=NetR2A_2 Pin=R2A-2
+Added Pin To Net: NetName=NetR2A_2 Pin=U1A-48
+Added Net: Name=NetR2A_2
+Added Pin To Net: NetName=NetR2B_2 Pin=R2B-2
+Added Pin To Net: NetName=NetR2B_2 Pin=U1B-48
+Added Net: Name=NetR2B_2
+Added Pin To Net: NetName=NetR3A_1 Pin=R3A-1
+Added Pin To Net: NetName=NetR3A_1 Pin=U1A-24
+Added Net: Name=NetR3A_1
+Added Pin To Net: NetName=NetR3B_1 Pin=R3B-1
+Added Pin To Net: NetName=NetR3B_1 Pin=U1B-24
+Added Net: Name=NetR3B_1
+Added Pin To Net: NetName=NetR4A_1 Pin=R4A-1
+Added Pin To Net: NetName=NetR4A_1 Pin=U1A-25
+Added Net: Name=NetR4A_1
+Added Pin To Net: NetName=NetR4B_1 Pin=R4B-1
+Added Pin To Net: NetName=NetR4B_1 Pin=U1B-25
+Added Net: Name=NetR4B_1
+Added Class: Name=U21
+Added Class: Name=U22
+Added Class: Name=DIG_IO_[1..30]
+Added Class: Name=DIG_Res_[1..7]
+Added Room: Name=U21
+Added Room: Name=U22

@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : D:\altium\ultrazohm_digital_voltage_3U_1vxx\ultrazohm_digital_voltage_3U_1vxx.PcbDoc
+Date     : 15.01.2020
+Time     : 18:23:50
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (InNetClass('Power')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (InNetClass('DifferentialSignals')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad X1-11(-12.44mm,67.191mm) on Top Layer [Unplated] And Pad X1-12(-12.44mm,67.191mm) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad X1-15(-12.44mm,65.591mm) on Top Layer [Unplated] And Pad X1-16(-12.44mm,65.591mm) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad X1-7(-12.44mm,68.791mm) on Top Layer [Unplated] And Pad X1-8(-12.44mm,68.791mm) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad X1-97(-12.44mm,29.591mm) on Top Layer [Unplated] And Pad X1-98(-12.44mm,29.591mm) on Bottom Layer [Unplated] 
+Rule Violations :4
+
+Processing Rule : Un-Routed Net Constraint ( (InNetClass('15V_SingleEnded') or InNetClass('3V3_SingleEnded') or InNetClass('5V_SingleEnded') or InNetClass('DifferentialSignals')) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=10mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=10mm) (Preferred=0.3mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : RoomDefinition_4 (Bounding Region = (132.221mm, 36.253mm, 144.721mm, 48.853mm) (InComponentClass('LS15VE'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_3 (Bounding Region = (132.221mm, 53.353mm, 144.721mm, 65.953mm) (InComponentClass('LS15VD'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_5 (Bounding Region = (157.321mm, 24.253mm, 192.321mm, 128.253mm) (InComponentClass('Room Definition 2'))
+Rule Violations :0
+
+Processing Rule : Room LS5V (Bounding Region = (55.5mm, 57.5mm, 74.5mm, 98mm) (InComponentClass('Room Definition 1'))
+   Violation between Room Definition: Between Room LS5V (Bounding Region = (55.5mm, 57.5mm, 74.5mm, 98mm) (InComponentClass('Room Definition 1')) And SMT Small Component R6A-R_TF (89.3mm,86.4mm) on Top Layer 
+   Violation between Room Definition: Between Room LS5V (Bounding Region = (55.5mm, 57.5mm, 74.5mm, 98mm) (InComponentClass('Room Definition 1')) And SMT Small Component R6B-R_TF (89.3mm,69.4mm) on Top Layer 
+   Violation between Room Definition: Between Room LS5V (Bounding Region = (55.5mm, 57.5mm, 74.5mm, 98mm) (InComponentClass('Room Definition 1')) And SMT Small Component R7A-R_TF (92.95mm,86.4mm) on Top Layer 
+   Violation between Room Definition: Between Room LS5V (Bounding Region = (55.5mm, 57.5mm, 74.5mm, 98mm) (InComponentClass('Room Definition 1')) And SMT Small Component R8A-R_TF (96.6mm,86.4mm) on Top Layer 
+   Violation between Room Definition: Between Room LS5V (Bounding Region = (55.5mm, 57.5mm, 74.5mm, 98mm) (InComponentClass('Room Definition 1')) And SMT Small Component R8B-R_TF (96.6mm,69.4mm) on Top Layer 
+Rule Violations :5
+
+Processing Rule : RoomDefinition (Bounding Region = (132.221mm, 107.353mm, 144.721mm, 119.953mm) (InComponentClass('LS15VA'))
+Rule Violations :0
+
+Processing Rule : Room X1_top (Bounding Region = (27.171mm, 47.943mm, 50.031mm, 106.109mm) (InComponentClass('X1_top'))
+Rule Violations :0
+
+Processing Rule : Room PS1 (Bounding Region = (50.54mm, 104.51mm, 86.1mm, 122.29mm) (InComponentClass('PS1'))
+Rule Violations :0
+
+Processing Rule : Room RS422 (Bounding Region = (96.997mm, 29.092mm, 125.397mm, 123.292mm) (InComponentClass('Room Definition 11'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_2 (Bounding Region = (132.221mm, 72.353mm, 144.721mm, 84.953mm) (InComponentClass('LS15VC'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_1 (Bounding Region = (132.221mm, 90.353mm, 144.721mm, 102.953mm) (InComponentClass('LS15VB'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:01

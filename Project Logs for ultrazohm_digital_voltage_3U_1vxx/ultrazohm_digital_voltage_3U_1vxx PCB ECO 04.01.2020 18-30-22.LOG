@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=U4A Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4B Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4C Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4D Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4E Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4F Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4G Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4H Old Footprint=TI_D-R-PDSO-G16_N New Footprint=TI_D-R-PDSO-G16_N
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=U1_LS15VA NewDesignator=U2_LS15VA
+Change Component Designator: OldDesignator=U1_LS15VB NewDesignator=U2_LS15VB
+Change Component Designator: OldDesignator=U1_LS15VC NewDesignator=U2_LS15VC
+Change Component Designator: OldDesignator=U1_LS15VD NewDesignator=U2_LS15VD
+Change Component Designator: OldDesignator=U1_LS15VE NewDesignator=U2_LS15VE
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U4A NewDesignator=U4_RS422_recA
+Change Component Designator: OldDesignator=U4B NewDesignator=U4_RS422_recB
+Change Component Designator: OldDesignator=U4C NewDesignator=U4_RS422_recC
+Change Component Designator: OldDesignator=U4D NewDesignator=U4_RS422_recD
+Change Component Designator: OldDesignator=U4E NewDesignator=U4_RS422_recE
+Change Component Designator: OldDesignator=U4F NewDesignator=U4_RS422_recF
+Change Component Designator: OldDesignator=U4G NewDesignator=U4_RS422_recG
+Change Component Designator: OldDesignator=U4H NewDesignator=U4_RS422_rec_H
+Change Net Name : Old Net Name=NetU4H_9 New Net Name=NetU4_RS422_rec_H_9
+Change Net Name : Old Net Name=NetU4H_10 New Net Name=NetU4_RS422_rec_H_10
+Change Net Name : Old Net Name=NetU4H_11 New Net Name=NetU4_RS422_rec_H_11
+Change Net Name : Old Net Name=NetU4H_13 New Net Name=NetU4_RS422_rec_H_13
+Change Net Name : Old Net Name=NetU4H_14 New Net Name=NetU4_RS422_rec_H_14
+Change Net Name : Old Net Name=NetU4H_15 New Net Name=NetU4_RS422_rec_H_15

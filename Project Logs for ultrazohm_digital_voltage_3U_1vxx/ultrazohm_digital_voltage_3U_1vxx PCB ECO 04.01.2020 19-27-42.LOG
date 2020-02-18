@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=U3_RS422A Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U3_RS422B Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U3_RS422C Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U3_RS422D Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U3_RS422E Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U3_RS422F Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U3_RS422G Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U3_RS422H Old Footprint=TI_D-R-PDSO-G16_L New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_rec_H Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_recA Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_recB Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_recC Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_recD Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_recE Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_recF Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Component Footprint: Designator=U4_RS422_recG Old Footprint=TI_D-R-PDSO-G16_M New Footprint=TI_D-R-PDSO-G16_N
+Change Room Name: Old Name=OutputJack New Name=X2_OutputConnector
+Change Room Scope: Old Scope=InComponentClass('Room Definition 1') New Scope=InComponentClass('X2_OutputConnector')

@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=VIN New Net Name==VinName
+Change Net Name : Old Net Name=VOUT New Net Name==VoutName
+Change Room Name: Old Name=U_Board2Board New Name=X1
+Change Room Scope: Old Scope=InComponentClass('U_Board2Board') New Scope=InComponentClass('X1')
+Added Room: Name=PS1

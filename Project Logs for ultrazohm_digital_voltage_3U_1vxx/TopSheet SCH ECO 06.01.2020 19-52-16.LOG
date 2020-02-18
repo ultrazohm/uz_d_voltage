@@ -1,0 +1,44 @@
+Remove Pin=R21C-3 From Net=UNTERM
+Remove Pin=R21D-4 From Net=DIG_IO_DIFF_C_N
+Remove Pin=R21D-13 From Net=DIG_IO_N
+Remove Pin=R21C-14 From Net=DIG_IO_P
+Change Pin Designator/Name:  Old Designator=NT2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT2-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT3-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT3-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT4-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT4-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT6-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT6-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT8-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT8-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT11-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT11-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT12-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT12-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT13-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT13-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT14-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT14-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT17-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT17-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT18-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT18-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT20-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT20-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT23-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT23-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT24-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT24-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT25-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT25-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT27-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT27-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT29-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT29-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=NT30-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=NT30-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R4-8 Old Name=8 New Designator =9 New Name=9
+Change Pin Designator/Name:  Old Designator=R4-9 Old Name=9 New Designator =8 New Name=8
+Change Pin Designator/Name:  Old Designator=R21B-2 Old Name=2 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=R21B-15 Old Name=15 New Designator =13 New Name=13

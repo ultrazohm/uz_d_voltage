@@ -1,0 +1,5 @@
+Change Component Comment : Designator=Date Old Comment==FinDate New Comment=2020/01
+Change component parameters: Designator = "Date"; Footprint = "Comment"; UniqueID = "\GIITKAEU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2020/01"; VariantName = "[No Variations]"

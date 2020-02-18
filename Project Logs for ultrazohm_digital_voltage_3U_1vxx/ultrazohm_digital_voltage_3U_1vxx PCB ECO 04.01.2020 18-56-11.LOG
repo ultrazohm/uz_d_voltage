@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=LS5V_top Member=R1
+Removed Member From Class: ClassName=LS15V_top Member=R2
+Change Component Designator: OldDesignator=R1 NewDesignator=R24
+Change Component Designator: OldDesignator=R2 NewDesignator=R23
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR23_2
+Added Member To Class: ClassName=LS15V_top Member=Component R23 0.5W
+Added Member To Class: ClassName=LS5V_top Member=Component R24 0.1W

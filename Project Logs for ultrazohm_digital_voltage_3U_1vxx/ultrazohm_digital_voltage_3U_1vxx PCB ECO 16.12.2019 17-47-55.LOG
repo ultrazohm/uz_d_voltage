@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=X1_top Member=R3
+Removed Member From Class: ClassName=X1_top Member=R6
+Removed Member From Class: ClassName=LS15VA Member=U7
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C3_RS422A
+Change Component Designator: OldDesignator=C8 NewDesignator=C3_RS422B
+Change Component Designator: OldDesignator=C9 NewDesignator=C3_RS422C
+Change Component Designator: OldDesignator=C10 NewDesignator=C3_RS422D
+Change Component Designator: OldDesignator=C11 NewDesignator=C3_RS422E
+Change Component Designator: OldDesignator=C12 NewDesignator=C3_RS422F
+Change Component Designator: OldDesignator=C13 NewDesignator=C3_RS422G
+Change Component Designator: OldDesignator=C14 NewDesignator=C3_RS422H
+Change Component Designator: OldDesignator=C15 NewDesignator=C1_LS15VA
+Change Component Designator: OldDesignator=C16 NewDesignator=C1_LS15VB
+Change Component Designator: OldDesignator=C17 NewDesignator=C1_LS15VC
+Change Component Designator: OldDesignator=C18 NewDesignator=C1_LS15VD
+Change Component Designator: OldDesignator=C19 NewDesignator=C1_LS15VE
+Change Component Designator: OldDesignator=C20 NewDesignator=C2_LS15VA
+Change Component Designator: OldDesignator=C21 NewDesignator=C2_LS15VB
+Change Component Designator: OldDesignator=C22 NewDesignator=C2_LS15VC
+Change Component Designator: OldDesignator=C23 NewDesignator=C2_LS15VD
+Change Component Designator: OldDesignator=C24 NewDesignator=C2_LS15VE
+Change Component Designator: OldDesignator=C25 NewDesignator=C3_LS5V_A
+Change Component Designator: OldDesignator=C26 NewDesignator=C3_LS5V_B
+Change Component Designator: OldDesignator=C27 NewDesignator=C4_LS5V_A
+Change Component Designator: OldDesignator=C28 NewDesignator=C4_LS5V_B
+Change Component Designator: OldDesignator=C29 NewDesignator=C1_LS5V_A
+Change Component Designator: OldDesignator=C30 NewDesignator=C1_LS5V_B
+Change Component Designator: OldDesignator=C31 NewDesignator=C2_LS5V_A
+Change Component Designator: OldDesignator=C32 NewDesignator=C2_LS5V_B
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3_LS5V_A
+Change Component Designator: OldDesignator=R5 NewDesignator=R3_LS5V_B
+Change Component Designator: OldDesignator=R6 NewDesignator=R3
+Change Component Designator: OldDesignator=R7 NewDesignator=R4_LS5V_A
+Change Component Designator: OldDesignator=R8 NewDesignator=R4_LS5V_B
+Change Component Designator: OldDesignator=R9 NewDesignator=R1_LS5V_A
+Change Component Designator: OldDesignator=R10 NewDesignator=R1_LS5V_B
+Change Component Designator: OldDesignator=R11 NewDesignator=R2_LS5V_A
+Change Component Designator: OldDesignator=R12 NewDesignator=R2_LS5V_B
+Change Component Designator: OldDesignator=U2 NewDesignator=U1_LS15VA
+Change Component Designator: OldDesignator=U3 NewDesignator=U1_LS15VB
+Change Component Designator: OldDesignator=U4 NewDesignator=U1_LS15VC
+Change Component Designator: OldDesignator=U5 NewDesignator=U1_LS15VD
+Change Component Designator: OldDesignator=U6 NewDesignator=U1_LS15VE
+Change Component Designator: OldDesignator=U7 NewDesignator=U2
+Change Component Designator: OldDesignator=U8 NewDesignator=U3_RS422A
+Change Component Designator: OldDesignator=U9 NewDesignator=U3_RS422B
+Change Component Designator: OldDesignator=U10 NewDesignator=U3_RS422C
+Change Component Designator: OldDesignator=U11 NewDesignator=U3_RS422D
+Change Component Designator: OldDesignator=U12 NewDesignator=U3_RS422E
+Change Component Designator: OldDesignator=U13 NewDesignator=U3_RS422F
+Change Component Designator: OldDesignator=U14 NewDesignator=U3_RS422G
+Change Component Designator: OldDesignator=U15 NewDesignator=U3_RS422H
+Change Component Designator: OldDesignator=U16 NewDesignator=U1_LS5V_A
+Change Component Designator: OldDesignator=U17 NewDesignator=U1_LS5V_B
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR3_2
+Added Member To Class: ClassName=PS1 Member=Component C3 X7R SMD
+Added Member To Class: ClassName=PS1 Member=Component C6 X7R SMD
+Added Member To Class: ClassName=X1_top Member=Component R1 0.1W
+Added Member To Class: ClassName=X1_top Member=Component R2 0.1W
+Added Member To Class: ClassName=LS15VA Member=Component U1_LS15VA (U1) MC14504BDR2G

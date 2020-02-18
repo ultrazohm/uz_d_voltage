@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=ENABLE Pin=X1-52
+Added Pin To Net: NetName=DIG_IO_3V3_C5 Pin=X1-52
+Added Pin To Net: NetName=ENABLE Pin=X1-75

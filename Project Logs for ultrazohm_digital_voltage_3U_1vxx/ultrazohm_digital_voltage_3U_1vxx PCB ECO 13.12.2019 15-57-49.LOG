@@ -1,0 +1,4 @@
+Change Class Name : Old Net Name=U_RECOM_R-78C15-1 New Net Name=PS1
+Change Room Name: Old Name=U_RECOM_R-78C15-1 New Name=X1
+Change Room Scope: Old Scope=InComponentClass('U_RECOM_R-78C15-1') New Scope=InComponentClass('X1')
+Added Room: Name=PS1

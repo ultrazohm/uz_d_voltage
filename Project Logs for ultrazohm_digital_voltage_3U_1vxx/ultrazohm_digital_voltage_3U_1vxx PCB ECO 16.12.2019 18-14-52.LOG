@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=1O\E\A Pin=R1_LS5V_A-1
+Added Pin To Net: NetName=1O\E\A Pin=R1_LS5V_B-1
+Added Pin To Net: NetName=1DIRA Pin=R2_LS5V_A-1
+Added Pin To Net: NetName=1DIRA Pin=R2_LS5V_B-1
+Added Pin To Net: NetName=1O\E\A Pin=R3_LS5V_B-2
+Added Pin To Net: NetName=1DIRA Pin=R4-2
+Added Pin To Net: NetName=1DIRA Pin=R4_LS5V_B-2
+Added Pin To Net: NetName=1O\E\A Pin=U2-4

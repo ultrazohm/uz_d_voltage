@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=LS5V_B Member=R26
+Change Component Kind : Designator=X1 Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=Date(Comment)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "=FinDate"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=LS5V_A Member=Component R33A (R33) R_TF
+Added Member To Class: ClassName=LS5V_B Member=Component R33B (R33) R_TF
+Added Member To Class: ClassName=LS5V_A Member=Component R34A (R34) R_TF
+Added Member To Class: ClassName=LS5V_B Member=Component R35B (R35) R_TF

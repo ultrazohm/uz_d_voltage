@@ -1,0 +1,4 @@
+Added Component: Designator=Project(Designator:comment)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "UltraZohm_DigitalVoltage"; VariantName = "[No Variations]"

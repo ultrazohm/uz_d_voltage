@@ -455,7 +455,7 @@ AnnotateScope=All
 AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -472,7 +472,7 @@ AnnotateScope=All
 AnnotateOrder=19
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -1113,28 +1113,28 @@ DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\ultrazohm_dig
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=1v00
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Wendt
-
-[Parameter3]
-Name=Date
-Value=11/2019
-
-[Parameter4]
-Name=FinDate
-Value=2020/01
-
-[Parameter5]
 Name=ProjectNameCustom
 Value=UltraZohm_DigitalVoltage
 
+[Parameter3]
+Name=FinDate
+Value=2020/01
+
+[Parameter4]
+Name=Date
+Value=11/2019
+
+[Parameter5]
+Name=AuthorParam
+Value=T. Wendt
+
 [Parameter6]
-Name=ProjectRevision
-Value=1v00
+Name=Author
+Value=T. Wendt
 
 [Configuration1]
 Name=Sources

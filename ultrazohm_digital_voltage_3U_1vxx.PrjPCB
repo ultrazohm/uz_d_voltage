@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GZATAJRJ
 
 [Document5]
-DocumentPath=TopSheet.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=SignalConditioning.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,24 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARYRFYXA
 
-[Document8]
-DocumentPath=SignalConditioning.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
+[Document7]
 DocumentPath=3V3_to_5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMDJAHDX
 
-[Document10]
+[Document8]
 DocumentPath=5V_to_15V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZMKOSFZ
 
-[Document11]
+[Document9]
 DocumentPath=SingleToDifferential.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPOMOCKR
 
-[Document12]
+[Document10]
 DocumentPath=3V3_to_5V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=ONSEMI_MC14504BDR2G.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRWKSTOQ
 
-[Document14]
+[Document12]
 DocumentPath=5V_to_15V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=TI_DS26C31T.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,24 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZEYZCYT
 
-[Document16]
-DocumentPath=TI_DS26C31T.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
+[Document14]
 DocumentPath=single_to_differential.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document15]
 DocumentPath=DifferentialToSingle.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBFDCRYL
 
-[Document19]
+[Document16]
 DocumentPath=TI_DS26C32AT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,24 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGGJXRBU
 
-[Document20]
-DocumentPath=TI_DS26C32AT.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
+[Document17]
 DocumentPath=differential_to_single.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document18]
 DocumentPath=PowerPinsBlockingLED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAIBHMZF
 
-[Document23]
+[Document19]
 DocumentPath=SignalBundling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICXBTLXG
 
-[Document24]
+[Document20]
 DocumentPath=NetTieSingleAndDiff.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJUMDANP
 
-[Document25]
+[Document21]
 DocumentPath=Jumper5VLS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNBFPADJ
 
-[Document26]
+[Document22]
 DocumentPath=TermSingleAndDiff.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXFORTJK
 
-[Document27]
+[Document23]
 DocumentPath=NetTie15VAndDiff.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document24]
 DocumentPath=Jumper5VLS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document25]
 DocumentPath=DigitalCarrierPlug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -528,26 +460,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EERIGPQJ
+DocumentUniqueId=BTJVYHKL
 
-[Document30]
-DocumentPath=RECOM_R-78C15-1.0_1A_42V_to_15V.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=18
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RWEXZVRI
-
-[Document31]
+[Document26]
 DocumentPath=TI_SN74LVCH16T245.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTJYGOPI
 
-[Document32]
+[Document27]
 DocumentPath=TI_SN74LVCH16T245.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,41 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
-DocumentPath=RECOM_R-78C15-1.0_1A_42V_to_15V.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document34]
-DocumentPath=Digital_CarrierPlug.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document35]
+[Document28]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document29]
 DocumentPath=SingleToDifferential.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document30]
 DocumentPath=DifferentialToSingle.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document31]
 DocumentPath=NetTieSingleAndDiff.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document32]
 DocumentPath=DigitalCarrierPlug.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document33]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document34]
 DocumentPath=Gerber\DrillFile.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document35]
 DocumentPath=Gerber\GerberFile.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,19 +632,70 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document36]
+DocumentPath=ultrazohm_digital_voltage_3U_1vxx_pdfexport.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document37]
+DocumentPath=ultrazohm_digital_voltage_3U_1vxx.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document38]
+DocumentPath=15V_PowerSupply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NLYYBIJB
+
 [ProjectVariant1]
 UniqueID=0785D7BA-6A26-407A-82B1-6D22135F0F40
 Description=3V3_to_3V3
 AllowFabrication=0
 ParameterCount=0
 VariationCount=49
-Variation1=Designator=U5|UniqueId=\SMQLPFVK\ZIHGQWSL|Kind=1|AlternatePart= 
-Variation2=Designator=C17|UniqueId=\SMQLPFVK\NJSMWYGD|Kind=1|AlternatePart= 
-Variation3=Designator=C19|UniqueId=\SMQLPFVK\TOXGMVGS|Kind=1|AlternatePart= 
-Variation4=Designator=C18|UniqueId=\SMQLPFVK\JLODFTLT|Kind=1|AlternatePart= 
-Variation5=Designator=C20|UniqueId=\SMQLPFVK\HSQVHEMT|Kind=1|AlternatePart= 
-Variation6=Designator=C22|UniqueId=\SMQLPFVK\XOTRVSUB|Kind=1|AlternatePart= 
-Variation7=Designator=C21|UniqueId=\SMQLPFVK\EEJGCYIM|Kind=1|AlternatePart= 
+Variation1=Designator=U5|UniqueId=\ZBQJGYVP\ZIHGQWSL|Kind=1|AlternatePart= 
+Variation2=Designator=C17|UniqueId=\ZBQJGYVP\NJSMWYGD|Kind=1|AlternatePart= 
+Variation3=Designator=C19|UniqueId=\ZBQJGYVP\TOXGMVGS|Kind=1|AlternatePart= 
+Variation4=Designator=C18|UniqueId=\ZBQJGYVP\JLODFTLT|Kind=1|AlternatePart= 
+Variation5=Designator=C20|UniqueId=\ZBQJGYVP\HSQVHEMT|Kind=1|AlternatePart= 
+Variation6=Designator=C22|UniqueId=\ZBQJGYVP\XOTRVSUB|Kind=1|AlternatePart= 
+Variation7=Designator=C21|UniqueId=\ZBQJGYVP\EEJGCYIM|Kind=1|AlternatePart= 
 Variation8=Designator=R33A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\AGQEHQZC|Kind=1|AlternatePart= 
 Variation9=Designator=R34A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\LGXJUSLW|Kind=1|AlternatePart= 
 Variation10=Designator=R34B|UniqueId=\REEOQYYS\IIHAQJIS\VRXDBBMP\LGXJUSLW|Kind=1|AlternatePart= 
@@ -814,13 +746,13 @@ Description=3V3_to_5V
 AllowFabrication=0
 ParameterCount=0
 VariationCount=39
-Variation1=Designator=C17|UniqueId=\SMQLPFVK\NJSMWYGD|Kind=1|AlternatePart= 
-Variation2=Designator=C22|UniqueId=\SMQLPFVK\XOTRVSUB|Kind=1|AlternatePart= 
-Variation3=Designator=C21|UniqueId=\SMQLPFVK\EEJGCYIM|Kind=1|AlternatePart= 
-Variation4=Designator=C19|UniqueId=\SMQLPFVK\TOXGMVGS|Kind=1|AlternatePart= 
-Variation5=Designator=C20|UniqueId=\SMQLPFVK\HSQVHEMT|Kind=1|AlternatePart= 
-Variation6=Designator=C18|UniqueId=\SMQLPFVK\JLODFTLT|Kind=1|AlternatePart= 
-Variation7=Designator=U5|UniqueId=\SMQLPFVK\ZIHGQWSL|Kind=1|AlternatePart= 
+Variation1=Designator=C17|UniqueId=\ZBQJGYVP\NJSMWYGD|Kind=1|AlternatePart= 
+Variation2=Designator=C22|UniqueId=\ZBQJGYVP\XOTRVSUB|Kind=1|AlternatePart= 
+Variation3=Designator=C21|UniqueId=\ZBQJGYVP\EEJGCYIM|Kind=1|AlternatePart= 
+Variation4=Designator=C19|UniqueId=\ZBQJGYVP\TOXGMVGS|Kind=1|AlternatePart= 
+Variation5=Designator=C20|UniqueId=\ZBQJGYVP\HSQVHEMT|Kind=1|AlternatePart= 
+Variation6=Designator=C18|UniqueId=\ZBQJGYVP\JLODFTLT|Kind=1|AlternatePart= 
+Variation7=Designator=U5|UniqueId=\ZBQJGYVP\ZIHGQWSL|Kind=1|AlternatePart= 
 Variation8=Designator=U4C|UniqueId=\REEOQYYS\XIUNHJUM\3TJHASFNK\GRHHGOOG|Kind=1|AlternatePart= 
 Variation9=Designator=U4A|UniqueId=\REEOQYYS\XIUNHJUM\1TJHASFNK\GRHHGOOG|Kind=1|AlternatePart= 
 Variation10=Designator=U4B|UniqueId=\REEOQYYS\XIUNHJUM\2TJHASFNK\GRHHGOOG|Kind=1|AlternatePart= 
@@ -928,13 +860,13 @@ Description=3V3_to_RS422
 AllowFabrication=0
 ParameterCount=0
 VariationCount=75
-Variation1=Designator=C17|UniqueId=\SMQLPFVK\NJSMWYGD|Kind=1|AlternatePart= 
-Variation2=Designator=C22|UniqueId=\SMQLPFVK\XOTRVSUB|Kind=1|AlternatePart= 
-Variation3=Designator=C21|UniqueId=\SMQLPFVK\EEJGCYIM|Kind=1|AlternatePart= 
-Variation4=Designator=C19|UniqueId=\SMQLPFVK\TOXGMVGS|Kind=1|AlternatePart= 
-Variation5=Designator=C20|UniqueId=\SMQLPFVK\HSQVHEMT|Kind=1|AlternatePart= 
-Variation6=Designator=C18|UniqueId=\SMQLPFVK\JLODFTLT|Kind=1|AlternatePart= 
-Variation7=Designator=U5|UniqueId=\SMQLPFVK\ZIHGQWSL|Kind=1|AlternatePart= 
+Variation1=Designator=C17|UniqueId=\ZBQJGYVP\NJSMWYGD|Kind=1|AlternatePart= 
+Variation2=Designator=C22|UniqueId=\ZBQJGYVP\XOTRVSUB|Kind=1|AlternatePart= 
+Variation3=Designator=C21|UniqueId=\ZBQJGYVP\EEJGCYIM|Kind=1|AlternatePart= 
+Variation4=Designator=C19|UniqueId=\ZBQJGYVP\TOXGMVGS|Kind=1|AlternatePart= 
+Variation5=Designator=C20|UniqueId=\ZBQJGYVP\HSQVHEMT|Kind=1|AlternatePart= 
+Variation6=Designator=C18|UniqueId=\ZBQJGYVP\JLODFTLT|Kind=1|AlternatePart= 
+Variation7=Designator=U5|UniqueId=\ZBQJGYVP\ZIHGQWSL|Kind=1|AlternatePart= 
 Variation8=Designator=R33A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\AGQEHQZC|Kind=1|AlternatePart= 
 Variation9=Designator=R34A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\LGXJUSLW|Kind=1|AlternatePart= 
 Variation10=Designator=R34B|UniqueId=\REEOQYYS\IIHAQJIS\VRXDBBMP\LGXJUSLW|Kind=1|AlternatePart= 
@@ -1011,8 +943,8 @@ Description=RS422_to_3V3
 AllowFabrication=0
 ParameterCount=0
 VariationCount=75
-Variation1=Designator=C17|UniqueId=\SMQLPFVK\NJSMWYGD|Kind=1|AlternatePart= 
-Variation2=Designator=C22|UniqueId=\SMQLPFVK\XOTRVSUB|Kind=1|AlternatePart= 
+Variation1=Designator=C17|UniqueId=\ZBQJGYVP\NJSMWYGD|Kind=1|AlternatePart= 
+Variation2=Designator=C22|UniqueId=\ZBQJGYVP\XOTRVSUB|Kind=1|AlternatePart= 
 Variation3=Designator=R33A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\AGQEHQZC|Kind=1|AlternatePart= 
 Variation4=Designator=R34A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\LGXJUSLW|Kind=1|AlternatePart= 
 Variation5=Designator=R34B|UniqueId=\REEOQYYS\IIHAQJIS\VRXDBBMP\LGXJUSLW|Kind=1|AlternatePart= 
@@ -1031,11 +963,11 @@ Variation17=Designator=U3A|UniqueId=\REEOQYYS\RCNQLQDX\INCUZBPZ\JRYAJYMJ|Kind=1|
 Variation18=Designator=U3H|UniqueId=\REEOQYYS\RCNQLQDX\7KSSPJROG\JRYAJYMJ|Kind=1|AlternatePart= 
 Variation19=Designator=U3C|UniqueId=\REEOQYYS\RCNQLQDX\2KSSPJROG\JRYAJYMJ|Kind=1|AlternatePart= 
 Variation20=Designator=U3F|UniqueId=\REEOQYYS\RCNQLQDX\5KSSPJROG\JRYAJYMJ|Kind=1|AlternatePart= 
-Variation21=Designator=U5|UniqueId=\SMQLPFVK\ZIHGQWSL|Kind=1|AlternatePart= 
-Variation22=Designator=C20|UniqueId=\SMQLPFVK\HSQVHEMT|Kind=1|AlternatePart= 
-Variation23=Designator=C19|UniqueId=\SMQLPFVK\TOXGMVGS|Kind=1|AlternatePart= 
-Variation24=Designator=C18|UniqueId=\SMQLPFVK\JLODFTLT|Kind=1|AlternatePart= 
-Variation25=Designator=C21|UniqueId=\SMQLPFVK\EEJGCYIM|Kind=1|AlternatePart= 
+Variation21=Designator=U5|UniqueId=\ZBQJGYVP\ZIHGQWSL|Kind=1|AlternatePart= 
+Variation22=Designator=C20|UniqueId=\ZBQJGYVP\HSQVHEMT|Kind=1|AlternatePart= 
+Variation23=Designator=C19|UniqueId=\ZBQJGYVP\TOXGMVGS|Kind=1|AlternatePart= 
+Variation24=Designator=C18|UniqueId=\ZBQJGYVP\JLODFTLT|Kind=1|AlternatePart= 
+Variation25=Designator=C21|UniqueId=\ZBQJGYVP\EEJGCYIM|Kind=1|AlternatePart= 
 Variation26=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\XWCIJMNU|Kind=1|AlternatePart= 
 Variation27=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\XQOTLDFB|Kind=1|AlternatePart= 
 Variation28=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\UWYBJKHT|Kind=1|AlternatePart= 
@@ -1215,8 +1147,8 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_SmartPDF]
-AutoOpenFile=-1
-AutoOpenOutJob=-1
+AutoOpenFile=0
+AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
 ProjectMode=-1
@@ -1228,7 +1160,7 @@ AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
 ExportBOM=-1
-TemplateFilename=Board Stack Report.XLT
+TemplateFilename=BOM Supplier Links.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=1
 SCH_PrintColor=0
@@ -1241,7 +1173,7 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=3V3_to_3V3
+SCH_VariantName=RS422_to_3V3
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0

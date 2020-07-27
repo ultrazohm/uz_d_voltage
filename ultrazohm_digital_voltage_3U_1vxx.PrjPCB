@@ -209,7 +209,7 @@ DocumentUniqueId=
 
 [Document11]
 DocumentPath=ONSEMI_MC14504BDR2G.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -294,7 +294,7 @@ DocumentUniqueId=SGGJXRBU
 
 [Document16]
 DocumentPath=PowerPinsBlockingLED.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=

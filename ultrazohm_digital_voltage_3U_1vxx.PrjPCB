@@ -90,7 +90,7 @@ DocumentUniqueId=
 
 [Document4]
 DocumentPath=TopSheet.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -259,23 +259,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SGGJXRBU
 
 [Document14]
-DocumentPath=PowerPinsBlockingLED.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OAIBHMZF
-
-[Document15]
 DocumentPath=SignalBundling.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICXBTLXG
 
-[Document16]
+[Document15]
 DocumentPath=NetTieSingleAndDiff.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -309,9 +292,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJUMDANP
 
-[Document17]
+[Document16]
 DocumentPath=Jumper5VLS.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -326,9 +309,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNBFPADJ
 
-[Document18]
+[Document17]
 DocumentPath=TermSingleAndDiff.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXFORTJK
 
-[Document19]
+[Document18]
 DocumentPath=Jumper5VLS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=DigitalCarrierPlug.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTJVYHKL
 
-[Document21]
+[Document20]
 DocumentPath=TI_SN74LVCH16T245.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTJYGOPI
 
-[Document22]
+[Document21]
 DocumentPath=TI_SN74LVCH16T245.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=SingleToDifferential.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=DifferentialToSingle.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=NetTieSingleAndDiff.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=DigitalCarrierPlug.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=Gerber\DrillFile.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=Gerber\GerberFile.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx_pdfexport.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=ultrazohm_digital_voltage_3U_1vxx.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=15V_PowerSupply.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -598,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLYYBIJB
 
-[Document34]
+[Document33]
 DocumentPath=3V3_to_5V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=5V_to_15V.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1054,28 +1037,28 @@ DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\ultrazohm_dig
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=1v00
+Name=Author
+Value=T. Wendt
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UltraZohm_DigitalVoltage
-
-[Parameter3]
-Name=FinDate
-Value=01/2020
-
-[Parameter4]
-Name=Date
-Value=11/2019
-
-[Parameter5]
 Name=AuthorParam
 Value=T. Wendt
 
+[Parameter3]
+Name=Date
+Value=11/2019
+
+[Parameter4]
+Name=FinDate
+Value=01/2020
+
+[Parameter5]
+Name=ProjectNameCustom
+Value=UltraZohm_DigitalVoltage
+
 [Parameter6]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=1v00
 
 [Configuration1]
 Name=Sources

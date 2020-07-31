@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ultrazohm_digital_voltage_3U_1vxx.PcbDoc]
+   Generated File[ultrazohm_digital_voltage_3U_1vxx.TXT]
+   Generated File[ultrazohm_digital_voltage_3U_1vxx.LDP]
+   Generated File[ultrazohm_digital_voltage_3U_1vxx.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:25:41 On 31.07.2020

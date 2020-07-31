@@ -1,23 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [ultrazohm_digital_voltage_3U_1vxx.PrjPCB]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GTO]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GTP]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GTS]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GTL]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.G1]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.G2]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GBL]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GBS]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GBP]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GBO]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.GM1]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.RUL]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.EXTREP]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ultrazohm_digital_voltage_3U_1vxx.PcbDoc]
+   Generated File[ultrazohm_digital_voltage_3U_1vxx.TXT]
+   Generated File[ultrazohm_digital_voltage_3U_1vxx.LDP]
+   Generated File[ultrazohm_digital_voltage_3U_1vxx.DRR]
 
 
-Files Generated   : 14
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:52:13 On 26.01.2020
+Finished Output Generation At 15:20:23 On 31.07.2020

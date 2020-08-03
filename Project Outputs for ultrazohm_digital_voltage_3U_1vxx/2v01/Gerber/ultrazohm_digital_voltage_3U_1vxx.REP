@@ -2,60 +2,6 @@
 FileName = ultrazohm_digital_voltage_3U_1vxx.GBR
 AutoAperture = True
 *************************************************************
-Generating : GND_top
-      File : ultrazohm_digital_voltage_3U_1vxx.G1
-
-    Adding Layer      : GND_top
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D59
-    D60
-    D61
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : ultrazohm_digital_voltage_3U_1vxx.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : ultrazohm_digital_voltage_3U_1vxx.GBL
 
@@ -68,9 +14,9 @@ Used DCodes :
     D12
     D13
     D14
-    D24
-    D31
-    D54
+    D50
+    D52
+    D53
     D55
     D56
     D59
@@ -99,6 +45,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : ultrazohm_digital_voltage_3U_1vxx.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ultrazohm_digital_voltage_3U_1vxx.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+    D14
+    D62
+*************************************************************
+
+*************************************************************
+Generating : GND_top
+      File : ultrazohm_digital_voltage_3U_1vxx.G1
+
+    Adding Layer      : GND_top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : ultrazohm_digital_voltage_3U_1vxx.GBO
 
@@ -107,39 +99,7 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D13
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : ultrazohm_digital_voltage_3U_1vxx.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
+    D53
 *************************************************************
 
 *************************************************************
@@ -166,52 +126,38 @@ Used DCodes :
     D29
     D30
     D31
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ultrazohm_digital_voltage_3U_1vxx.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D32
     D33
     D34
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : ultrazohm_digital_voltage_3U_1vxx.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
     D46
-    D50
-    D51
-    D52
-*************************************************************
-
-*************************************************************
-Generating : GND_bot
-      File : ultrazohm_digital_voltage_3U_1vxx.G2
-
-    Adding Layer      : GND_bot
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : ultrazohm_digital_voltage_3U_1vxx.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D13
-    D14
-    D62
+    D47
+    D48
+    D49
 *************************************************************
 
 *************************************************************
@@ -226,6 +172,56 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ultrazohm_digital_voltage_3U_1vxx.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
     D31
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : GND_bot
+      File : ultrazohm_digital_voltage_3U_1vxx.G2
+
+    Adding Layer      : GND_bot
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
 *************************************************************
 

@@ -8,4 +8,4 @@ From  : Variant [RS422_to_3V3_input] of BOM Document [UltraZohm_DigitalVoltage_A
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 19:33:03 On 03.08.2020
+Finished Output Generation At 19:54:49 On 03.08.2020

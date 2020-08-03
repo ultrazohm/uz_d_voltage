@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ultrazohm_digital_voltage_3U_1vxx.PcbDoc   03.08.2020  11:00:07
+NCDrill File Report For: ultrazohm_digital_voltage_3U_1vxx.PcbDoc   03.08.2020  18:39:46
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : ultrazohm_digital_voltage_3U_1vxx.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             605       PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             654       PTH        0.00inch (0.00mm)
 T2      40mil (1.016mm)                                           Round             80        PTH        0.00inch (0.00mm)
 T3      41mil (1.05mm)                                            Round             3         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              688
+Totals                                                                              737
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

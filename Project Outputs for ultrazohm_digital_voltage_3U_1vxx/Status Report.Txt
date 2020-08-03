@@ -1,12 +1,13 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [ultrazohm_digital_voltage_3U_1vxx.PcbDoc]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.TXT]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.LDP]
-   Generated File[ultrazohm_digital_voltage_3U_1vxx.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:48:52 On 03.08.2020
+
+Output: BOM_Template
+Type  : BOM
+From  : Project [ultrazohm_digital_voltage_3U_1vxx.PrjPCB]
 
 
-Files Generated   : 3
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 15:20:23 On 31.07.2020
+Finished Output Generation At 15:48:55 On 03.08.2020

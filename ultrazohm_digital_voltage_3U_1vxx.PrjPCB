@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -531,23 +531,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=production.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document31]
 DocumentPath=documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +549,7 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=0785D7BA-6A26-407A-82B1-6D22135F0F40
-Description=3V3_to_3V3
+Description=3V3_to_3V3_IO
 AllowFabrication=0
 ParameterCount=0
 VariationCount=110
@@ -748,7 +731,7 @@ ParamVariationCount=32
 
 [ProjectVariant2]
 UniqueID=536DB8F3-86C9-42F2-9694-BAD11525C65B
-Description=3V3_to_5V
+Description=3V3_to_5V_IO
 AllowFabrication=0
 ParameterCount=0
 VariationCount=117
@@ -939,7 +922,7 @@ ParamVariationCount=33
 
 [ProjectVariant3]
 UniqueID=D6CA0FF7-AE67-4EB3-A27D-75E564E0E7DA
-Description=3V3_to_15V
+Description=3V3_to_15V_output
 AllowFabrication=0
 ParameterCount=0
 VariationCount=126
@@ -1139,7 +1122,7 @@ ParamVariationCount=33
 
 [ProjectVariant4]
 UniqueID=C0F9057B-0181-493D-A150-4B6473CDD562
-Description=3V3_to_RS422
+Description=3V3_to_RS422_output
 AllowFabrication=0
 ParameterCount=0
 VariationCount=123
@@ -1336,7 +1319,7 @@ ParamVariationCount=33
 
 [ProjectVariant5]
 UniqueID=7936404D-85A6-439C-AFE4-38750F01263B
-Description=RS422_to_3V3
+Description=RS422_to_3V3_input
 AllowFabrication=0
 ParameterCount=0
 VariationCount=123
@@ -1604,28 +1587,28 @@ DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=2v01
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Wendt
-
-[Parameter3]
-Name=Date
-Value=11/2019
-
-[Parameter4]
-Name=FinDate
-Value=08/2020
-
-[Parameter5]
 Name=ProjectNameCustom
 Value=UltraZohm_DigitalVoltage
 
+[Parameter3]
+Name=FinDate
+Value=08/2020
+
+[Parameter4]
+Name=Date
+Value=11/2019
+
+[Parameter5]
+Name=AuthorParam
+Value=T. Wendt
+
 [Parameter6]
-Name=ProjectRevision
-Value=2v01
+Name=Author
+Value=T. Wendt
 
 [Configuration1]
 Name=Sources
@@ -1674,7 +1657,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
 
 [OutputGroup1]
 Name=Netlist Outputs

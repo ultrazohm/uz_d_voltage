@@ -1,0 +1,54 @@
+Matching IBIS pin : 2 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 2 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 3 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 3 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 5 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 5 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 6 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 6 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 10 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 10 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 11 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 11 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 13 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 13 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 14 with model : DS26C31TM_DOUT_tp_tri.mac.
+WARNING: IBIS pin : 14 has a HiZ model and is being assigned to a Output pin.
+
+Matching IBIS pin : 2 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 3 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 5 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 6 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 10 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 11 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 13 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 14 with model : DS26C31TM_DOUT_tp_out.mac.
+
+Matching IBIS pin : 4 with model : DS26C31TM_EN_tp_in.mac.
+
+Matching IBIS pin : 12 with model : DS26C31TM_EN_tp_in.mac.
+
+Matching IBIS pin : 1 with model : DS26C31TM_DIN_tp_in.mac.
+
+Matching IBIS pin : 7 with model : DS26C31TM_DIN_tp_in.mac.
+
+Matching IBIS pin : 9 with model : DS26C31TM_DIN_tp_in.mac.
+
+Matching IBIS pin : 15 with model : DS26C31TM_DIN_tp_in.mac.
+
+
+Any unmatched IBIS pins should have their model/technology set manually.

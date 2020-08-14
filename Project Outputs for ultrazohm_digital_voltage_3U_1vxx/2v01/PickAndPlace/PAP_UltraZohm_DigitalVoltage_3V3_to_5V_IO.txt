@@ -4,127 +4,125 @@ C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3U_1vxx\Project 
 ========================================================================================================================
 File Design Information:
 
-Date:       03.08.20
-Time:       18:56
-Revision:   8ccaac74cc4c2a90460197aa6e209c552a151c11
+Date:       14.08.20
+Time:       12:09
+Revision:   90a20ab119588014876faea234f2b3c666ad71d8
 Variant:    3V3_to_5V_IO
 Units used: mm
 
-Designator Comment                      Layer       Footprint                    Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                                                            
-R11        R_TF                         TopLayer    RESC_0603                    129.6000     95.5000      90       "Standard thick film resistor"                                                                                                                                         
-R10        R_TF                         TopLayer    RESC_0603                    127.3000     95.5000      90       "Standard thick film resistor"                                                                                                                                         
-C4A        C_X7R                        TopLayer    CAPC_0603                    26.6000      47.0000      270      "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-R139       R_TF                         TopLayer    RESC_0603                    111.0000     4.9000       360      "Standard thick film resistor"                                                                                                                                         
-R138       R_TF                         TopLayer    RESC_0603                    111.0000     8.0000       360      "Standard thick film resistor"                                                                                                                                         
-R135       R_TF                         TopLayer    RESC_0603                    111.0000     11.1000      360      "Standard thick film resistor"                                                                                                                                         
-R133       R_TF                         TopLayer    RESC_0603                    111.0000     14.2000      360      "Standard thick film resistor"                                                                                                                                         
-R132       R_TF                         TopLayer    RESC_0603                    111.0000     17.3000      360      "Standard thick film resistor"                                                                                                                                         
-R130       R_TF                         TopLayer    RESC_0603                    111.0000     20.4000      360      "Standard thick film resistor"                                                                                                                                         
-R127       R_TF                         TopLayer    RESC_0603                    111.0000     48.3000      360      "Standard thick film resistor"                                                                                                                                         
-R125       R_TF                         TopLayer    RESC_0603                    111.0000     51.4000      360      "Standard thick film resistor"                                                                                                                                         
-R124       R_TF                         TopLayer    RESC_0603                    111.0000     54.5000      360      "Standard thick film resistor"                                                                                                                                         
-R122       R_TF                         TopLayer    RESC_0603                    111.0000     57.6000      360      "Standard thick film resistor"                                                                                                                                         
-R119       R_TF                         TopLayer    RESC_0603                    111.0000     60.7000      360      "Standard thick film resistor"                                                                                                                                         
-R117       R_TF                         TopLayer    RESC_0603                    111.0000     63.8000      360      "Standard thick film resistor"                                                                                                                                         
-R116       R_TF                         TopLayer    RESC_0603                    111.0000     66.9000      360      "Standard thick film resistor"                                                                                                                                         
-R114       R_TF                         TopLayer    RESC_0603                    111.0000     70.0000      360      "Standard thick film resistor"                                                                                                                                         
-R111       R_TF                         TopLayer    RESC_0603                    111.0000     23.5000      360      "Standard thick film resistor"                                                                                                                                         
-R109       R_TF                         TopLayer    RESC_0603                    111.0000     26.6000      360      "Standard thick film resistor"                                                                                                                                         
-R108       R_TF                         TopLayer    RESC_0603                    111.0000     29.7000      360      "Standard thick film resistor"                                                                                                                                         
-R106       R_TF                         TopLayer    RESC_0603                    111.0000     32.8000      360      "Standard thick film resistor"                                                                                                                                         
-R103       R_TF                         TopLayer    RESC_0603                    111.0000     35.9000      360      "Standard thick film resistor"                                                                                                                                         
-R101       R_TF                         TopLayer    RESC_0603                    111.0000     39.0000      360      "Standard thick film resistor"                                                                                                                                         
-R100       R_TF                         TopLayer    RESC_0603                    111.0000     42.1000      360      "Standard thick film resistor"                                                                                                                                         
-R98        R_TF                         TopLayer    RESC_0603                    111.0000     45.2000      360      "Standard thick film resistor"                                                                                                                                         
-R95        R_TF                         TopLayer    RESC_0603                    111.0000     73.1000      360      "Standard thick film resistor"                                                                                                                                         
-R93        R_TF                         TopLayer    RESC_0603                    111.0000     76.2000      360      "Standard thick film resistor"                                                                                                                                         
-R92        R_TF                         TopLayer    RESC_0603                    111.0000     79.3000      360      "Standard thick film resistor"                                                                                                                                         
-R90        R_TF                         TopLayer    RESC_0603                    111.0000     82.4000      360      "Standard thick film resistor"                                                                                                                                         
-R87        R_TF                         TopLayer    RESC_0603                    111.0000     85.5000      360      "Standard thick film resistor"                                                                                                                                         
-R85        R_TF                         TopLayer    RESC_0603                    111.0000     88.6000      360      "Standard thick film resistor"                                                                                                                                         
-R84        R_TF                         TopLayer    RESC_0603                    111.0000     91.7000      360      "Standard thick film resistor"                                                                                                                                         
-R82        R_TF                         TopLayer    RESC_0603                    111.0000     94.8000      360      "Standard thick film resistor"                                                                                                                                         
-R50        R_TF                         TopLayer    RESC_0603                    129.0000     7.9000       180      "Standard thick film resistor"                                                                                                                                         
-R49        R_TF                         TopLayer    RESC_0603                    129.0000     10.4000      180      "Standard thick film resistor"                                                                                                                                         
-R48        R_TF                         TopLayer    RESC_0603                    129.0000     12.9000      180      "Standard thick film resistor"                                                                                                                                         
-R47        R_TF                         TopLayer    RESC_0603                    129.0000     15.4000      180      "Standard thick film resistor"                                                                                                                                         
-R46        R_TF                         TopLayer    RESC_0603                    129.0000     17.9000      180      "Standard thick film resistor"                                                                                                                                         
-R45        R_TF                         TopLayer    RESC_0603                    129.0000     20.4000      180      "Standard thick film resistor"                                                                                                                                         
-R44        R_TF                         TopLayer    RESC_0603                    129.0000     22.9000      180      "Standard thick film resistor"                                                                                                                                         
-R43        R_TF                         TopLayer    RESC_0603                    129.0000     25.4000      180      "Standard thick film resistor"                                                                                                                                         
-R42        R_TF                         TopLayer    RESC_0603                    129.0000     27.9000      180      "Standard thick film resistor"                                                                                                                                         
-R41        R_TF                         TopLayer    RESC_0603                    129.0000     33.3000      180      "Standard thick film resistor"                                                                                                                                         
-R40        R_TF                         TopLayer    RESC_0603                    129.0000     35.8000      180      "Standard thick film resistor"                                                                                                                                         
-R39        R_TF                         TopLayer    RESC_0603                    129.0000     38.3000      180      "Standard thick film resistor"                                                                                                                                         
-R38        R_TF                         TopLayer    RESC_0603                    129.0000     40.8000      180      "Standard thick film resistor"                                                                                                                                         
-R37        R_TF                         TopLayer    RESC_0603                    129.0000     43.3000      180      "Standard thick film resistor"                                                                                                                                         
-R36        R_TF                         TopLayer    RESC_0603                    129.0000     45.8000      180      "Standard thick film resistor"                                                                                                                                         
-R35        R_TF                         TopLayer    RESC_0603                    129.0000     48.3000      180      "Standard thick film resistor"                                                                                                                                         
-R34        R_TF                         TopLayer    RESC_0603                    129.0000     50.8000      180      "Standard thick film resistor"                                                                                                                                         
-R33        R_TF                         TopLayer    RESC_0603                    129.0000     59.0000      180      "Standard thick film resistor"                                                                                                                                         
-R32        R_TF                         TopLayer    RESC_0603                    129.0000     61.6750      180      "Standard thick film resistor"                                                                                                                                         
-R31        R_TF                         TopLayer    RESC_0603                    129.0000     64.1750      180      "Standard thick film resistor"                                                                                                                                         
-R30        R_TF                         TopLayer    RESC_0603                    129.0000     66.6750      180      "Standard thick film resistor"                                                                                                                                         
-R29        R_TF                         TopLayer    RESC_0603                    129.0000     69.1750      180      "Standard thick film resistor"                                                                                                                                         
-R28        R_TF                         TopLayer    RESC_0603                    129.0000     74.3000      180      "Standard thick film resistor"                                                                                                                                         
-R27        R_TF                         TopLayer    RESC_0603                    129.0000     76.8000      180      "Standard thick film resistor"                                                                                                                                         
-R26        R_TF                         TopLayer    RESC_0603                    129.0000     79.3000      180      "Standard thick film resistor"                                                                                                                                         
-R25        R_TF                         TopLayer    RESC_0603                    129.0000     81.8000      180      "Standard thick film resistor"                                                                                                                                         
-R24        R_TF                         TopLayer    RESC_0603                    129.0000     84.3000      180      "Standard thick film resistor"                                                                                                                                         
-R23        R_TF                         TopLayer    RESC_0603                    129.0000     86.8000      180      "Standard thick film resistor"                                                                                                                                         
-R22        R_TF                         TopLayer    RESC_0603                    129.0000     89.3000      180      "Standard thick film resistor"                                                                                                                                         
-R21        R_TF                         TopLayer    RESC_0603                    129.0000     91.8000      180      "Standard thick film resistor"                                                                                                                                         
-R20        R_TF                         TopLayer    RESC_0603_CONFIG             11.4746      20.0000      360      "Solder resistor/jumper between pads 1 and 2 for standard function. Solder resistor between pads 2 and 3 for alternative function"                                     
-C2B        C_X7R                        TopLayer    CAPC_0603                    11.1120      56.4000      90       "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-C4B        C_X7R                        TopLayer    CAPC_0603                    26.6000      40.0000      270      "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-C3B        C_X7R                        TopLayer    CAPC_0603                    26.6000      56.3000      90       "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-C3A        C_X7R                        TopLayer    CAPC_0603                    26.6000      63.4000      90       "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-C2A        C_X7R                        TopLayer    CAPC_0603                    11.1120      40.0000      270      "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-C1B        C_X7R                        TopLayer    CAPC_0603                    11.1120      47.0700      270      "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-C1A        C_X7R                        TopLayer    CAPC_0603                    11.1124      63.5129      90       "Standard X7R SMD capacitor. This kind of dielectricum should be used for decoupling applications. Bigger capacity is available but not for the given voltage rating." 
-R9         R_TF                         TopLayer    RESC_0603                    125.0000     95.5000      90       "Standard thick film resistor"                                                                                                                                         
-D1         LED_Blue                     TopLayer    WL-SMCW_0603                 122.9000     95.4500      90       "WL-SMCW SMD Mono-color Chip LED Waterclear, size 0603, Red, 2 V, 140°"                                                                                                
-R8E        R_TF                         TopLayer    RESC_0603                    96.6000      15.3000      360      "Standard thick film resistor"                                                                                                                                         
-R8D        R_TF                         TopLayer    RESC_0603                    96.6000      32.4000      360      "Standard thick film resistor"                                                                                                                                         
-R8C        R_TF                         TopLayer    RESC_0603                    96.6000      51.4000      360      "Standard thick film resistor"                                                                                                                                         
-R8B        R_TF                         TopLayer    RESC_0603                    96.6000      69.4000      360      "Standard thick film resistor"                                                                                                                                         
-R8A        R_TF                         TopLayer    RESC_0603                    96.6000      86.4000      360      "Standard thick film resistor"                                                                                                                                         
-R7E        R_TF                         TopLayer    RESC_0603                    92.9500      15.3000      360      "Standard thick film resistor"                                                                                                                                         
-R7D        R_TF                         TopLayer    RESC_0603                    92.9500      32.4000      360      "Standard thick film resistor"                                                                                                                                         
-R7C        R_TF                         TopLayer    RESC_0603                    92.9500      51.4000      360      "Standard thick film resistor"                                                                                                                                         
-R7B        R_TF                         TopLayer    RESC_0603                    92.9500      69.4000      360      "Standard thick film resistor"                                                                                                                                         
-R7A        R_TF                         TopLayer    RESC_0603                    92.9500      86.4000      360      "Standard thick film resistor"                                                                                                                                         
-R6E        R_TF                         TopLayer    RESC_0603                    89.3000      15.3000      360      "Standard thick film resistor"                                                                                                                                         
-R6D        R_TF                         TopLayer    RESC_0603                    89.3000      32.4000      360      "Standard thick film resistor"                                                                                                                                         
-R6C        R_TF                         TopLayer    RESC_0603                    89.3000      51.4000      360      "Standard thick film resistor"                                                                                                                                         
-R6B        R_TF                         TopLayer    RESC_0603                    89.3000      69.4000      360      "Standard thick film resistor"                                                                                                                                         
-R6A        R_TF                         TopLayer    RESC_0603                    89.3000      86.4000      360      "Standard thick film resistor"                                                                                                                                         
-R5E        R_TF                         TopLayer    RESC_0603                    89.3000      16.9750      360      "Standard thick film resistor"                                                                                                                                         
-R5D        R_TF                         TopLayer    RESC_0603                    89.3000      34.0750      360      "Standard thick film resistor"                                                                                                                                         
-R5C        R_TF                         TopLayer    RESC_0603                    89.3000      53.0750      360      "Standard thick film resistor"                                                                                                                                         
-R5B        R_TF                         TopLayer    RESC_0603                    89.3000      71.0750      360      "Standard thick film resistor"                                                                                                                                         
-R5A        R_TF                         TopLayer    RESC_0603                    89.3000      88.0750      360      "Standard thick film resistor"                                                                                                                                         
-R4E        R_TF                         TopLayer    RESC_0603                    92.9500      16.9750      360      "Standard thick film resistor"                                                                                                                                         
-R4D        R_TF                         TopLayer    RESC_0603                    92.9500      34.0750      360      "Standard thick film resistor"                                                                                                                                         
-R4C        R_TF                         TopLayer    RESC_0603                    92.9500      53.0750      360      "Standard thick film resistor"                                                                                                                                         
-R4B        R_TF                         TopLayer    RESC_0603                    92.9500      71.0750      360      "Standard thick film resistor"                                                                                                                                         
-R4A        R_TF                         TopLayer    RESC_0603                    92.9500      88.0750      360      "Standard thick film resistor"                                                                                                                                         
-R3E        R_TF                         TopLayer    RESC_0603                    96.6000      16.9750      360      "Standard thick film resistor"                                                                                                                                         
-R3D        R_TF                         TopLayer    RESC_0603                    96.6000      34.0750      360      "Standard thick film resistor"                                                                                                                                         
-R3C        R_TF                         TopLayer    RESC_0603                    96.6000      53.0750      360      "Standard thick film resistor"                                                                                                                                         
-R3B        R_TF                         TopLayer    RESC_0603                    96.6000      71.0750      360      "Standard thick film resistor"                                                                                                                                         
-R3A        R_TF                         TopLayer    RESC_0603                    96.6000      88.0750      360      "Standard thick film resistor"                                                                                                                                         
-U1         74AHC1G14GW,125              TopLayer    NXP-SOT353-1_N               11.5000      29.6000      90       "Inverting Schmitt trigger for 2 V to 5.5 V"                                                                                                                           
-R1         R_TF                         TopLayer    RESC_0603_CONFIG             26.4746      20.0000      360      "Solder resistor/jumper between pads 1 and 2 for standard function. Solder resistor between pads 2 and 3 for alternative function"                                     
-R2         R_TF                         TopLayer    RESC_0603_CONFIG             82.0000      44.9746      90       "Solder resistor/jumper between pads 1 and 2 for standard function. Solder resistor between pads 2 and 3 for alternative function"                                     
-U6B        SN74LVCH16T245DLR            TopLayer    TI_DL-R-PDSO-G48_N           18.8080      60.8180      180      "Direction controlled 16 channel level shifter with active driver. Voltage range 1.8V to 5V."                                                                          
-U6A        SN74LVCH16T245DLR            TopLayer    TI_DL-R-PDSO-G48_N           18.7960      42.5300      180      "Direction controlled 16 channel level shifter with active driver. Voltage range 1.8V to 5V."                                                                          
-R19B       R_TF                         TopLayer    RESC_0603                    12.9500      70.4000      180      "Standard thick film resistor"                                                                                                                                         
-R19A       R_TF                         TopLayer    RESC_0603                    11.1000      50.1500      180      "Standard thick film resistor"                                                                                                                                         
-R17B       R_TF                         TopLayer    RESC_0603                    24.9500      70.4000      360      "Standard thick film resistor"                                                                                                                                         
-R17A       R_TF                         TopLayer    RESC_0603                    26.4000      50.0500      360      "Standard thick film resistor"                                                                                                                                         
-R18B       R_TF                         TopLayer    RESC_0603                    11.1000      52.9000      360      "Standard thick film resistor"                                                                                                                                         
-R18A       R_TF                         TopLayer    RESC_0603                    12.8500      32.3000      360      "Standard thick film resistor"                                                                                                                                         
-R16B       R_TF                         TopLayer    RESC_0603                    26.4000      51.6500      180      "Standard thick film resistor"                                                                                                                                         
-R16A       R_TF                         TopLayer    RESC_0603                    25.6500      32.3000      180      "Standard thick film resistor"                                                                                                                                         
-X1         HSEC8-150-01-XX-DV-A-BL-CARD BottomLayer HSEC8-150-01-XX-DV-A-BL-CARD -12.4400     49.9910      270      "Mating Card Layout for HSEC8-150-01-XX-DV-A-BL"                                                                                                                       
+Designator Layer    Footprint          Center-X(mm) Center-Y(mm) Rotation Value             
+R11        TopLayer RESC_0603          129.6000     95.5000      90       5k6               
+R10        TopLayer RESC_0603          127.3000     95.5000      90       5k6               
+C4A        TopLayer CAPC_0603          26.6000      47.0000      270      100n              
+R139       TopLayer RESC_0603          111.0000     4.9000       360      27                
+R138       TopLayer RESC_0603          111.0000     8.0000       360      27                
+R135       TopLayer RESC_0603          111.0000     11.1000      360      27                
+R133       TopLayer RESC_0603          111.0000     14.2000      360      27                
+R132       TopLayer RESC_0603          111.0000     17.3000      360      27                
+R130       TopLayer RESC_0603          111.0000     20.4000      360      27                
+R127       TopLayer RESC_0603          111.0000     48.3000      360      27                
+R125       TopLayer RESC_0603          111.0000     51.4000      360      27                
+R124       TopLayer RESC_0603          111.0000     54.5000      360      27                
+R122       TopLayer RESC_0603          111.0000     57.6000      360      27                
+R119       TopLayer RESC_0603          111.0000     60.7000      360      27                
+R117       TopLayer RESC_0603          111.0000     63.8000      360      27                
+R116       TopLayer RESC_0603          111.0000     66.9000      360      27                
+R114       TopLayer RESC_0603          111.0000     70.0000      360      27                
+R111       TopLayer RESC_0603          111.0000     23.5000      360      27                
+R109       TopLayer RESC_0603          111.0000     26.6000      360      27                
+R108       TopLayer RESC_0603          111.0000     29.7000      360      27                
+R106       TopLayer RESC_0603          111.0000     32.8000      360      27                
+R103       TopLayer RESC_0603          111.0000     35.9000      360      27                
+R101       TopLayer RESC_0603          111.0000     39.0000      360      27                
+R100       TopLayer RESC_0603          111.0000     42.1000      360      27                
+R98        TopLayer RESC_0603          111.0000     45.2000      360      27                
+R95        TopLayer RESC_0603          111.0000     73.1000      360      27                
+R93        TopLayer RESC_0603          111.0000     76.2000      360      27                
+R92        TopLayer RESC_0603          111.0000     79.3000      360      27                
+R90        TopLayer RESC_0603          111.0000     82.4000      360      27                
+R87        TopLayer RESC_0603          111.0000     85.5000      360      27                
+R85        TopLayer RESC_0603          111.0000     88.6000      360      27                
+R84        TopLayer RESC_0603          111.0000     91.7000      360      27                
+R82        TopLayer RESC_0603          111.0000     94.8000      360      27                
+R50        TopLayer RESC_0603          129.0000     7.9000       180      0                 
+R49        TopLayer RESC_0603          129.0000     10.4000      180      0                 
+R48        TopLayer RESC_0603          129.0000     12.9000      180      0                 
+R47        TopLayer RESC_0603          129.0000     15.4000      180      0                 
+R46        TopLayer RESC_0603          129.0000     17.9000      180      0                 
+R45        TopLayer RESC_0603          129.0000     20.4000      180      0                 
+R44        TopLayer RESC_0603          129.0000     22.9000      180      0                 
+R43        TopLayer RESC_0603          129.0000     25.4000      180      0                 
+R42        TopLayer RESC_0603          129.0000     27.9000      180      0                 
+R41        TopLayer RESC_0603          129.0000     33.3000      180      0                 
+R40        TopLayer RESC_0603          129.0000     35.8000      180      0                 
+R39        TopLayer RESC_0603          129.0000     38.3000      180      0                 
+R38        TopLayer RESC_0603          129.0000     40.8000      180      0                 
+R37        TopLayer RESC_0603          129.0000     43.3000      180      0                 
+R36        TopLayer RESC_0603          129.0000     45.8000      180      0                 
+R35        TopLayer RESC_0603          129.0000     48.3000      180      0                 
+R34        TopLayer RESC_0603          129.0000     50.8000      180      0                 
+R33        TopLayer RESC_0603          129.0000     59.0000      180      0                 
+R32        TopLayer RESC_0603          129.0000     61.6750      180      0                 
+R31        TopLayer RESC_0603          129.0000     64.1750      180      0                 
+R30        TopLayer RESC_0603          129.0000     66.6750      180      0                 
+R29        TopLayer RESC_0603          129.0000     69.1750      180      0                 
+R28        TopLayer RESC_0603          129.0000     74.3000      180      0                 
+R27        TopLayer RESC_0603          129.0000     76.8000      180      0                 
+R26        TopLayer RESC_0603          129.0000     79.3000      180      0                 
+R25        TopLayer RESC_0603          129.0000     81.8000      180      0                 
+R24        TopLayer RESC_0603          129.0000     84.3000      180      0                 
+R23        TopLayer RESC_0603          129.0000     86.8000      180      0                 
+R22        TopLayer RESC_0603          129.0000     89.3000      180      0                 
+R21        TopLayer RESC_0603          129.0000     91.8000      180      0                 
+R20        TopLayer RESC_0603_CONFIG   11.4746      20.0000      360      0                 
+C2B        TopLayer CAPC_0603          11.1120      56.4000      90       100n              
+C4B        TopLayer CAPC_0603          26.6000      40.0000      270      100n              
+C3B        TopLayer CAPC_0603          26.6000      56.3000      90       100n              
+C3A        TopLayer CAPC_0603          26.6000      63.4000      90       100n              
+C2A        TopLayer CAPC_0603          11.1120      40.0000      270      100n              
+C1B        TopLayer CAPC_0603          11.1120      47.0700      270      100n              
+C1A        TopLayer CAPC_0603          11.1124      63.5129      90       100n              
+R9         TopLayer RESC_0603          125.0000     95.5000      90       5k6               
+D1         TopLayer WL-SMCW_0603       122.9000     95.4500      90       150060BS75000     
+R8E        TopLayer RESC_0603          96.6000      15.3000      360      0                 
+R8D        TopLayer RESC_0603          96.6000      32.4000      360      0                 
+R8C        TopLayer RESC_0603          96.6000      51.4000      360      0                 
+R8B        TopLayer RESC_0603          96.6000      69.4000      360      0                 
+R8A        TopLayer RESC_0603          96.6000      86.4000      360      0                 
+R7E        TopLayer RESC_0603          92.9500      15.3000      360      0                 
+R7D        TopLayer RESC_0603          92.9500      32.4000      360      0                 
+R7C        TopLayer RESC_0603          92.9500      51.4000      360      0                 
+R7B        TopLayer RESC_0603          92.9500      69.4000      360      0                 
+R7A        TopLayer RESC_0603          92.9500      86.4000      360      0                 
+R6E        TopLayer RESC_0603          89.3000      15.3000      360      0                 
+R6D        TopLayer RESC_0603          89.3000      32.4000      360      0                 
+R6C        TopLayer RESC_0603          89.3000      51.4000      360      0                 
+R6B        TopLayer RESC_0603          89.3000      69.4000      360      0                 
+R6A        TopLayer RESC_0603          89.3000      86.4000      360      0                 
+R5E        TopLayer RESC_0603          89.3000      16.9750      360      0                 
+R5D        TopLayer RESC_0603          89.3000      34.0750      360      0                 
+R5C        TopLayer RESC_0603          89.3000      53.0750      360      0                 
+R5B        TopLayer RESC_0603          89.3000      71.0750      360      0                 
+R5A        TopLayer RESC_0603          89.3000      88.0750      360      0                 
+R4E        TopLayer RESC_0603          92.9500      16.9750      360      0                 
+R4D        TopLayer RESC_0603          92.9500      34.0750      360      0                 
+R4C        TopLayer RESC_0603          92.9500      53.0750      360      0                 
+R4B        TopLayer RESC_0603          92.9500      71.0750      360      0                 
+R4A        TopLayer RESC_0603          92.9500      88.0750      360      0                 
+R3E        TopLayer RESC_0603          96.6000      16.9750      360      0                 
+R3D        TopLayer RESC_0603          96.6000      34.0750      360      0                 
+R3C        TopLayer RESC_0603          96.6000      53.0750      360      0                 
+R3B        TopLayer RESC_0603          96.6000      71.0750      360      0                 
+R3A        TopLayer RESC_0603          96.6000      88.0750      360      0                 
+U1         TopLayer NXP-SOT353-1_N     11.5000      29.6000      90       74AHC1G14GW,125   
+R1         TopLayer RESC_0603_CONFIG   26.4746      20.0000      360      0                 
+U6B        TopLayer TI_DL-R-PDSO-G48_N 18.8080      60.8180      180      SN74LVCH16T245DLR 
+U6A        TopLayer TI_DL-R-PDSO-G48_N 18.7960      42.5300      180      SN74LVCH16T245DLR 
+R19B       TopLayer RESC_0603          12.9500      70.4000      180      5k6               
+R19A       TopLayer RESC_0603          11.1000      50.1500      180      5k6               
+R17B       TopLayer RESC_0603          24.9500      70.4000      360      5k6               
+R17A       TopLayer RESC_0603          26.4000      50.0500      360      5k6               
+R18B       TopLayer RESC_0603          11.1000      52.9000      360      5k6               
+R18A       TopLayer RESC_0603          12.8500      32.3000      360      5k6               
+R16B       TopLayer RESC_0603          26.4000      51.6500      180      5k6               
+R16A       TopLayer RESC_0603          25.6500      32.3000      180      5k6               

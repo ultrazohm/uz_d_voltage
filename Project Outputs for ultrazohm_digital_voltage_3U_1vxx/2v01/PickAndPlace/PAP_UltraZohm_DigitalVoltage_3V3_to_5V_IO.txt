@@ -4,8 +4,8 @@ C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3U_1vxx\Project 
 ========================================================================================================================
 File Design Information:
 
-Date:       14.08.20
-Time:       12:09
+Date:       18.08.20
+Time:       18:59
 Revision:   90a20ab119588014876faea234f2b3c666ad71d8
 Variant:    3V3_to_5V_IO
 Units used: mm
@@ -14,36 +14,36 @@ Designator Layer    Footprint          Center-X(mm) Center-Y(mm) Rotation Value
 R11        TopLayer RESC_0603          129.6000     95.5000      90       5k6               
 R10        TopLayer RESC_0603          127.3000     95.5000      90       5k6               
 C4A        TopLayer CAPC_0603          26.6000      47.0000      270      100n              
-R139       TopLayer RESC_0603          111.0000     4.9000       360      27                
-R138       TopLayer RESC_0603          111.0000     8.0000       360      27                
-R135       TopLayer RESC_0603          111.0000     11.1000      360      27                
-R133       TopLayer RESC_0603          111.0000     14.2000      360      27                
-R132       TopLayer RESC_0603          111.0000     17.3000      360      27                
-R130       TopLayer RESC_0603          111.0000     20.4000      360      27                
-R127       TopLayer RESC_0603          111.0000     48.3000      360      27                
-R125       TopLayer RESC_0603          111.0000     51.4000      360      27                
-R124       TopLayer RESC_0603          111.0000     54.5000      360      27                
-R122       TopLayer RESC_0603          111.0000     57.6000      360      27                
-R119       TopLayer RESC_0603          111.0000     60.7000      360      27                
-R117       TopLayer RESC_0603          111.0000     63.8000      360      27                
-R116       TopLayer RESC_0603          111.0000     66.9000      360      27                
-R114       TopLayer RESC_0603          111.0000     70.0000      360      27                
-R111       TopLayer RESC_0603          111.0000     23.5000      360      27                
-R109       TopLayer RESC_0603          111.0000     26.6000      360      27                
-R108       TopLayer RESC_0603          111.0000     29.7000      360      27                
-R106       TopLayer RESC_0603          111.0000     32.8000      360      27                
-R103       TopLayer RESC_0603          111.0000     35.9000      360      27                
-R101       TopLayer RESC_0603          111.0000     39.0000      360      27                
-R100       TopLayer RESC_0603          111.0000     42.1000      360      27                
-R98        TopLayer RESC_0603          111.0000     45.2000      360      27                
-R95        TopLayer RESC_0603          111.0000     73.1000      360      27                
-R93        TopLayer RESC_0603          111.0000     76.2000      360      27                
-R92        TopLayer RESC_0603          111.0000     79.3000      360      27                
-R90        TopLayer RESC_0603          111.0000     82.4000      360      27                
-R87        TopLayer RESC_0603          111.0000     85.5000      360      27                
-R85        TopLayer RESC_0603          111.0000     88.6000      360      27                
-R84        TopLayer RESC_0603          111.0000     91.7000      360      27                
-R82        TopLayer RESC_0603          111.0000     94.8000      360      27                
+R139       TopLayer RESC_0603          111.0000     4.9000       360      91                
+R138       TopLayer RESC_0603          111.0000     8.0000       360      91                
+R135       TopLayer RESC_0603          111.0000     11.1000      360      91                
+R133       TopLayer RESC_0603          111.0000     14.2000      360      91                
+R132       TopLayer RESC_0603          111.0000     17.3000      360      91                
+R130       TopLayer RESC_0603          111.0000     20.4000      360      91                
+R127       TopLayer RESC_0603          111.0000     48.3000      360      91                
+R125       TopLayer RESC_0603          111.0000     51.4000      360      91                
+R124       TopLayer RESC_0603          111.0000     54.5000      360      91                
+R122       TopLayer RESC_0603          111.0000     57.6000      360      91                
+R119       TopLayer RESC_0603          111.0000     60.7000      360      91                
+R117       TopLayer RESC_0603          111.0000     63.8000      360      91                
+R116       TopLayer RESC_0603          111.0000     66.9000      360      91                
+R114       TopLayer RESC_0603          111.0000     70.0000      360      91                
+R111       TopLayer RESC_0603          111.0000     23.5000      360      91                
+R109       TopLayer RESC_0603          111.0000     26.6000      360      91                
+R108       TopLayer RESC_0603          111.0000     29.7000      360      91                
+R106       TopLayer RESC_0603          111.0000     32.8000      360      91                
+R103       TopLayer RESC_0603          111.0000     35.9000      360      91                
+R101       TopLayer RESC_0603          111.0000     39.0000      360      91                
+R100       TopLayer RESC_0603          111.0000     42.1000      360      91                
+R98        TopLayer RESC_0603          111.0000     45.2000      360      91                
+R95        TopLayer RESC_0603          111.0000     73.1000      360      91                
+R93        TopLayer RESC_0603          111.0000     76.2000      360      91                
+R92        TopLayer RESC_0603          111.0000     79.3000      360      91                
+R90        TopLayer RESC_0603          111.0000     82.4000      360      91                
+R87        TopLayer RESC_0603          111.0000     85.5000      360      91                
+R85        TopLayer RESC_0603          111.0000     88.6000      360      91                
+R84        TopLayer RESC_0603          111.0000     91.7000      360      91                
+R82        TopLayer RESC_0603          111.0000     94.8000      360      91                
 R50        TopLayer RESC_0603          129.0000     7.9000       180      0                 
 R49        TopLayer RESC_0603          129.0000     10.4000      180      0                 
 R48        TopLayer RESC_0603          129.0000     12.9000      180      0                 

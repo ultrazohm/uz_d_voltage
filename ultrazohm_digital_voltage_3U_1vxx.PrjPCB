@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -73,7 +75,7 @@ DocumentUniqueId=
 
 [Document3]
 DocumentPath=TopSheet.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -90,7 +92,7 @@ DocumentUniqueId=GZATAJRJ
 
 [Document4]
 DocumentPath=SignalConditioning.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -107,7 +109,7 @@ DocumentUniqueId=ARYRFYXA
 
 [Document5]
 DocumentPath=3V3_to_5V.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -124,7 +126,7 @@ DocumentUniqueId=XMDJAHDX
 
 [Document6]
 DocumentPath=5V_to_15V.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -141,7 +143,7 @@ DocumentUniqueId=CZMKOSFZ
 
 [Document7]
 DocumentPath=SingleToDifferential.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -158,7 +160,7 @@ DocumentUniqueId=MPOMOCKR
 
 [Document8]
 DocumentPath=ONSEMI_MC14504BDR2G.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -175,7 +177,7 @@ DocumentUniqueId=CRWKSTOQ
 
 [Document9]
 DocumentPath=TI_DS26C31T.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -192,7 +194,7 @@ DocumentUniqueId=CZEYZCYT
 
 [Document10]
 DocumentPath=DifferentialToSingle.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -209,7 +211,7 @@ DocumentUniqueId=IBFDCRYL
 
 [Document11]
 DocumentPath=TI_DS26C32AT.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -226,7 +228,7 @@ DocumentUniqueId=SGGJXRBU
 
 [Document12]
 DocumentPath=SignalBundling.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -243,7 +245,7 @@ DocumentUniqueId=ICXBTLXG
 
 [Document13]
 DocumentPath=NetTieSingleAndDiff.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -260,7 +262,7 @@ DocumentUniqueId=EJUMDANP
 
 [Document14]
 DocumentPath=Jumper5VLS.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -277,7 +279,7 @@ DocumentUniqueId=QNBFPADJ
 
 [Document15]
 DocumentPath=TermSingleAndDiff.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -311,7 +313,7 @@ DocumentUniqueId=
 
 [Document17]
 DocumentPath=DigitalCarrierPlug.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -430,7 +432,7 @@ DocumentUniqueId=
 
 [Document24]
 DocumentPath=15V_PowerSupply.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -8831,6 +8833,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -9166,17 +9170,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=user.DbLib/Resistors - SMD
-ComponentDesignItemID0=RC0603JR-070RL
-ComponentSymbolReference0=Resistor
+ComponentLibraryIdentifier0=user.DbLib/Power Supply - Module
+ComponentDesignItemID0=R-78C15-1.0
+ComponentSymbolReference0=R-78C5.0-1.0
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=user.DbLib/Resistors - SMD
-ComponentDesignItemID1=RK73B1JTTDD562J
-ComponentSymbolReference1=Resistor
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=0
 UpdatePartIDLock=1
@@ -9220,24 +9218,26 @@ ParameterName13=Manufacturer Part Number
 ParameterUpdate13=1
 ParameterName14=Mounting Type
 ParameterUpdate14=1
-ParameterName15=PartID
+ParameterName15=Operating Temperature
 ParameterUpdate15=1
-ParameterName16=Stock number
+ParameterName16=PartID
 ParameterUpdate16=1
-ParameterName17=Supplier 1
+ParameterName17=Series
 ParameterUpdate17=1
-ParameterName18=Supplier Part Number 1
+ParameterName18=Stock number
 ParameterUpdate18=1
-ParameterName19=Tolerance
+ParameterName19=Supplier 1
 ParameterUpdate19=1
-ParameterName20=Type
+ParameterName20=Supplier Part Number 1
 ParameterUpdate20=1
-ParameterName21=Value
+ParameterName21=Type
 ParameterUpdate21=1
+ParameterName22=Value
+ParameterUpdate22=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=RES 0201_0603
+ModelName0=R78C1510
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -9247,12 +9247,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

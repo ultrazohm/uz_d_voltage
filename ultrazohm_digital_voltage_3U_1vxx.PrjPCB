@@ -75,7 +75,7 @@ DocumentUniqueId=
 
 [Document3]
 DocumentPath=TopSheet.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -92,7 +92,7 @@ DocumentUniqueId=GZATAJRJ
 
 [Document4]
 DocumentPath=SignalConditioning.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -109,7 +109,7 @@ DocumentUniqueId=ARYRFYXA
 
 [Document5]
 DocumentPath=3V3_to_5V.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -126,7 +126,7 @@ DocumentUniqueId=XMDJAHDX
 
 [Document6]
 DocumentPath=5V_to_15V.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -143,7 +143,7 @@ DocumentUniqueId=CZMKOSFZ
 
 [Document7]
 DocumentPath=SingleToDifferential.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -160,7 +160,7 @@ DocumentUniqueId=MPOMOCKR
 
 [Document8]
 DocumentPath=ONSEMI_MC14504BDR2G.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -177,7 +177,7 @@ DocumentUniqueId=CRWKSTOQ
 
 [Document9]
 DocumentPath=TI_DS26C31T.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -194,7 +194,7 @@ DocumentUniqueId=CZEYZCYT
 
 [Document10]
 DocumentPath=DifferentialToSingle.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -211,7 +211,7 @@ DocumentUniqueId=IBFDCRYL
 
 [Document11]
 DocumentPath=TI_DS26C32AT.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -228,7 +228,7 @@ DocumentUniqueId=SGGJXRBU
 
 [Document12]
 DocumentPath=SignalBundling.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -245,7 +245,7 @@ DocumentUniqueId=ICXBTLXG
 
 [Document13]
 DocumentPath=NetTieSingleAndDiff.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -261,7 +261,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EJUMDANP
 
 [Document14]
-DocumentPath=Jumper5VLS.SchDoc
+DocumentPath=Damper5VLS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -279,7 +279,7 @@ DocumentUniqueId=QNBFPADJ
 
 [Document15]
 DocumentPath=TermSingleAndDiff.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -313,7 +313,7 @@ DocumentUniqueId=
 
 [Document17]
 DocumentPath=DigitalCarrierPlug.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -330,7 +330,7 @@ DocumentUniqueId=BTJVYHKL
 
 [Document18]
 DocumentPath=TI_SN74LVCH16T245.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -432,7 +432,7 @@ DocumentUniqueId=
 
 [Document24]
 DocumentPath=15V_PowerSupply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -517,6 +517,40 @@ DocumentUniqueId=
 
 [Document29]
 DocumentPath=UltraZohm_DigitalVoltage_ActiveBom.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document30]
+DocumentPath=Jumper5VLS.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=21
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SBDXIMSN
+
+[Document31]
+DocumentPath=Damper5VLS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -8856,7 +8890,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=1
+SortOrder=0
 SortLocation=0
 ReplaceSubparts=0
 MatchParameter1=Comment

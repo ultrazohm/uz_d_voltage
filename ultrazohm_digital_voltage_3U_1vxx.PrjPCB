@@ -186,7 +186,7 @@ AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -261,7 +261,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EJUMDANP
 
 [Document14]
-DocumentPath=Damper5VLS.SchDoc
+DocumentPath=Snubber5VLS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -543,14 +543,14 @@ AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBDXIMSN
 
 [Document31]
-DocumentPath=Damper5VLS.Harness
+DocumentPath=Snubber5VLS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -7739,96 +7739,100 @@ DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.DRR
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\Design Rule Check - ultrazohm_digital_voltage_3U_1vxx.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.EXTREP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G1
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G2
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBL
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBO
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBS
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GM1
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTL
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTO
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTS
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.LDP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.REP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.RUL
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=2v01
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Wendt
-
-[Parameter3]
-Name=Date
-Value=11/2019
-
-[Parameter4]
-Name=FinDate
-Value=08/2020
-
-[Parameter5]
 Name=ProjectNameCustom
 Value=UltraZohm_DigitalVoltage
 
+[Parameter3]
+Name=FinDate
+Value=08/2020
+
+[Parameter4]
+Name=Date
+Value=11/2019
+
+[Parameter5]
+Name=AuthorParam
+Value=T. Wendt
+
 [Parameter6]
-Name=ProjectRevision
-Value=2v01
+Name=Author
+Value=T. Wendt
 
 [Configuration1]
 Name=Sources

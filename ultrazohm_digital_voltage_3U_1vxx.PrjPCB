@@ -7811,28 +7811,28 @@ DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=T. Wendt
+Name=ProjectRevision
+Value=3v00
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Wendt
-
-[Parameter3]
-Name=Date
-Value=11/2019
-
-[Parameter4]
-Name=FinDate
-Value=08/2020
-
-[Parameter5]
 Name=ProjectNameCustom
 Value=UltraZohm_DigitalVoltage
 
+[Parameter3]
+Name=FinDate
+Value=03/2021
+
+[Parameter4]
+Name=Date
+Value=11/2019
+
+[Parameter5]
+Name=AuthorParam
+Value=T. Wendt
+
 [Parameter6]
-Name=ProjectRevision
-Value=2v01
+Name=Author
+Value=T. Wendt
 
 [Configuration1]
 Name=Sources

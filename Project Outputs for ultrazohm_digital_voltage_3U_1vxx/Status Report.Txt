@@ -1,13 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 15:48:52 On 03.08.2020
+Start Output Generation At 13:52:33 On 05.03.2021
 
-Output: BOM_Template
-Type  : BOM
-From  : Project [ultrazohm_digital_voltage_3U_1vxx.PrjPCB]
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [ultrazohm_digital_voltage_3U_1vxx.PcbDoc]
+   Generated File[ultrazohm_digital_voltage_3U_1vxx.step]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:48:55 On 03.08.2020
+Finished Output Generation At 13:52:39 On 05.03.2021

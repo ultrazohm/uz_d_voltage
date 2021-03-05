@@ -1,0 +1,10 @@
+Output: PAP_UltraZohm_DigitalVoltage_RS422_IO
+Type  : Pick Place
+From  : Variant [RS422_input_output] of PCB Document [ultrazohm_digital_voltage_3U_1vxx.PcbDoc]
+   Generated File[PAP_UltraZohm_DigitalVoltage_RS422_input_output.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:58:38 On 05.03.2021

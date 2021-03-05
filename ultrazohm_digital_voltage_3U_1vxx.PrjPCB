@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -516,23 +516,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=UltraZohm_DigitalVoltage_ActiveBom.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document30]
 DocumentPath=Jumper5VLS.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -549,8 +532,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBDXIMSN
 
-[Document31]
+[Document30]
 DocumentPath=Snubber5VLS.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=ultrazohm_digital_voltage_3U_1vxx.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -610,7 +610,7 @@ Variation35=Designator=U2E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\EUJAAFBF|Kind=1
 Variation36=Designator=U2B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
 Variation37=Designator=U2C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
 Variation38=Designator=U2D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation39=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\YELHHYHC|Kind=1|AlternatePart= 
+Variation39=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\LQXAVVBG|Kind=1|AlternatePart= 
 Variation40=Designator=R2|UniqueId=\REEOQYYS\LOSHMCEA\WEBYHUVC|Kind=1|AlternatePart= 
 Variation41=Designator=R11|UniqueId=\XKGFRTLL|Kind=1|AlternatePart= 
 Variation42=Designator=C1A|UniqueId=\REEOQYYS\IIHAQJIS\SHYXJNDG\WDAFKEFO|Kind=1|AlternatePart= 
@@ -986,36 +986,36 @@ Variation13=Designator=U3A|UniqueId=\REEOQYYS\RCNQLQDX\INCUZBPZ\JDJRRXYP|Kind=1|
 Variation14=Designator=U3H|UniqueId=\REEOQYYS\RCNQLQDX\7KSSPJROG\JDJRRXYP|Kind=1|AlternatePart= 
 Variation15=Designator=U3C|UniqueId=\REEOQYYS\RCNQLQDX\2KSSPJROG\JDJRRXYP|Kind=1|AlternatePart= 
 Variation16=Designator=U3F|UniqueId=\REEOQYYS\RCNQLQDX\5KSSPJROG\JDJRRXYP|Kind=1|AlternatePart= 
-Variation17=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation18=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation19=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation20=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation21=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation22=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation23=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation24=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation25=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation26=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation27=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation28=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation29=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation30=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation31=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation32=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation33=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation34=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation35=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation36=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation37=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation38=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation39=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation40=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation41=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation42=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation43=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation44=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation45=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation46=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation17=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation18=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation19=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation20=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation21=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation22=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation23=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation24=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation25=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation26=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation27=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation28=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation29=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation30=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation31=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation32=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation33=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation34=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation35=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation36=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation37=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation38=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation39=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation40=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation41=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation42=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation43=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation44=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation45=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation46=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation47=Designator=D1|UniqueId=\QOZUDBYF|Kind=2|AlternatePart==Manufacturer Part Number|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Diodes - LED|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=19-217/GHC-YR1S2/3T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Diodes - LED|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=WL-SMCW_0603|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Manufacturer Part Number
 ParamDesignator1=D1
@@ -1211,42 +1211,42 @@ Variation22=Designator=U4E|UniqueId=\REEOQYYS\XIUNHJUM\5LEJWLXHK\BNNZRMYF|Kind=1
 Variation23=Designator=U4G|UniqueId=\REEOQYYS\XIUNHJUM\7LEJWLXHK\BNNZRMYF|Kind=1|AlternatePart= 
 Variation24=Designator=U4D|UniqueId=\REEOQYYS\XIUNHJUM\4TJHASFNK\BNNZRMYF|Kind=1|AlternatePart= 
 Variation25=Designator=U4H|UniqueId=\REEOQYYS\XIUNHJUM\XKEVRATB\BNNZRMYF|Kind=1|AlternatePart= 
-Variation26=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation27=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation28=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation29=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation30=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation31=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation32=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation33=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation34=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation35=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation36=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation37=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation38=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation39=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation40=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation41=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation42=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation43=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation44=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation45=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation46=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation47=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation48=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation49=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation26=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation27=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation28=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation29=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation30=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation31=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation32=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation33=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation34=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation35=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation36=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation37=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation38=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation39=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation40=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation41=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation42=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation43=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation44=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation45=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation46=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation47=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation48=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation49=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation50=Designator=U2C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation51=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation52=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation51=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation52=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation53=Designator=U2D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation54=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation55=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation56=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation54=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation55=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation56=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation57=Designator=U2B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation58=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation58=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation59=Designator=U2A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
 Variation60=Designator=U2E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation61=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\YELHHYHC|Kind=1|AlternatePart= 
+Variation61=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\LQXAVVBG|Kind=1|AlternatePart= 
 Variation62=Designator=D1|UniqueId=\QOZUDBYF|Kind=2|AlternatePart==Manufacturer Part Number|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Diodes - LED|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=KT-0603R|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Diodes - LED|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=WL-SMCW_0603|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Manufacturer Part Number
 ParamDesignator1=D1
@@ -1452,7 +1452,7 @@ ParamVariation66=ParameterName=Type|VariantValue=Resistor
 ParamDesignator66=R144
 ParamVariation67=ParameterName=Value|VariantValue=0R
 ParamDesignator67=R144
-Variation133=Designator=R173|UniqueId=\REEOQYYS\IIHAQJIS\AVJSKSXS\ZOLSQXNF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+Variation133=Designator=R173|UniqueId=\REEOQYYS\IIHAQJIS\AVJSKSXS\ECCIGZOH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
 ParamVariation68=ParameterName=Comment|VariantValue==Value
 ParamDesignator68=R173
 ParamVariation69=ParameterName=Component Kind|VariantValue=Standard
@@ -3371,42 +3371,42 @@ Variation22=Designator=C20|UniqueId=\ZBQJGYVP\TBIQUBLF|Kind=1|AlternatePart=
 Variation23=Designator=C19|UniqueId=\ZBQJGYVP\VAOUCKKV|Kind=1|AlternatePart= 
 Variation24=Designator=C18|UniqueId=\ZBQJGYVP\KZMWIADV|Kind=1|AlternatePart= 
 Variation25=Designator=C21|UniqueId=\ZBQJGYVP\ANCUPDAY|Kind=1|AlternatePart= 
-Variation26=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation27=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation28=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation29=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation30=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation31=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation32=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation33=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation34=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation35=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation36=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation37=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation38=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation39=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation40=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation41=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation42=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation43=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation44=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation45=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation46=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation47=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation48=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation49=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation26=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation27=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation28=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation29=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation30=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation31=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation32=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation33=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation34=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation35=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation36=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation37=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation38=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation39=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation40=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation41=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation42=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation43=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation44=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation45=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation46=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation47=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation48=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation49=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation50=Designator=U2C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation51=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation52=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation51=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation52=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation53=Designator=U2D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation54=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation55=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation56=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation54=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation55=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation56=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation57=Designator=U2B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation58=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
+Variation58=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
 Variation59=Designator=U2A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
 Variation60=Designator=U2E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\EUJAAFBF|Kind=1|AlternatePart= 
-Variation61=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\YELHHYHC|Kind=1|AlternatePart= 
+Variation61=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\LQXAVVBG|Kind=1|AlternatePart= 
 Variation62=Designator=D1|UniqueId=\QOZUDBYF|Kind=2|AlternatePart==Manufacturer Part Number|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Diodes - LED|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=19-213/Y2C-CQ2R2L/3T(CY)|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Diodes - LED|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=WL-SMCW_0603|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Manufacturer Part Number
 ParamDesignator1=D1
@@ -3612,7 +3612,7 @@ ParamVariation66=ParameterName=Type|VariantValue=Resistor
 ParamDesignator66=R144
 ParamVariation67=ParameterName=Value|VariantValue=0R
 ParamDesignator67=R144
-Variation133=Designator=R173|UniqueId=\REEOQYYS\IIHAQJIS\AVJSKSXS\ZOLSQXNF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+Variation133=Designator=R173|UniqueId=\REEOQYYS\IIHAQJIS\AVJSKSXS\ECCIGZOH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
 ParamVariation68=ParameterName=Comment|VariantValue==Value
 ParamDesignator68=R173
 ParamVariation69=ParameterName=Component Kind|VariantValue=Standard
@@ -5686,7 +5686,7 @@ Variation37=Designator=R99|UniqueId=\REEOQYYS\ZTJPEBVF\PYBQKPAX\TDRJYTDB|Kind=1|
 Variation38=Designator=R143|UniqueId=\REEOQYYS\IIHAQJIS\YFBTKBKR|Kind=1|AlternatePart= 
 Variation39=Designator=R142|UniqueId=\REEOQYYS\IIHAQJIS\MSYSWSNH|Kind=1|AlternatePart= 
 Variation40=Designator=R141|UniqueId=\REEOQYYS\IIHAQJIS\EHXFYBFM|Kind=1|AlternatePart= 
-Variation41=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\YELHHYHC|Kind=1|AlternatePart= 
+Variation41=Designator=U1|UniqueId=\REEOQYYS\IIHAQJIS\LQXAVVBG|Kind=1|AlternatePart= 
 Variation42=Designator=R144|UniqueId=\REEOQYYS\IIHAQJIS\AVJSKSXS\PYVPIEMT|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
 ParamVariation71=ParameterName=Comment|VariantValue==Value
 ParamDesignator71=R144
@@ -5752,7 +5752,7 @@ ParamVariation101=ParameterName=Type|VariantValue=Resistor
 ParamDesignator101=R144
 ParamVariation102=ParameterName=Value|VariantValue=0R
 ParamDesignator102=R144
-Variation43=Designator=R173|UniqueId=\REEOQYYS\IIHAQJIS\AVJSKSXS\ZOLSQXNF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+Variation43=Designator=R173|UniqueId=\REEOQYYS\IIHAQJIS\AVJSKSXS\ECCIGZOH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Thilo Wendt\Documents\altium\elsys_altium_db_lib\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
 ParamVariation103=ParameterName=Comment|VariantValue==Value
 ParamDesignator103=R173
 ParamVariation104=ParameterName=Component Kind|VariantValue=Standard
@@ -7648,36 +7648,36 @@ Variation79=Designator=C21|UniqueId=\ZBQJGYVP\ANCUPDAY|Kind=1|AlternatePart=
 Variation80=Designator=U5|UniqueId=\ZBQJGYVP\GUSUWQEH|Kind=1|AlternatePart= 
 Variation81=Designator=R15|UniqueId=\SJPPKVDQ\NNXWIJJU|Kind=1|AlternatePart= 
 Variation82=Designator=R2|UniqueId=\REEOQYYS\LOSHMCEA\WEBYHUVC|Kind=1|AlternatePart= 
-Variation83=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation84=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation85=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation86=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation87=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PUNAQEWE|Kind=1|AlternatePart= 
-Variation88=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation89=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation90=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation91=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation92=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\KSPWMXDE|Kind=1|AlternatePart= 
-Variation93=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation94=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation95=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation96=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation97=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\CBZEMVDG|Kind=1|AlternatePart= 
-Variation98=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation99=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation100=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation101=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation102=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\BIIIMWQU|Kind=1|AlternatePart= 
-Variation103=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation104=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation105=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation106=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation107=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\SFGRXHNB|Kind=1|AlternatePart= 
-Variation108=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation109=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation110=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation111=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
-Variation112=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\XNWSMGIW|Kind=1|AlternatePart= 
+Variation83=Designator=R8E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation84=Designator=R8D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation85=Designator=R8C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation86=Designator=R8B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation87=Designator=R8A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\UYJMTQXC|Kind=1|AlternatePart= 
+Variation88=Designator=R7E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation89=Designator=R7D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation90=Designator=R7C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation91=Designator=R7B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation92=Designator=R7A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\JABMBCXJ|Kind=1|AlternatePart= 
+Variation93=Designator=R6E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation94=Designator=R6D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation95=Designator=R6C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation96=Designator=R6B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation97=Designator=R6A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\MDVHFRQF|Kind=1|AlternatePart= 
+Variation98=Designator=R5E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation99=Designator=R5D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation100=Designator=R5C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation101=Designator=R5B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation102=Designator=R5A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\PYGEEYXS|Kind=1|AlternatePart= 
+Variation103=Designator=R4E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation104=Designator=R4D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation105=Designator=R4C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation106=Designator=R4B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation107=Designator=R4A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\QLMKRHAA|Kind=1|AlternatePart= 
+Variation108=Designator=R3E|UniqueId=\REEOQYYS\LOSHMCEA\5DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation109=Designator=R3D|UniqueId=\REEOQYYS\LOSHMCEA\4DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation110=Designator=R3C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation111=Designator=R3B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
+Variation112=Designator=R3A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\RTDZHTZE|Kind=1|AlternatePart= 
 Variation113=Designator=C23C|UniqueId=\REEOQYYS\LOSHMCEA\3DEFTBZMN\TTOPKFSJ|Kind=1|AlternatePart= 
 Variation114=Designator=C23B|UniqueId=\REEOQYYS\LOSHMCEA\2DEFTBZMN\TTOPKFSJ|Kind=1|AlternatePart= 
 Variation115=Designator=C23A|UniqueId=\REEOQYYS\LOSHMCEA\1DEFTBZMN\TTOPKFSJ|Kind=1|AlternatePart= 
@@ -7762,83 +7762,187 @@ DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xls
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_RS422_input_output.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xlsx
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xls
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\Design Rule Check - ultrazohm_digital_voltage_3U_1vxx.html
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.DRR
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\Design Rule Check - ultrazohm_digital_voltage_3U_1vxx.html
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.EXTREP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_3V3_IO.csv
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G1
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_5V_IO.csv
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G2
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_15V_output.csv
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBL
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_RS422_output.csv
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBO
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_RS422_input_output.csv
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_RS422_to_3V3_input.csv
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBS
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\ExportSTEP\STEP3D_UltraZohm_DigitalVoltage.step
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GM1
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTL
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTO
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTS
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G1
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.LDP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.G1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.REP
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G2
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.RUL
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.G2
 DItemRevisionGUID=
 
 [GeneratedDocument28]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.REP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.REP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\ExportSTEP\ultrazohm_digital_voltage_3U_1vxx.step
+DItemRevisionGUID=
+
+[GeneratedDocument53]
 DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.TXT
 DItemRevisionGUID=
 
 [Parameter1]
@@ -8018,7 +8122,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -8575,6 +8679,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

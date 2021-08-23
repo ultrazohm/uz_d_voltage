@@ -1,4 +1,4 @@
-ï»¿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=1
@@ -23,13 +23,11 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=1
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -696,7 +694,7 @@ ParamVariation23=ParameterName=Mounting Type|VariantValue=SMD
 ParamDesignator23=D1
 ParamVariation24=ParameterName=Nominal Power|VariantValue=40 mW
 ParamDesignator24=D1
-ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 Â°C
+ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 °C
 ParamDesignator25=D1
 ParamVariation26=ParameterName=PartID|VariantValue=10
 ParamDesignator26=D1
@@ -844,7 +842,7 @@ ParamVariation23=ParameterName=Mounting Type|VariantValue=SMD
 ParamDesignator23=D1
 ParamVariation24=ParameterName=Nominal Power|VariantValue=68 mW
 ParamDesignator24=D1
-ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 Â°C
+ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 °C
 ParamDesignator25=D1
 ParamVariation26=ParameterName=PartID|VariantValue=6
 ParamDesignator26=D1
@@ -1065,7 +1063,7 @@ ParamVariation23=ParameterName=Mounting Type|VariantValue=SMD
 ParamDesignator23=D1
 ParamVariation24=ParameterName=Nominal Power|VariantValue=83 mW
 ParamDesignator24=D1
-ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 Â°C
+ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 °C
 ParamDesignator25=D1
 ParamVariation26=ParameterName=PartID|VariantValue=7
 ParamDesignator26=D1
@@ -1296,7 +1294,7 @@ ParamVariation23=ParameterName=Mounting Type|VariantValue=SMD
 ParamDesignator23=D1
 ParamVariation24=ParameterName=Nominal Power|VariantValue=42 mW
 ParamDesignator24=D1
-ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 Â°C
+ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 °C
 ParamDesignator25=D1
 ParamVariation26=ParameterName=PartID|VariantValue=8
 ParamDesignator26=D1
@@ -3456,7 +3454,7 @@ ParamVariation23=ParameterName=Mounting Type|VariantValue=SMD
 ParamDesignator23=D1
 ParamVariation24=ParameterName=Nominal Power|VariantValue=40 mW
 ParamDesignator24=D1
-ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 Â°C
+ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 °C
 ParamDesignator25=D1
 ParamVariation26=ParameterName=PartID|VariantValue=9
 ParamDesignator26=D1
@@ -5555,7 +5553,7 @@ ParamVariation23=ParameterName=Mounting Type|VariantValue=SMD
 ParamDesignator23=D1
 ParamVariation24=ParameterName=Nominal Power|VariantValue=42 mW
 ParamDesignator24=D1
-ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 Â°C
+ParamVariation25=ParameterName=Operating Temperature|VariantValue=-40 - 85 °C
 ParamDesignator25=D1
 ParamVariation26=ParameterName=PartID|VariantValue=8
 ParamDesignator26=D1
@@ -5626,7 +5624,7 @@ ParamVariation58=ParameterName=Mounting Type|VariantValue=SMD
 ParamDesignator58=D2
 ParamVariation59=ParameterName=Nominal Power|VariantValue=40 mW
 ParamDesignator59=D2
-ParamVariation60=ParameterName=Operating Temperature|VariantValue=-40 - 85 Â°C
+ParamVariation60=ParameterName=Operating Temperature|VariantValue=-40 - 85 °C
 ParamDesignator60=D2
 ParamVariation61=ParameterName=PartID|VariantValue=9
 ParamDesignator61=D2
@@ -7729,293 +7727,13 @@ Variation160=Designator=C6A|UniqueId=\REEOQYYS\XIUNHJUM\1TJHASFNK\BOORCROJ|Kind=
 Variation161=Designator=R12|UniqueId=\REEOQYYS\LOSHMCEA\CNZEAWLS|Kind=1|AlternatePart= 
 ParamVariationCount=1030
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_3V3_IO.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_3V3_IO.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_5V_IO.xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_5V_IO.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_15V_output.xls
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_15V_output.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_RS422_output.xls
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_3V3_to_RS422_output.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_RS422_input_output.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\BOM\BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xls
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\BOM\BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\Design Rule Check - ultrazohm_digital_voltage_3U_1vxx.html
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_3V3_IO.csv
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_5V_IO.csv
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_15V_output.csv
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_3V3_to_RS422_output.csv
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_RS422_input_output.csv
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\PickAndPlace\PAP_UltraZohm_DigitalVoltage_RS422_to_3V3_input.csv
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\ExportSTEP\STEP3D_UltraZohm_DigitalVoltage.step
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G1
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.G1
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.G2
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.G2
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.REP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.REP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\Gerber\ultrazohm_digital_voltage_3U_1vxx.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\2v01\NC Drill\ultrazohm_digital_voltage_3U_1vxx.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\Production\ultrazohm_digital_voltage_3U_1vxx.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.G1
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.G2
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.REP
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Project Outputs for UZ_D_Voltage\Rev04\Production\UZ_D_Voltage.TXT
-DItemRevisionGUID=
-
 [Parameter1]
 Name=ProjectRevision
 Value=Rev04
 
 [Parameter2]
 Name=ProjectNameCustom
-Value=UltraZohm_DigitalVoltage
+Value=UZ_D_Voltage
 
 [Parameter3]
 Name=FinDate
@@ -8191,7 +7909,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -8293,42 +8011,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -8397,17 +8085,11 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -8429,7 +8111,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -8509,7 +8191,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -8564,7 +8246,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -8668,11 +8350,83 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=Text Print
+OutputName18=Text Print
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=Text Print
+OutputName19=Text Print
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=Text Print
+OutputName20=Text Print
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType21=Text Print
+OutputName21=Text Print
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType22=Text Print
+OutputName22=Text Print
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType23=Text Print
+OutputName23=Text Print
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType24=Text Print
+OutputName24=Text Print
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType25=Text Print
+OutputName25=Text Print
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType26=Text Print
+OutputName26=Text Print
+OutputDocumentPath26=
+OutputVariantName26=
+OutputDefault26=0
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType27=Text Print
+OutputName27=Text Print
+OutputDocumentPath27=
+OutputVariantName27=
+OutputDefault27=0
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType28=Text Print
+OutputName28=Text Print
+OutputDocumentPath28=
+OutputVariantName28=
+OutputDefault28=0
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType29=Text Print
+OutputName29=Text Print
+OutputDocumentPath29=
+OutputVariantName29=
+OutputDefault29=0
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -8716,7 +8470,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -8773,41 +8527,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -8933,8 +8657,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -9003,8 +8725,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -9129,9 +8849,6 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
-Type123=1
-Type124=1
-Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -9155,7 +8872,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=0
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -9464,7 +9180,6 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=1
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=user.DbLib/Resistors - SMD
@@ -9571,7 +9286,6 @@ ModelUpdate1=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=user.DbLib/Annotation
@@ -9719,12 +9433,12 @@ ComponentUpdate23=0
 ComponentIsDeviceSheet23=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

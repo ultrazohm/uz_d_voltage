@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=documentation.OutJob
+Name=
 Description=
-TargetOutputMedium=Pick_and_Place
+TargetOutputMedium=Gerber_and_Drill_Files
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=HP Photosmart C7200 series
+TargetPrinter=OKI B432(PS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -152,7 +152,7 @@ OutputName6=Gerber Files
 OutputCategory6=Fabrication
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -169,7 +169,7 @@ OutputName7=NC Drill Files
 OutputCategory7=Fabrication
 OutputDocumentPath7=
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=0
@@ -662,7 +662,7 @@ Configuration24_Item8=Line #=100|Comment=100|Description=100|Designator=100|Manu
 OutputType25=PCBDrawing
 OutputName25=DFT_UltraZohm_Digital_Voltage_Draftsman
 OutputCategory25=Documentation
-OutputDocumentPath25=UltraZohm_DigitalVoltage_Draftsman.PCBDwf
+OutputDocumentPath25=UZ_D_Voltage.PCBDwf
 OutputVariantName25=
 OutputEnabled25=0
 OutputEnabled25_OutputMedium1=0
@@ -712,7 +712,7 @@ OutputName27=PAP_UltraZohm_DigitalVoltage_3V3_to_3V3
 OutputCategory27=Assembly
 OutputDocumentPath27=
 OutputVariantName27=3V3_to_3V3_IO
-OutputEnabled27=1
+OutputEnabled27=0
 OutputEnabled27_OutputMedium1=0
 OutputEnabled27_OutputMedium2=0
 OutputEnabled27_OutputMedium3=0
@@ -729,7 +729,7 @@ OutputName28=PAP_UltraZohm_DigitalVoltage_3V3_to_5V
 OutputCategory28=Assembly
 OutputDocumentPath28=
 OutputVariantName28=3V3_to_5V_IO
-OutputEnabled28=1
+OutputEnabled28=0
 OutputEnabled28_OutputMedium1=0
 OutputEnabled28_OutputMedium2=0
 OutputEnabled28_OutputMedium3=0
@@ -746,7 +746,7 @@ OutputName29=PAP_UltraZohm_DigitalVoltage_3V3_to_15V
 OutputCategory29=Assembly
 OutputDocumentPath29=
 OutputVariantName29=3V3_to_15V_output
-OutputEnabled29=1
+OutputEnabled29=0
 OutputEnabled29_OutputMedium1=0
 OutputEnabled29_OutputMedium2=0
 OutputEnabled29_OutputMedium3=0
@@ -763,7 +763,7 @@ OutputName30=PAP_UltraZohm_DigitalVoltage_3V3_to_RS422
 OutputCategory30=Assembly
 OutputDocumentPath30=
 OutputVariantName30=3V3_to_RS422_output
-OutputEnabled30=1
+OutputEnabled30=0
 OutputEnabled30_OutputMedium1=0
 OutputEnabled30_OutputMedium2=0
 OutputEnabled30_OutputMedium3=0
@@ -780,7 +780,7 @@ OutputName31=PAP_UltraZohm_DigitalVoltage_RS422_to_3V3
 OutputCategory31=Assembly
 OutputDocumentPath31=
 OutputVariantName31=RS422_to_3V3_input
-OutputEnabled31=1
+OutputEnabled31=0
 OutputEnabled31_OutputMedium1=0
 OutputEnabled31_OutputMedium2=0
 OutputEnabled31_OutputMedium3=0
@@ -797,7 +797,7 @@ OutputName32=PAP_UltraZohm_DigitalVoltage_RS422_IO
 OutputCategory32=Assembly
 OutputDocumentPath32=
 OutputVariantName32=RS422_input_output
-OutputEnabled32=1
+OutputEnabled32=0
 OutputEnabled32_OutputMedium1=0
 OutputEnabled32_OutputMedium2=0
 OutputEnabled32_OutputMedium3=0
@@ -813,7 +813,7 @@ Configuration32_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|G
 [PublishSettings]
 OutputFilePath2=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
+OutputBasePath2=Project Outputs for UZ_D_Voltage
 OutputPathMedia2==ProjectRevision
 OutputPathMediaValue2==ProjectRevision
 OutputPathOutputer2=[Output Custom]
@@ -840,7 +840,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
+OutputBasePath3=Project Outputs for UZ_D_Voltage
 OutputPathMedia3==ProjectRevision
 OutputPathMediaValue3==ProjectRevision
 OutputPathOutputer3=[Output Custom]
@@ -867,7 +867,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
+OutputBasePath4=Project Outputs for UZ_D_Voltage
 OutputPathMedia4==ProjectRevision
 OutputPathMediaValue4==ProjectRevision
 OutputPathOutputer4=[Output Custom]
@@ -892,9 +892,9 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+OutputFilePath5=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
+OutputBasePath5=Project Outputs for UZ_D_Voltage
 OutputPathMedia5==ProjectRevision
 OutputPathMediaValue5==ProjectRevision
 OutputPathOutputer5=[Output Type]
@@ -905,9 +905,9 @@ OutputFileNameMulti5=='STEP3D_' + ProjectNameCustom
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=0
-OutputFilePath6=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+OutputFilePath6=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
+OutputBasePath6=Project Outputs for UZ_D_Voltage
 OutputPathMedia6==ProjectRevision
 OutputPathMediaValue6==ProjectRevision
 OutputPathOutputer6=[Output Type]
@@ -918,9 +918,9 @@ OutputFileNameMulti6=='BOM_'+ProjectNameCustom+'_'+VariantName
 UseOutputNameForMulti6=0
 OutputFileNameSpecial6=
 OpenOutput6=1
-OutputFilePath7=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+OutputFilePath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
+OutputBasePath7=Project Outputs for UZ_D_Voltage
 OutputPathMedia7==ProjectRevision
 OutputPathMediaValue7==ProjectRevision
 OutputPathOutputer7=[Output Custom]
@@ -931,9 +931,9 @@ OutputFileNameMulti7=
 UseOutputNameForMulti7=1
 OutputFileNameSpecial7=
 OpenOutput7=0
-OutputFilePath8=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+OutputFilePath8=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 ReleaseManaged8=1
-OutputBasePath8=Project Outputs for ultrazohm_digital_voltage_3U_1vxx
+OutputBasePath8=Project Outputs for UZ_D_Voltage
 OutputPathMedia8==ProjectRevision
 OutputPathMediaValue8==ProjectRevision
 OutputPathOutputer8=[Output Custom]
@@ -952,9 +952,9 @@ RelativeOutputPath3=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_volt
 OpenOutputs3=0
 RelativeOutputPath4=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
 OpenOutputs4=0
-RelativeOutputPath5=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+RelativeOutputPath5=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 OpenOutputs5=0
-AddToProject5=1
+AddToProject5=0
 TimestampFolder5=0
 UseOutputName5=0
 OpenODBOutput5=0
@@ -962,9 +962,9 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+RelativeOutputPath6=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 OpenOutputs6=1
-AddToProject6=1
+AddToProject6=0
 TimestampFolder6=0
 UseOutputName6=0
 OpenODBOutput6=0
@@ -972,9 +972,9 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+RelativeOutputPath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 OpenOutputs7=0
-AddToProject7=1
+AddToProject7=0
 TimestampFolder7=0
 UseOutputName7=0
 OpenODBOutput7=0
@@ -982,9 +982,9 @@ OpenGerberOutput7=0
 OpenNCDrillOutput7=0
 OpenIPCOutput7=0
 EnableReload7=0
-RelativeOutputPath8=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
+RelativeOutputPath8=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
 OpenOutputs8=1
-AddToProject8=1
+AddToProject8=0
 TimestampFolder8=0
 UseOutputName8=0
 OpenODBOutput8=0

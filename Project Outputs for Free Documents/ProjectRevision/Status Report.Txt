@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:55:50 On 25.08.2021
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [UZ_D_Voltage.PcbDoc]
+   Generated File[STEP3D_ProjectNameCustom.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:55:56 On 25.08.2021

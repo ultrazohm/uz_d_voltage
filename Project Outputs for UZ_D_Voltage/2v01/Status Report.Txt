@@ -1,0 +1,11 @@
+Output: BOM_UltraZohm_Digital_Voltage_RS422_input
+Type  : BOM
+From  : Variant [RS422_to_3V3_input] of BOM Document [UltraZohm_DigitalVoltage_ActiveBom.BomDoc]
+   Generated File[BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xls]
+   Generated File[BOM_UltraZohm_DigitalVoltage_RS422_to_3V3_input.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:09:53 On 06.08.2020

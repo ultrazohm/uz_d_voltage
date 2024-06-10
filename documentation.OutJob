@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=documentation.OutJob
 Description=
 TargetOutputMedium=Gerber_and_Drill_Files
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=OKI B432(PS)
+TargetPrinter=4505ci
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -510,7 +510,7 @@ OutputEnabled20_OutputMedium2=0
 OutputEnabled20_OutputMedium3=0
 OutputEnabled20_OutputMedium4=0
 OutputEnabled20_OutputMedium5=0
-OutputEnabled20_OutputMedium6=1
+OutputEnabled20_OutputMedium6=7
 OutputEnabled20_OutputMedium7=0
 OutputEnabled20_OutputMedium8=0
 OutputDefault20=0
@@ -542,7 +542,7 @@ OutputEnabled21_OutputMedium2=0
 OutputEnabled21_OutputMedium3=0
 OutputEnabled21_OutputMedium4=0
 OutputEnabled21_OutputMedium5=0
-OutputEnabled21_OutputMedium6=2
+OutputEnabled21_OutputMedium6=6
 OutputEnabled21_OutputMedium7=0
 OutputEnabled21_OutputMedium8=0
 OutputDefault21=0
@@ -574,7 +574,7 @@ OutputEnabled22_OutputMedium2=0
 OutputEnabled22_OutputMedium3=0
 OutputEnabled22_OutputMedium4=0
 OutputEnabled22_OutputMedium5=0
-OutputEnabled22_OutputMedium6=3
+OutputEnabled22_OutputMedium6=5
 OutputEnabled22_OutputMedium7=0
 OutputEnabled22_OutputMedium8=0
 OutputDefault22=0
@@ -638,7 +638,7 @@ OutputEnabled24_OutputMedium2=0
 OutputEnabled24_OutputMedium3=0
 OutputEnabled24_OutputMedium4=0
 OutputEnabled24_OutputMedium5=0
-OutputEnabled24_OutputMedium6=5
+OutputEnabled24_OutputMedium6=3
 OutputEnabled24_OutputMedium7=0
 OutputEnabled24_OutputMedium8=0
 OutputDefault24=0
@@ -686,7 +686,7 @@ OutputEnabled26_OutputMedium2=0
 OutputEnabled26_OutputMedium3=0
 OutputEnabled26_OutputMedium4=0
 OutputEnabled26_OutputMedium5=0
-OutputEnabled26_OutputMedium6=6
+OutputEnabled26_OutputMedium6=2
 OutputEnabled26_OutputMedium7=0
 OutputEnabled26_OutputMedium8=0
 OutputDefault26=0
@@ -809,6 +809,53 @@ OutputEnabled32_OutputMedium8=6
 OutputDefault32=0
 Configuration32_Name1=OutputConfigurationParameter1
 Configuration32_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=True|IncludeVariations=False|Filter=(ComponentKind = 'Standard')|FilterActive=True|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:43|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:44|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:Ascending,SortIndex:0,Position:1|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:10|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:11|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:8|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:13|Column#17=Name:MPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#18=Name:Emitting Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#19=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#20=Name:Peak Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#21=Name:Supplier Part Number 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#22=Name:Created,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#23=Name:Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#24=Name:Luminous Intensity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#25=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#26=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#27=Name:Viewing Angle,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#28=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#29=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#30=Name:Forward Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#31=Name:Rated Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#32=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#33=Name:Supplier 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#34=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#35=Name:Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#36=Name:Supplier 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#37=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#38=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:15|Column#39=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#40=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#41=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#42=Name:Published Date,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#43=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:14|Column#44=Name:Dominant Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#45=Name:Supplier Part Number 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#46=Name:LatestRevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#47=Name:Foreward Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#48=Name:Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#49=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#50=Name:Case-EIA,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#51=Name:Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#52=Name:Case-Metric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#53=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#54=Name:Max Thickness,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#55=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#56=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#57=Name:fSW,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#58=Name:Case_EIA,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#59=Name:Current rated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#60=Name:LCSC Part #,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|DocumentPath=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_Optical_18Tx_14Tx4Rx\Digital_Optical_18Tx_14Tx4Rx.PcbDoc
+OutputType33=BOM_PartType
+OutputName33=BOM_UltraZohm_Digital_Voltage
+OutputCategory33=Report
+OutputDocumentPath33=[ActiveBOM Document]
+OutputVariantName33=RS422_SKAI3_48V_Inverter
+OutputEnabled33=0
+OutputEnabled33_OutputMedium1=0
+OutputEnabled33_OutputMedium2=0
+OutputEnabled33_OutputMedium3=0
+OutputEnabled33_OutputMedium4=0
+OutputEnabled33_OutputMedium5=0
+OutputEnabled33_OutputMedium6=1
+OutputEnabled33_OutputMedium7=0
+OutputEnabled33_OutputMedium8=0
+OutputDefault33=0
+PageOptions33=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration33_Name1=ColumnNameFormat
+Configuration33_Item1=CaptionAsName
+Configuration33_Name2=General
+Configuration33_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration33_Name3=GroupOrder
+Configuration33_Item3=
+Configuration33_Name4=VisibleOrder
+Configuration33_Item4=Comment=116|Designator=80|Footprint=72|LCSC Part Number=115|Device Package=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142
+Configuration33_Name5=VisibleOrder_Base
+Configuration33_Item5=Comment=116|Designator=80|Footprint=72|LCSC Part Number=115|Device Package=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142
+Configuration33_Name6=VisibleOrder_Consolidated
+Configuration33_Item6=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Quantity@3V3_to_3V3_IO=100|Price@3V3_to_3V3_IO=100|Quantity@3V3_to_5V_IO=100|Price@3V3_to_5V_IO=100|Quantity@3V3_to_15V_output=100|Price@3V3_to_15V_output=100|Quantity@3V3_to_RS422_output=100|Price@3V3_to_RS422_output=100|Quantity@RS422_to_3V3_input=100|Price@RS422_to_3V3_input=100|Quantity@RS422_input_output=100|Price@RS422_input_output=100
+Configuration33_Name7=VisibleOrder_Flat
+Configuration33_Item7=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+OutputType34=Pick Place
+OutputName34=PAP_UltraZohm_DigitalVoltage_RS422_SKAI3_48V_Inverter
+OutputCategory34=Assembly
+OutputDocumentPath34=
+OutputVariantName34=RS422_SKAI3_48V_Inverter
+OutputEnabled34=0
+OutputEnabled34_OutputMedium1=0
+OutputEnabled34_OutputMedium2=0
+OutputEnabled34_OutputMedium3=0
+OutputEnabled34_OutputMedium4=0
+OutputEnabled34_OutputMedium5=0
+OutputEnabled34_OutputMedium6=0
+OutputEnabled34_OutputMedium7=0
+OutputEnabled34_OutputMedium8=7
+OutputDefault34=0
+Configuration34_Name1=OutputConfigurationParameter1
+Configuration34_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=True|IncludeVariations=False|Filter=(ComponentKind = 'Standard')|FilterActive=True|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:43|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:44|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:Ascending,SortIndex:0,Position:1|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:10|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:11|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:8|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:13|Column#17=Name:MPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#18=Name:Emitting Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#19=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#20=Name:Peak Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#21=Name:Supplier Part Number 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#22=Name:Created,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#23=Name:Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#24=Name:Luminous Intensity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#25=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#26=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#27=Name:Viewing Angle,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#28=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#29=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#30=Name:Forward Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#31=Name:Rated Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#32=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#33=Name:Supplier 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#34=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#35=Name:Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#36=Name:Supplier 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#37=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#38=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:15|Column#39=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#40=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#41=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#42=Name:Published Date,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#43=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:14|Column#44=Name:Dominant Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#45=Name:Supplier Part Number 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#46=Name:LatestRevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#47=Name:Foreward Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#48=Name:Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#49=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#50=Name:Case-EIA,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#51=Name:Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#52=Name:Case-Metric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#53=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#54=Name:Max Thickness,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#55=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#56=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#57=Name:fSW,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#58=Name:Case_EIA,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#59=Name:Current rated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#60=Name:LCSC Part #,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|DocumentPath=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_Optical_18Tx_14Tx4Rx\Digital_Optical_18Tx_14Tx4Rx.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=C:\Users\Thilo Wendt\Documents\altium\ultrazohm_digital_voltage_3u_1vxx\Project Outputs for ultrazohm_digital_voltage_3U_1vxx\3v00\
@@ -905,7 +952,7 @@ OutputFileNameMulti5=='STEP3D_' + ProjectNameCustom
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=0
-OutputFilePath6=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
+OutputFilePath6=E:\UltraZohm\uz_d_voltage\Project Outputs for UZ_D_Voltage\Rev04\
 ReleaseManaged6=1
 OutputBasePath6=Project Outputs for UZ_D_Voltage
 OutputPathMedia6==ProjectRevision
@@ -918,7 +965,7 @@ OutputFileNameMulti6=='BOM_'+ProjectNameCustom+'_'+VariantName
 UseOutputNameForMulti6=0
 OutputFileNameSpecial6=
 OpenOutput6=1
-OutputFilePath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
+OutputFilePath7=E:\UltraZohm\uz_d_voltage\Project Outputs for UZ_D_Voltage\Rev04\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for UZ_D_Voltage
 OutputPathMedia7==ProjectRevision
@@ -931,7 +978,7 @@ OutputFileNameMulti7=
 UseOutputNameForMulti7=1
 OutputFileNameSpecial7=
 OpenOutput7=0
-OutputFilePath8=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
+OutputFilePath8=E:\UltraZohm\uz_d_voltage\Project Outputs for UZ_D_Voltage\Rev04\
 ReleaseManaged8=1
 OutputBasePath8=Project Outputs for UZ_D_Voltage
 OutputPathMedia8==ProjectRevision
@@ -962,7 +1009,7 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
+RelativeOutputPath6=E:\UltraZohm\uz_d_voltage\Project Outputs for UZ_D_Voltage\Rev04\
 OpenOutputs6=1
 AddToProject6=0
 TimestampFolder6=0
@@ -972,7 +1019,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
+RelativeOutputPath7=E:\UltraZohm\uz_d_voltage\Project Outputs for UZ_D_Voltage\Rev04\
 OpenOutputs7=0
 AddToProject7=0
 TimestampFolder7=0
@@ -982,7 +1029,7 @@ OpenGerberOutput7=0
 OpenNCDrillOutput7=0
 OpenIPCOutput7=0
 EnableReload7=0
-RelativeOutputPath8=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_voltage_3U\Project Outputs for UZ_D_Voltage\Rev04\
+RelativeOutputPath8=E:\UltraZohm\uz_d_voltage\Project Outputs for UZ_D_Voltage\Rev04\
 OpenOutputs8=1
 AddToProject8=0
 TimestampFolder8=0

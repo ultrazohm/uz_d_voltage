@@ -1,10 +1,12 @@
-Output: PAP_UltraZohm_DigitalVoltage_RS422_IO
-Type  : Pick Place
-From  : Variant [RS422_input_output] of PCB Document [UZ_D_Voltage.PcbDoc]
-   Generated File[PAP_UZ_D_Voltage_RS422_input_output.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UZ_D_Voltage.PcbDoc]
+   Generated File[UZ_D_Voltage.TXT]
+   Generated File[UZ_D_Voltage.LDP]
+   Generated File[UZ_D_Voltage.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 12:55:36 On 25.08.2021
+Finished Output Generation At 09:07:11 On 10.06.2024

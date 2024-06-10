@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: UZ_D_Voltage.PcbDoc   25.08.2021  12:54:18
+NCDrill File Report For: UZ_D_Voltage.PcbDoc   10.06.2024  09:07:11
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,9 @@ ASCII RoundHoles File : UZ_D_Voltage.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             618       PTH        0.00inch (0.00mm)
-T2      40mil (1.016mm)                                           Round             80        PTH        0.00inch (0.00mm)
-T3      41mil (1.05mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             618       PTH        91.67inch (2328.46mm)
+T2      40mil (1.016mm)                                           Round             80        PTH        24.22inch (615.29mm)
+T3      41mil (1.05mm)                                            Round             3         PTH        0.20inch (5.08mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              701
 

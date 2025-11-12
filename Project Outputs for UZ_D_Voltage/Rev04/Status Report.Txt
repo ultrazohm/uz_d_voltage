@@ -1,10 +1,10 @@
-Output: PAP_UltraZohm_DigitalVoltage_RS422_IO
-Type  : Pick Place
-From  : Variant [RS422_input_output] of PCB Document [UZ_D_Voltage.PcbDoc]
-   Generated File[PAP_UZ_D_Voltage_RS422_input_output.csv]
+Output: BOM_JLC
+Type  : BOM
+From  : Variant [3V3_to_RS422_output] of Project [UZ_D_Voltage.PrjPCB]
+   Generated File[BOM_JLC-UZ_D_Voltage(3V3_to_RS422_output).xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:55:36 On 25.08.2021
+Finished Output Generation At 15:52:57 On 12.11.2025
